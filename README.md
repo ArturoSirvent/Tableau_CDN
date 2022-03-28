@@ -16,8 +16,14 @@ https://www.reddit.com/r/datasets/comments/nw16vz/cars_for_sale_on_germany_from_
 Ken Jee YouTube Data 2017-2022:
 https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data?select=Video_Performance_Over_Time.csv
 
-Ventas de un supermercado enero 2019 - marzo 2019: 
+Ventas de un supermercado enero 2019 - marzo 2019:   
 https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+
+
+Precio de los aguacates (2015-2020):  
+https://www.kaggle.com/code/gatsbywu/avocado-pricing-regression/notebook
+
+
 
 
 
