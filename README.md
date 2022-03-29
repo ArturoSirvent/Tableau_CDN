@@ -24,6 +24,14 @@ Precio de los aguacates (2015-2020):
 https://www.kaggle.com/code/gatsbywu/avocado-pricing-regression/notebook
 
 
+Precio del oro:  
+https://www.kaggle.com/datasets/hemil26/gold-rates-1985-jan-2022  
+
+Daily LockDown countries:  
+https://www.reddit.com/r/datasets/comments/qrlj1l/daily_number_of_locked_down_countries/  
+
+Stocks market data:  
+https://www.reddit.com/r/datasets/comments/qwkpkx/i_created_an_autoupdating_kaggle_dataset_that/
 
 
 
