@@ -1,0 +1,3961 @@
+"","Area","Year","ACultivo_ha","Produccion_Tonel","Cantidad_importada","Cantidad_exportada"
+"1","Argentina",1961,NA,2000,NA,NA
+"2","Argentina",1962,NA,3000,NA,NA
+"3","Argentina",1963,NA,2900,NA,NA
+"4","Argentina",1964,NA,3030,NA,NA
+"5","Argentina",1965,NA,3520,NA,NA
+"6","Argentina",1966,NA,4213,NA,NA
+"7","Argentina",1967,NA,4293,NA,NA
+"8","Argentina",1968,NA,10525,NA,NA
+"9","Argentina",1969,NA,11100,NA,NA
+"10","Argentina",1970,NA,9150,NA,NA
+"11","Argentina",1971,NA,9100,NA,NA
+"12","Argentina",1972,NA,9200,NA,NA
+"13","Argentina",1973,NA,8900,NA,NA
+"14","Argentina",1974,NA,8860,NA,NA
+"15","Argentina",1975,NA,6990,NA,NA
+"16","Argentina",1976,NA,9050,NA,NA
+"17","Argentina",1977,NA,10200,NA,NA
+"18","Argentina",1978,NA,5500,NA,NA
+"19","Argentina",1979,NA,6000,NA,NA
+"20","Argentina",1980,NA,3200,NA,NA
+"21","Argentina",1981,NA,3230,NA,NA
+"22","Argentina",1982,NA,3000,NA,NA
+"23","Argentina",1983,NA,3100,NA,NA
+"24","Argentina",1984,NA,3300,NA,NA
+"25","Argentina",1985,450,2600,NA,NA
+"26","Argentina",1986,450,2700,NA,NA
+"27","Argentina",1987,495,3000,NA,NA
+"28","Argentina",1988,495,3000,NA,NA
+"29","Argentina",1989,495,3000,NA,NA
+"30","Argentina",1990,444,2843,NA,NA
+"31","Argentina",1991,503,3100,NA,NA
+"32","Argentina",1992,520,3200,NA,NA
+"33","Argentina",1993,530,3300,NA,NA
+"34","Argentina",1994,540,3400,NA,NA
+"35","Argentina",1995,554,3500,NA,NA
+"36","Argentina",1996,536,3417,NA,NA
+"37","Argentina",1997,525,3373,NA,NA
+"38","Argentina",1998,500,3300,NA,NA
+"39","Argentina",1999,520,3350,NA,NA
+"40","Argentina",2000,528,3391,NA,NA
+"41","Argentina",2001,537,3439,NA,NA
+"42","Argentina",2002,550,3500,NA,NA
+"43","Argentina",2003,543,3486,NA,NA
+"44","Argentina",2004,533,3433,NA,NA
+"45","Argentina",2005,538,3459,NA,NA
+"46","Argentina",2006,550,3450,NA,NA
+"47","Argentina",2007,570,3600,NA,NA
+"48","Argentina",2008,540,3500,NA,NA
+"49","Argentina",2009,548,3600,NA,NA
+"50","Argentina",2010,560,3726,NA,NA
+"51","Argentina",2011,570,3840,NA,NA
+"52","Argentina",2012,580,4100,NA,NA
+"53","Argentina",2013,587,4052,NA,NA
+"54","Argentina",2014,588,4039,NA,NA
+"55","Argentina",2015,581,4030,NA,NA
+"56","Argentina",2016,578,4027,NA,NA
+"57","Argentina",2017,586,4115,NA,NA
+"58","Argentina",2018,587,4160,NA,NA
+"59","Argentina",2019,589,4193,NA,NA
+"60","Argentina",2020,590,4227,NA,NA
+"61","Australia",1961,NA,400,NA,NA
+"62","Australia",1962,NA,400,NA,NA
+"63","Australia",1963,NA,500,NA,NA
+"64","Australia",1964,NA,500,NA,NA
+"65","Australia",1965,NA,600,NA,NA
+"66","Australia",1966,NA,600,NA,NA
+"67","Australia",1967,NA,700,NA,NA
+"68","Australia",1968,NA,700,NA,NA
+"69","Australia",1969,NA,800,NA,NA
+"70","Australia",1970,NA,800,NA,NA
+"71","Australia",1971,NA,900,NA,NA
+"72","Australia",1972,NA,941,NA,NA
+"73","Australia",1973,NA,688,NA,NA
+"74","Australia",1974,NA,664,NA,NA
+"75","Australia",1975,NA,710,NA,NA
+"76","Australia",1976,NA,570,NA,NA
+"77","Australia",1977,NA,662,NA,NA
+"78","Australia",1978,NA,980,NA,NA
+"79","Australia",1979,NA,1400,NA,NA
+"80","Australia",1980,NA,1700,NA,NA
+"81","Australia",1981,NA,2400,NA,NA
+"82","Australia",1982,NA,3400,NA,NA
+"83","Australia",1983,NA,5400,NA,NA
+"84","Australia",1984,NA,6200,NA,NA
+"85","Australia",1985,2700,7000,NA,NA
+"86","Australia",1986,3000,9700,NA,NA
+"87","Australia",1987,3000,9798,NA,NA
+"88","Australia",1988,3100,11082,NA,NA
+"89","Australia",1989,3100,11414,NA,NA
+"90","Australia",1990,2900,12005,NA,1
+"91","Australia",1991,3000,11542,NA,NA
+"92","Australia",1992,3200,12925,NA,NA
+"93","Australia",1993,3196,12925,NA,NA
+"94","Australia",1994,3500,14000,NA,8
+"95","Australia",1995,3900,15640,NA,NA
+"96","Australia",1996,4100,16416,NA,NA
+"97","Australia",1997,5000,20072,NA,NA
+"98","Australia",1998,4884,20174,NA,NA
+"99","Australia",1999,6000,24311,NA,NA
+"100","Australia",2000,5596,23976,NA,24
+"101","Australia",2001,6500,29834,NA,NA
+"102","Australia",2002,6000,28485,NA,NA
+"103","Australia",2003,8000,40531,NA,NA
+"104","Australia",2004,8798,41897,NA,NA
+"105","Australia",2005,7000,32634,NA,2
+"106","Australia",2006,7200,34452,NA,NA
+"107","Australia",2007,9800,47238,NA,NA
+"108","Australia",2008,9642,45000,NA,15
+"109","Australia",2009,8555,38478,NA,13
+"110","Australia",2010,10003,42486,NA,17
+"111","Australia",2011,9500,36325,NA,NA
+"112","Australia",2012,10000,48951,NA,23
+"113","Australia",2013,11000,52982,NA,NA
+"114","Australia",2014,9000,43969,NA,NA
+"115","Australia",2015,10412,49397,NA,4
+"116","Australia",2016,14427,67600,NA,36
+"117","Australia",2017,12019,56501,NA,1
+"118","Australia",2018,13617,63486,NA,9
+"119","Australia",2019,17069,79533,NA,4
+"120","Australia",2020,16598,77295,NA,NA
+"121","Austria",2018,0,0,NA,NA
+"122","Austria",2019,0,0,NA,NA
+"123","Austria",2020,0,0,NA,NA
+"124","Bahamas",1961,NA,NA,NA,NA
+"125","Bahamas",1962,NA,NA,NA,NA
+"126","Bahamas",1963,NA,NA,NA,NA
+"127","Bahamas",1964,NA,NA,NA,NA
+"128","Bahamas",1965,NA,NA,NA,NA
+"129","Bahamas",1966,NA,NA,NA,NA
+"130","Bahamas",1967,NA,NA,NA,NA
+"131","Bahamas",1968,NA,NA,NA,NA
+"132","Bahamas",1969,NA,NA,NA,NA
+"133","Bahamas",1970,NA,NA,NA,NA
+"134","Bahamas",1971,NA,NA,NA,NA
+"135","Bahamas",1972,NA,NA,NA,NA
+"136","Bahamas",1973,NA,NA,NA,NA
+"137","Bahamas",1974,NA,NA,NA,NA
+"138","Bahamas",1975,NA,NA,NA,NA
+"139","Bahamas",1976,NA,NA,NA,NA
+"140","Bahamas",1977,NA,NA,NA,NA
+"141","Bahamas",1978,NA,NA,NA,NA
+"142","Bahamas",1979,NA,NA,NA,NA
+"143","Bahamas",1980,NA,NA,NA,NA
+"144","Bahamas",1981,NA,NA,NA,NA
+"145","Bahamas",1982,NA,NA,NA,NA
+"146","Bahamas",1983,NA,NA,NA,NA
+"147","Bahamas",1984,NA,NA,NA,NA
+"148","Bahamas",1985,NA,NA,NA,NA
+"149","Bahamas",1986,NA,NA,13,NA
+"150","Bahamas",1987,NA,NA,NA,NA
+"151","Bahamas",1988,NA,NA,NA,NA
+"152","Bahamas",1989,NA,NA,53,NA
+"153","Bahamas",1990,NA,NA,69,NA
+"154","Bahamas",1991,NA,NA,92,NA
+"155","Bahamas",1992,NA,NA,91,NA
+"156","Bahamas",1993,NA,NA,313,8
+"157","Bahamas",1994,NA,NA,452,NA
+"158","Bahamas",1995,NA,NA,246,NA
+"159","Bahamas",1996,NA,NA,354,NA
+"160","Bahamas",1997,NA,NA,712,NA
+"161","Bahamas",1998,NA,NA,151,NA
+"162","Bahamas",1999,NA,NA,211,NA
+"163","Bahamas",2000,NA,NA,137,NA
+"164","Bahamas",2001,NA,NA,224,NA
+"165","Bahamas",2002,NA,NA,205,NA
+"166","Bahamas",2003,NA,NA,254,NA
+"167","Bahamas",2004,NA,NA,190,NA
+"168","Bahamas",2005,NA,NA,NA,NA
+"169","Bahamas",2006,NA,NA,NA,3
+"170","Bahamas",2007,NA,NA,NA,1
+"171","Bahamas",2008,NA,NA,NA,NA
+"172","Bahamas",2009,NA,NA,NA,NA
+"173","Bahamas",2010,97,1200,NA,NA
+"174","Bahamas",2011,99,1216,NA,0
+"175","Bahamas",2012,100,1232,NA,2
+"176","Bahamas",2013,103,1266,NA,NA
+"177","Bahamas",2014,105,1300,NA,7
+"178","Bahamas",2015,108,1332,NA,1
+"179","Bahamas",2016,105,1363,NA,4
+"180","Bahamas",2017,106,1332,NA,25
+"181","Bahamas",2018,106,1342,NA,106
+"182","Bahamas",2019,106,1346,NA,220
+"183","Bahamas",2020,106,1340,NA,145
+"184","Barbados",1961,NA,160,NA,NA
+"185","Barbados",1962,NA,155,NA,NA
+"186","Barbados",1963,NA,160,NA,NA
+"187","Barbados",1964,NA,175,NA,NA
+"188","Barbados",1965,NA,180,NA,NA
+"189","Barbados",1966,NA,181,NA,NA
+"190","Barbados",1967,NA,200,NA,NA
+"191","Barbados",1968,NA,220,NA,NA
+"192","Barbados",1969,NA,299,NA,NA
+"193","Barbados",1970,NA,260,NA,NA
+"194","Barbados",1971,NA,271,NA,NA
+"195","Barbados",1972,NA,290,NA,NA
+"196","Barbados",1973,NA,310,NA,NA
+"197","Barbados",1974,NA,330,NA,NA
+"198","Barbados",1975,NA,350,NA,NA
+"199","Barbados",1976,NA,360,NA,NA
+"200","Barbados",1977,NA,370,NA,NA
+"201","Barbados",1978,NA,380,NA,NA
+"202","Barbados",1979,NA,390,NA,NA
+"203","Barbados",1980,NA,400,NA,NA
+"204","Barbados",1981,NA,410,NA,NA
+"205","Barbados",1982,NA,420,NA,NA
+"206","Barbados",1983,NA,430,NA,NA
+"207","Barbados",1984,NA,440,NA,NA
+"208","Barbados",1985,95,450,NA,NA
+"209","Barbados",1986,95,460,NA,NA
+"210","Barbados",1987,95,460,NA,NA
+"211","Barbados",1988,95,470,NA,NA
+"212","Barbados",1989,95,470,NA,NA
+"213","Barbados",1990,95,470,NA,NA
+"214","Barbados",1991,95,470,NA,NA
+"215","Barbados",1992,95,470,NA,NA
+"216","Barbados",1993,95,470,NA,NA
+"217","Barbados",1994,95,470,NA,NA
+"218","Barbados",1995,95,470,NA,NA
+"219","Barbados",1996,95,470,NA,NA
+"220","Barbados",1997,95,470,NA,NA
+"221","Barbados",1998,95,470,NA,NA
+"222","Barbados",1999,80,390,NA,NA
+"223","Barbados",2000,90,440,NA,NA
+"224","Barbados",2001,95,470,NA,NA
+"225","Barbados",2002,100,490,NA,NA
+"226","Barbados",2003,105,510,NA,NA
+"227","Barbados",2004,110,530,NA,0
+"228","Barbados",2005,115,550,NA,NA
+"229","Barbados",2006,120,580,NA,NA
+"230","Barbados",2007,120,580,NA,NA
+"231","Barbados",2008,125,600,NA,NA
+"232","Barbados",2009,131,624,NA,NA
+"233","Barbados",2010,138,649,NA,NA
+"234","Barbados",2011,144,671,NA,NA
+"235","Barbados",2012,155,700,NA,1
+"236","Barbados",2013,150,697,NA,NA
+"237","Barbados",2014,150,700,NA,NA
+"238","Barbados",2015,153,711,NA,NA
+"239","Barbados",2016,158,725,NA,NA
+"240","Barbados",2017,154,712,NA,NA
+"241","Barbados",2018,155,716,NA,3
+"242","Barbados",2019,155,718,NA,3
+"243","Barbados",2020,155,715,NA,8
+"244","Belgium",2018,0,0,NA,37
+"245","Belgium",2019,0,0,NA,NA
+"246","Belgium",2020,0,0,NA,NA
+"247","Bolivia (Plurinational State of)",1961,300,1500,NA,NA
+"248","Bolivia (Plurinational State of)",1962,300,1610,NA,NA
+"249","Bolivia (Plurinational State of)",1963,300,1650,NA,NA
+"250","Bolivia (Plurinational State of)",1964,300,1760,NA,NA
+"251","Bolivia (Plurinational State of)",1965,300,1570,NA,NA
+"252","Bolivia (Plurinational State of)",1966,340,1800,NA,NA
+"253","Bolivia (Plurinational State of)",1967,340,1830,NA,NA
+"254","Bolivia (Plurinational State of)",1968,340,1860,NA,NA
+"255","Bolivia (Plurinational State of)",1969,350,1920,NA,NA
+"256","Bolivia (Plurinational State of)",1970,350,1950,NA,NA
+"257","Bolivia (Plurinational State of)",1971,370,2040,NA,NA
+"258","Bolivia (Plurinational State of)",1972,400,2200,NA,NA
+"259","Bolivia (Plurinational State of)",1973,400,2200,NA,NA
+"260","Bolivia (Plurinational State of)",1974,440,2400,NA,NA
+"261","Bolivia (Plurinational State of)",1975,530,2900,NA,NA
+"262","Bolivia (Plurinational State of)",1976,530,2905,NA,NA
+"263","Bolivia (Plurinational State of)",1977,530,2905,NA,NA
+"264","Bolivia (Plurinational State of)",1978,370,2035,NA,NA
+"265","Bolivia (Plurinational State of)",1979,590,3235,NA,NA
+"266","Bolivia (Plurinational State of)",1980,590,3260,NA,NA
+"267","Bolivia (Plurinational State of)",1981,580,3095,NA,NA
+"268","Bolivia (Plurinational State of)",1982,605,3640,NA,NA
+"269","Bolivia (Plurinational State of)",1983,610,3633,NA,NA
+"270","Bolivia (Plurinational State of)",1984,655,4355,NA,NA
+"271","Bolivia (Plurinational State of)",1985,682,4156,NA,NA
+"272","Bolivia (Plurinational State of)",1986,743,4264,NA,NA
+"273","Bolivia (Plurinational State of)",1987,809,4375,NA,NA
+"274","Bolivia (Plurinational State of)",1988,815,5300,NA,NA
+"275","Bolivia (Plurinational State of)",1989,820,5250,NA,NA
+"276","Bolivia (Plurinational State of)",1990,820,5410,NA,NA
+"277","Bolivia (Plurinational State of)",1991,825,5550,NA,NA
+"278","Bolivia (Plurinational State of)",1992,845,5695,NA,NA
+"279","Bolivia (Plurinational State of)",1993,858,5835,NA,NA
+"280","Bolivia (Plurinational State of)",1994,870,5960,NA,NA
+"281","Bolivia (Plurinational State of)",1995,870,5960,NA,NA
+"282","Bolivia (Plurinational State of)",1996,890,6110,NA,NA
+"283","Bolivia (Plurinational State of)",1997,890,6230,NA,NA
+"284","Bolivia (Plurinational State of)",1998,890,6230,NA,NA
+"285","Bolivia (Plurinational State of)",1999,920,7500,NA,NA
+"286","Bolivia (Plurinational State of)",2000,830,7600,NA,NA
+"287","Bolivia (Plurinational State of)",2001,835,7610,NA,NA
+"288","Bolivia (Plurinational State of)",2002,835,7612,NA,NA
+"289","Bolivia (Plurinational State of)",2003,469,2977,NA,NA
+"290","Bolivia (Plurinational State of)",2004,474,3046,NA,NA
+"291","Bolivia (Plurinational State of)",2005,480,3120,NA,NA
+"292","Bolivia (Plurinational State of)",2006,486,3197,NA,NA
+"293","Bolivia (Plurinational State of)",2007,492,3242,NA,NA
+"294","Bolivia (Plurinational State of)",2008,497,3306,NA,NA
+"295","Bolivia (Plurinational State of)",2009,880,5568,NA,NA
+"296","Bolivia (Plurinational State of)",2010,869,5514,NA,NA
+"297","Bolivia (Plurinational State of)",2011,849,5426,NA,NA
+"298","Bolivia (Plurinational State of)",2012,860,5541,NA,NA
+"299","Bolivia (Plurinational State of)",2013,914,5681,NA,NA
+"300","Bolivia (Plurinational State of)",2014,2285,11873,NA,NA
+"301","Bolivia (Plurinational State of)",2015,2285,12032,NA,NA
+"302","Bolivia (Plurinational State of)",2016,2293,12497,NA,NA
+"303","Bolivia (Plurinational State of)",2017,2305,12509,NA,NA
+"304","Bolivia (Plurinational State of)",2018,2302,12452,NA,NA
+"305","Bolivia (Plurinational State of)",2019,2308,12690,NA,NA
+"306","Bolivia (Plurinational State of)",2020,2300,12477,NA,NA
+"307","Bosnia and Herzegovina",1992,NA,NA,NA,NA
+"308","Bosnia and Herzegovina",1993,NA,NA,NA,NA
+"309","Bosnia and Herzegovina",1994,NA,NA,NA,NA
+"310","Bosnia and Herzegovina",1995,NA,NA,NA,NA
+"311","Bosnia and Herzegovina",1996,NA,NA,NA,NA
+"312","Bosnia and Herzegovina",1997,NA,NA,NA,NA
+"313","Bosnia and Herzegovina",1998,NA,NA,NA,NA
+"314","Bosnia and Herzegovina",1999,NA,NA,NA,NA
+"315","Bosnia and Herzegovina",2000,NA,NA,NA,NA
+"316","Bosnia and Herzegovina",2001,NA,NA,NA,NA
+"317","Bosnia and Herzegovina",2002,NA,NA,NA,NA
+"318","Bosnia and Herzegovina",2003,NA,NA,NA,NA
+"319","Bosnia and Herzegovina",2004,NA,NA,NA,NA
+"320","Bosnia and Herzegovina",2005,300,1100,NA,NA
+"321","Bosnia and Herzegovina",2006,317,1100,NA,NA
+"322","Bosnia and Herzegovina",2007,289,1000,NA,NA
+"323","Bosnia and Herzegovina",2008,300,1031,NA,NA
+"324","Bosnia and Herzegovina",2009,301,1031,NA,NA
+"325","Bosnia and Herzegovina",2010,330,1000,NA,NA
+"326","Bosnia and Herzegovina",2011,300,1034,NA,NA
+"327","Bosnia and Herzegovina",2012,300,1100,NA,NA
+"328","Bosnia and Herzegovina",2013,300,1100,NA,NA
+"329","Bosnia and Herzegovina",2014,300,1000,NA,NA
+"330","Bosnia and Herzegovina",2015,305,1024,NA,NA
+"331","Bosnia and Herzegovina",2016,305,1034,NA,NA
+"332","Bosnia and Herzegovina",2017,305,1039,NA,NA
+"333","Bosnia and Herzegovina",2018,305,1042,NA,NA
+"334","Bosnia and Herzegovina",2019,305,1041,NA,NA
+"335","Bosnia and Herzegovina",2020,306,1041,NA,NA
+"336","Brazil",1961,8000,82500,NA,NA
+"337","Brazil",1962,9000,93750,NA,NA
+"338","Brazil",1963,9500,1e+05,NA,NA
+"339","Brazil",1964,9500,100406,NA,NA
+"340","Brazil",1965,10260,110780,NA,NA
+"341","Brazil",1966,11760,117459,NA,NA
+"342","Brazil",1967,12562,128016,NA,NA
+"343","Brazil",1968,13584,140249,NA,NA
+"344","Brazil",1969,14708,143852,NA,NA
+"345","Brazil",1970,15784,153173,NA,NA
+"346","Brazil",1971,16208,161527,NA,NA
+"347","Brazil",1972,16245,182924,NA,NA
+"348","Brazil",1973,16652,125355,NA,NA
+"349","Brazil",1974,17474,134378,NA,NA
+"350","Brazil",1975,18870,145837,NA,NA
+"351","Brazil",1976,18014,139674,NA,NA
+"352","Brazil",1977,19609,139520,NA,NA
+"353","Brazil",1978,18334,128221,NA,NA
+"354","Brazil",1979,18809,132206,NA,NA
+"355","Brazil",1980,18966,133956,NA,NA
+"356","Brazil",1981,21016,135638,NA,NA
+"357","Brazil",1982,21140,141542,NA,NA
+"358","Brazil",1983,21653,142512,NA,NA
+"359","Brazil",1984,22155,147824,NA,NA
+"360","Brazil",1985,19562,126446,NA,NA
+"361","Brazil",1986,18313,122291,NA,NA
+"362","Brazil",1987,17902,114637,NA,NA
+"363","Brazil",1988,17559,114372,NA,NA
+"364","Brazil",1989,17408,114923,NA,NA
+"365","Brazil",1990,17385,118635,NA,NA
+"366","Brazil",1991,15402,111340,NA,NA
+"367","Brazil",1992,15277,111742,NA,NA
+"368","Brazil",1993,15112,105801,NA,NA
+"369","Brazil",1994,14933,102644,NA,NA
+"370","Brazil",1995,13441,93767,NA,42
+"371","Brazil",1996,13319,80733,NA,NA
+"372","Brazil",1997,13339,84043,NA,NA
+"373","Brazil",1998,13729,84231,NA,2
+"374","Brazil",1999,12787,86418,NA,NA
+"375","Brazil",2000,12699,86146,NA,NA
+"376","Brazil",2001,11835,154224,NA,NA
+"377","Brazil",2002,12309,173948,18,NA
+"378","Brazil",2003,10053,156661,NA,NA
+"379","Brazil",2004,11933,170534,NA,NA
+"380","Brazil",2005,11548,169335,80,NA
+"381","Brazil",2006,10442,164441,NA,NA
+"382","Brazil",2007,9774,154096,NA,NA
+"383","Brazil",2008,9453,147214,NA,NA
+"384","Brazil",2009,8411,139089,NA,NA
+"385","Brazil",2010,11111,153189,NA,NA
+"386","Brazil",2011,10753,160376,NA,NA
+"387","Brazil",2012,9568,159903,NA,NA
+"388","Brazil",2013,9664,157482,NA,NA
+"389","Brazil",2014,9450,156699,NA,NA
+"390","Brazil",2015,10356,180652,NA,NA
+"391","Brazil",2016,10920,196545,NA,NA
+"392","Brazil",2017,12996,212873,NA,NA
+"393","Brazil",2018,14325,236177,NA,NA
+"394","Brazil",2019,15354,242723,NA,NA
+"395","Brazil",2020,16211,266784,NA,NA
+"396","Bulgaria",2018,0,0,NA,NA
+"397","Bulgaria",2019,0,0,NA,NA
+"398","Bulgaria",2020,0,0,NA,NA
+"399","C?te d'Ivoire",1961,1250,5000,NA,NA
+"400","C?te d'Ivoire",1962,1250,5000,NA,NA
+"401","C?te d'Ivoire",1963,1250,5000,NA,NA
+"402","C?te d'Ivoire",1964,1250,5000,NA,NA
+"403","C?te d'Ivoire",1965,1250,5000,NA,NA
+"404","C?te d'Ivoire",1966,1500,6000,NA,NA
+"405","C?te d'Ivoire",1967,1500,6000,NA,NA
+"406","C?te d'Ivoire",1968,1500,6000,NA,NA
+"407","C?te d'Ivoire",1969,1500,6000,NA,NA
+"408","C?te d'Ivoire",1970,1500,6000,NA,NA
+"409","C?te d'Ivoire",1971,1500,6000,NA,NA
+"410","C?te d'Ivoire",1972,1500,6000,NA,NA
+"411","C?te d'Ivoire",1973,1600,6300,NA,NA
+"412","C?te d'Ivoire",1974,1600,6300,NA,NA
+"413","C?te d'Ivoire",1975,1600,6300,NA,NA
+"414","C?te d'Ivoire",1976,1650,6600,NA,NA
+"415","C?te d'Ivoire",1977,1650,6600,NA,NA
+"416","C?te d'Ivoire",1978,1650,6600,NA,NA
+"417","C?te d'Ivoire",1979,1750,7000,NA,NA
+"418","C?te d'Ivoire",1980,1830,7300,NA,NA
+"419","C?te d'Ivoire",1981,1830,7300,NA,NA
+"420","C?te d'Ivoire",1982,1830,7300,NA,NA
+"421","C?te d'Ivoire",1983,1890,7500,NA,NA
+"422","C?te d'Ivoire",1984,1890,7500,NA,NA
+"423","C?te d'Ivoire",1985,2150,8500,NA,NA
+"424","C?te d'Ivoire",1986,2150,8500,NA,NA
+"425","C?te d'Ivoire",1987,2500,10000,NA,NA
+"426","C?te d'Ivoire",1988,3000,12000,NA,NA
+"427","C?te d'Ivoire",1989,3600,15000,NA,NA
+"428","C?te d'Ivoire",1990,3198,15618,NA,NA
+"429","C?te d'Ivoire",1991,4342,16539,NA,NA
+"430","C?te d'Ivoire",1992,4512,17431,NA,NA
+"431","C?te d'Ivoire",1993,4500,18000,NA,NA
+"432","C?te d'Ivoire",1994,4609,18299,NA,NA
+"433","C?te d'Ivoire",1995,4750,19000,NA,NA
+"434","C?te d'Ivoire",1996,4745,19460,NA,NA
+"435","C?te d'Ivoire",1997,4775,19968,NA,NA
+"436","C?te d'Ivoire",1998,4838,20319,NA,NA
+"437","C?te d'Ivoire",1999,4537,19056,NA,NA
+"438","C?te d'Ivoire",2000,4770,20032,NA,NA
+"439","C?te d'Ivoire",2001,4048,22819,NA,NA
+"440","C?te d'Ivoire",2002,5429,22802,NA,NA
+"441","C?te d'Ivoire",2003,5174,21732,NA,NA
+"442","C?te d'Ivoire",2004,5435,22826,NA,NA
+"443","C?te d'Ivoire",2005,4188,25129,NA,NA
+"444","C?te d'Ivoire",2006,4460,25958,NA,NA
+"445","C?te d'Ivoire",2007,4748,26815,NA,NA
+"446","C?te d'Ivoire",2008,4700,27700,NA,NA
+"447","C?te d'Ivoire",2009,4600,28614,NA,NA
+"448","C?te d'Ivoire",2010,4878,30077,NA,NA
+"449","C?te d'Ivoire",2011,5082,31713,NA,NA
+"450","C?te d'Ivoire",2012,5171,33000,NA,NA
+"451","C?te d'Ivoire",2013,5204,33945,NA,NA
+"452","C?te d'Ivoire",2014,5258,34809,NA,NA
+"453","C?te d'Ivoire",2015,5227,35253,NA,NA
+"454","C?te d'Ivoire",2016,5231,35800,NA,NA
+"455","C?te d'Ivoire",2017,5403,35287,NA,NA
+"456","C?te d'Ivoire",2018,5287,35447,NA,NA
+"457","C?te d'Ivoire",2019,5307,35511,NA,NA
+"458","C?te d'Ivoire",2020,5332,35415,NA,NA
+"459","Cameroon",1961,5000,12000,NA,NA
+"460","Cameroon",1962,5000,13000,NA,NA
+"461","Cameroon",1963,5500,13000,NA,NA
+"462","Cameroon",1964,5500,14000,NA,NA
+"463","Cameroon",1965,6000,14000,NA,NA
+"464","Cameroon",1966,6000,15000,NA,NA
+"465","Cameroon",1967,6000,15000,NA,NA
+"466","Cameroon",1968,6500,16000,NA,NA
+"467","Cameroon",1969,7000,16000,NA,NA
+"468","Cameroon",1970,7500,17000,NA,NA
+"469","Cameroon",1971,7500,18000,NA,NA
+"470","Cameroon",1972,8000,20000,NA,NA
+"471","Cameroon",1973,8000,15000,NA,NA
+"472","Cameroon",1974,8000,15000,NA,NA
+"473","Cameroon",1975,8000,20000,NA,NA
+"474","Cameroon",1976,8000,20000,NA,NA
+"475","Cameroon",1977,8200,21000,NA,NA
+"476","Cameroon",1978,8400,22000,NA,NA
+"477","Cameroon",1979,8600,23000,NA,NA
+"478","Cameroon",1980,8800,24000,NA,NA
+"479","Cameroon",1981,9000,25000,NA,NA
+"480","Cameroon",1982,9200,26000,NA,NA
+"481","Cameroon",1983,9300,27000,NA,NA
+"482","Cameroon",1984,9400,28000,NA,NA
+"483","Cameroon",1985,9500,29000,NA,NA
+"484","Cameroon",1986,9700,30000,NA,NA
+"485","Cameroon",1987,9700,32000,NA,NA
+"486","Cameroon",1988,9800,33000,NA,NA
+"487","Cameroon",1989,9900,34000,NA,NA
+"488","Cameroon",1990,10000,35000,NA,NA
+"489","Cameroon",1991,9997,38000,NA,NA
+"490","Cameroon",1992,10339,40000,NA,NA
+"491","Cameroon",1993,10500,42000,NA,NA
+"492","Cameroon",1994,11000,44000,NA,NA
+"493","Cameroon",1995,11250,45000,NA,NA
+"494","Cameroon",1996,11500,46000,NA,NA
+"495","Cameroon",1997,11750,47000,NA,NA
+"496","Cameroon",1998,12000,48000,NA,NA
+"497","Cameroon",1999,12250,49000,NA,NA
+"498","Cameroon",2000,12500,50000,NA,NA
+"499","Cameroon",2001,12645,50563,NA,NA
+"500","Cameroon",2002,13000,52000,NA,NA
+"501","Cameroon",2003,13001,52184,NA,NA
+"502","Cameroon",2004,13250,53000,NA,NA
+"503","Cameroon",2005,13520,54284,NA,NA
+"504","Cameroon",2006,14000,55000,NA,NA
+"505","Cameroon",2007,13500,53000,NA,NA
+"506","Cameroon",2008,14000,55000,NA,NA
+"507","Cameroon",2009,13800,54000,NA,NA
+"508","Cameroon",2010,14200,56000,NA,NA
+"509","Cameroon",2011,14682,61887,NA,NA
+"510","Cameroon",2012,14500,72000,NA,NA
+"511","Cameroon",2013,16148,73700,NA,NA
+"512","Cameroon",2014,16940,74248,NA,NA
+"513","Cameroon",2015,16213,71719,NA,NA
+"514","Cameroon",2016,16434,73222,NA,NA
+"515","Cameroon",2017,16457,73948,NA,NA
+"516","Cameroon",2018,16486,74963,NA,NA
+"517","Cameroon",2019,16584,75978,NA,NA
+"518","Cameroon",2020,16690,74963,NA,NA
+"519","Central African Republic",1961,200,200,NA,NA
+"520","Central African Republic",1962,200,200,NA,NA
+"521","Central African Republic",1963,200,200,NA,NA
+"522","Central African Republic",1964,200,200,NA,NA
+"523","Central African Republic",1965,250,250,NA,NA
+"524","Central African Republic",1966,250,250,NA,NA
+"525","Central African Republic",1967,250,260,NA,NA
+"526","Central African Republic",1968,250,250,NA,NA
+"527","Central African Republic",1969,250,300,NA,NA
+"528","Central African Republic",1970,250,300,NA,NA
+"529","Central African Republic",1971,230,350,NA,NA
+"530","Central African Republic",1972,220,350,NA,NA
+"531","Central African Republic",1973,200,400,NA,NA
+"532","Central African Republic",1974,200,500,NA,NA
+"533","Central African Republic",1975,170,600,NA,NA
+"534","Central African Republic",1976,200,700,NA,NA
+"535","Central African Republic",1977,200,800,NA,NA
+"536","Central African Republic",1978,200,900,NA,NA
+"537","Central African Republic",1979,220,1000,NA,NA
+"538","Central African Republic",1980,230,1000,NA,NA
+"539","Central African Republic",1981,250,1100,NA,NA
+"540","Central African Republic",1982,250,1100,NA,NA
+"541","Central African Republic",1983,250,1200,NA,NA
+"542","Central African Republic",1984,260,1300,NA,NA
+"543","Central African Republic",1985,260,1300,NA,NA
+"544","Central African Republic",1986,280,1400,NA,NA
+"545","Central African Republic",1987,340,1700,NA,NA
+"546","Central African Republic",1988,400,2000,NA,NA
+"547","Central African Republic",1989,520,2600,NA,NA
+"548","Central African Republic",1990,560,2800,NA,NA
+"549","Central African Republic",1991,580,3000,NA,NA
+"550","Central African Republic",1992,610,3200,NA,NA
+"551","Central African Republic",1993,660,3500,NA,NA
+"552","Central African Republic",1994,694,3800,NA,NA
+"553","Central African Republic",1995,695,4000,NA,NA
+"554","Central African Republic",1996,679,4100,NA,NA
+"555","Central African Republic",1997,670,4200,NA,NA
+"556","Central African Republic",1998,680,4300,NA,NA
+"557","Central African Republic",1999,700,4400,NA,NA
+"558","Central African Republic",2000,720,4500,NA,NA
+"559","Central African Republic",2001,733,4600,NA,NA
+"560","Central African Republic",2002,711,4500,NA,NA
+"561","Central African Republic",2003,690,4400,NA,NA
+"562","Central African Republic",2004,697,4429,NA,NA
+"563","Central African Republic",2005,709,4474,NA,NA
+"564","Central African Republic",2006,720,4500,NA,NA
+"565","Central African Republic",2007,740,4600,NA,NA
+"566","Central African Republic",2008,760,4700,NA,NA
+"567","Central African Republic",2009,780,4800,NA,NA
+"568","Central African Republic",2010,800,5000,NA,NA
+"569","Central African Republic",2011,795,5598,NA,NA
+"570","Central African Republic",2012,800,6300,NA,NA
+"571","Central African Republic",2013,855,6500,NA,NA
+"572","Central African Republic",2014,985,7191,NA,NA
+"573","Central African Republic",2015,1076,7856,NA,NA
+"574","Central African Republic",2016,1205,8800,NA,NA
+"575","Central African Republic",2017,1329,9706,NA,NA
+"576","Central African Republic",2018,1193,9077,NA,NA
+"577","Central African Republic",2019,1246,9609,NA,NA
+"578","Central African Republic",2020,1291,10071,NA,NA
+"579","Chile",1961,3000,8000,NA,NA
+"580","Chile",1962,3100,9000,NA,NA
+"581","Chile",1963,3200,10000,NA,NA
+"582","Chile",1964,3300,10500,NA,NA
+"583","Chile",1965,3400,11150,NA,NA
+"584","Chile",1966,2600,10000,NA,NA
+"585","Chile",1967,2800,10500,NA,NA
+"586","Chile",1968,3300,11000,NA,NA
+"587","Chile",1969,3500,11300,NA,NA
+"588","Chile",1970,3500,11500,NA,NA
+"589","Chile",1971,3800,12000,NA,NA
+"590","Chile",1972,4000,12500,NA,NA
+"591","Chile",1973,4490,13400,NA,NA
+"592","Chile",1974,4500,14500,NA,NA
+"593","Chile",1975,4437,14700,NA,NA
+"594","Chile",1976,4900,15000,NA,NA
+"595","Chile",1977,4937,17300,NA,NA
+"596","Chile",1978,5850,18800,NA,NA
+"597","Chile",1979,5400,19363,NA,NA
+"598","Chile",1980,6180,21700,NA,NA
+"599","Chile",1981,6460,25000,NA,NA
+"600","Chile",1982,6800,27700,NA,NA
+"601","Chile",1983,7100,29600,NA,NA
+"602","Chile",1984,7400,31500,NA,NA
+"603","Chile",1985,7605,29800,NA,NA
+"604","Chile",1986,7705,35000,2734,NA
+"605","Chile",1987,7840,32000,496,NA
+"606","Chile",1988,7900,28000,4323,NA
+"607","Chile",1989,7945,39000,3550,NA
+"608","Chile",1990,8190,37580,11590,NA
+"609","Chile",1991,8565,39000,14197,NA
+"610","Chile",1992,9600,48000,16097,NA
+"611","Chile",1993,10200,42000,1783,NA
+"612","Chile",1994,11585,58000,18370,NA
+"613","Chile",1995,12990,50000,11371,20
+"614","Chile",1996,15050,60000,16273,NA
+"615","Chile",1997,17047,55000,15135,NA
+"616","Chile",1998,18463,99000,44756,NA
+"617","Chile",1999,20181,82000,31785,NA
+"618","Chile",2000,21202,98000,51149,NA
+"619","Chile",2001,22290,110000,49156,NA
+"620","Chile",2002,23260,140000,78166,NA
+"621","Chile",2003,23800,140000,90485,NA
+"622","Chile",2004,24000,160000,93639,19
+"623","Chile",2005,26700,160000,114892,NA
+"624","Chile",2006,26700,205000,71340,119
+"625","Chile",2007,26800,209645,111734,NA
+"626","Chile",2008,33800,122633,64628,NA
+"627","Chile",2009,33500,232202,116709,NA
+"628","Chile",2010,34057,166382,63343,NA
+"629","Chile",2011,36388,156247,69834,NA
+"630","Chile",2012,36386,160000,40191,76
+"631","Chile",2013,36355,165000,23438,3256
+"632","Chile",2014,31727,170000,41477,NA
+"633","Chile",2015,29908,160000,7551,NA
+"634","Chile",2016,29933,179000,26300,660
+"635","Chile",2017,30078,2e+05,37019,NA
+"636","Chile",2018,29166,135000,25643,88
+"637","Chile",2019,29224,150802,14925,NA
+"638","Chile",2020,30143,160535,1201,NA
+"639","China",1961,NA,NA,NA,NA
+"640","China",1962,NA,NA,NA,NA
+"641","China",1963,NA,NA,NA,NA
+"642","China",1964,NA,NA,NA,NA
+"643","China",1965,NA,NA,NA,NA
+"644","China",1966,NA,NA,NA,NA
+"645","China",1967,NA,NA,NA,NA
+"646","China",1968,NA,NA,NA,NA
+"647","China",1969,NA,NA,NA,NA
+"648","China",1970,NA,NA,NA,NA
+"649","China",1971,NA,NA,NA,NA
+"650","China",1972,NA,NA,NA,NA
+"651","China",1973,NA,NA,NA,NA
+"652","China",1974,NA,NA,NA,NA
+"653","China",1975,NA,NA,NA,NA
+"654","China",1976,NA,NA,NA,NA
+"655","China",1977,NA,NA,NA,NA
+"656","China",1978,NA,NA,NA,NA
+"657","China",1979,NA,NA,NA,NA
+"658","China",1980,NA,NA,NA,NA
+"659","China",1981,NA,NA,NA,NA
+"660","China",1982,NA,NA,NA,NA
+"661","China",1983,NA,NA,NA,NA
+"662","China",1984,NA,NA,NA,NA
+"663","China",1985,NA,NA,NA,NA
+"664","China",1986,NA,NA,NA,NA
+"665","China",1987,NA,NA,NA,NA
+"666","China",1988,NA,NA,NA,NA
+"667","China",1989,NA,NA,NA,NA
+"668","China",1990,NA,NA,NA,NA
+"669","China",1991,NA,NA,NA,NA
+"670","China",1992,2000,18000,NA,NA
+"671","China",1993,2000,20000,NA,NA
+"672","China",1994,4000,30000,NA,NA
+"673","China",1995,4000,35000,NA,NA
+"674","China",1996,5000,45000,NA,NA
+"675","China",1997,5000,48000,NA,NA
+"676","China",1998,6000,51000,NA,NA
+"677","China",1999,7500,70000,NA,NA
+"678","China",2000,8000,70000,NA,NA
+"679","China",2001,8000,74500,NA,NA
+"680","China",2002,8500,75000,NA,NA
+"681","China",2003,9000,81000,NA,NA
+"682","China",2004,10000,1e+05,NA,NA
+"683","China",2005,12000,125000,NA,NA
+"684","China",2006,12500,90000,NA,NA
+"685","China",2007,13000,92000,NA,NA
+"686","China",2008,14000,95000,NA,NA
+"687","China",2009,15000,1e+05,NA,NA
+"688","China",2010,15500,103000,NA,NA
+"689","China",2011,16000,105000,NA,NA
+"690","China",2012,16500,108000,NA,NA
+"691","China",2013,17000,112000,NA,NA
+"692","China",2014,17500,116000,NA,NA
+"693","China",2015,18783,119911,NA,NA
+"694","China",2016,17761,115970,NA,NA
+"695","China",2017,18015,117294,NA,NA
+"696","China",2018,18186,117725,NA,NA
+"697","China",2019,17987,116996,NA,NA
+"698","China",2020,18063,117338,NA,NA
+"699","China, mainland",1961,NA,NA,NA,NA
+"700","China, mainland",1962,NA,NA,NA,NA
+"701","China, mainland",1963,NA,NA,NA,NA
+"702","China, mainland",1964,NA,NA,NA,NA
+"703","China, mainland",1965,NA,NA,NA,NA
+"704","China, mainland",1966,NA,NA,NA,NA
+"705","China, mainland",1967,NA,NA,NA,NA
+"706","China, mainland",1968,NA,NA,NA,NA
+"707","China, mainland",1969,NA,NA,NA,NA
+"708","China, mainland",1970,NA,NA,NA,NA
+"709","China, mainland",1971,NA,NA,NA,NA
+"710","China, mainland",1972,NA,NA,NA,NA
+"711","China, mainland",1973,NA,NA,NA,NA
+"712","China, mainland",1974,NA,NA,NA,NA
+"713","China, mainland",1975,NA,NA,NA,NA
+"714","China, mainland",1976,NA,NA,NA,NA
+"715","China, mainland",1977,NA,NA,NA,NA
+"716","China, mainland",1978,NA,NA,NA,NA
+"717","China, mainland",1979,NA,NA,NA,NA
+"718","China, mainland",1980,NA,NA,NA,NA
+"719","China, mainland",1981,NA,NA,NA,NA
+"720","China, mainland",1982,NA,NA,NA,NA
+"721","China, mainland",1983,NA,NA,NA,NA
+"722","China, mainland",1984,NA,NA,NA,NA
+"723","China, mainland",1985,NA,NA,NA,NA
+"724","China, mainland",1986,NA,NA,NA,NA
+"725","China, mainland",1987,NA,NA,NA,NA
+"726","China, mainland",1988,NA,NA,NA,NA
+"727","China, mainland",1989,NA,NA,NA,18
+"728","China, mainland",1990,NA,NA,NA,NA
+"729","China, mainland",1991,NA,NA,NA,NA
+"730","China, mainland",1992,2000,18000,NA,NA
+"731","China, mainland",1993,2000,20000,NA,NA
+"732","China, mainland",1994,4000,30000,NA,NA
+"733","China, mainland",1995,4000,35000,NA,NA
+"734","China, mainland",1996,5000,45000,NA,NA
+"735","China, mainland",1997,5000,48000,NA,NA
+"736","China, mainland",1998,6000,51000,NA,NA
+"737","China, mainland",1999,7500,70000,NA,NA
+"738","China, mainland",2000,8000,70000,NA,1
+"739","China, mainland",2001,8000,74500,NA,1
+"740","China, mainland",2002,8500,75000,NA,NA
+"741","China, mainland",2003,9000,81000,NA,NA
+"742","China, mainland",2004,10000,1e+05,NA,NA
+"743","China, mainland",2005,12000,125000,NA,36
+"744","China, mainland",2006,12500,90000,NA,51
+"745","China, mainland",2007,13000,92000,NA,NA
+"746","China, mainland",2008,14000,95000,NA,NA
+"747","China, mainland",2009,15000,1e+05,NA,NA
+"748","China, mainland",2010,15500,103000,NA,NA
+"749","China, mainland",2011,16000,105000,NA,NA
+"750","China, mainland",2012,16500,108000,NA,NA
+"751","China, mainland",2013,17000,112000,NA,1
+"752","China, mainland",2014,17500,116000,NA,NA
+"753","China, mainland",2015,18783,119911,NA,NA
+"754","China, mainland",2016,17761,115970,NA,NA
+"755","China, mainland",2017,18015,117294,NA,NA
+"756","China, mainland",2018,18186,117725,NA,NA
+"757","China, mainland",2019,17987,116996,NA,9
+"758","China, mainland",2020,18063,117338,0,15
+"759","Colombia",1961,1400,12000,NA,NA
+"760","Colombia",1962,1450,12200,NA,NA
+"761","Colombia",1963,1480,12300,NA,NA
+"762","Colombia",1964,1480,12400,NA,NA
+"763","Colombia",1965,1500,12500,NA,NA
+"764","Colombia",1966,1530,12600,NA,NA
+"765","Colombia",1967,1530,12700,NA,NA
+"766","Colombia",1968,1550,12800,NA,NA
+"767","Colombia",1969,1550,12900,NA,NA
+"768","Colombia",1970,1560,13000,NA,NA
+"769","Colombia",1971,1560,13000,NA,NA
+"770","Colombia",1972,1580,13100,NA,NA
+"771","Colombia",1973,1580,13200,NA,NA
+"772","Colombia",1974,1600,13300,NA,NA
+"773","Colombia",1975,1625,13298,NA,NA
+"774","Colombia",1976,1800,15370,NA,NA
+"775","Colombia",1977,1800,15420,NA,NA
+"776","Colombia",1978,1750,15500,NA,NA
+"777","Colombia",1979,1680,15650,NA,NA
+"778","Colombia",1980,1570,15700,NA,NA
+"779","Colombia",1981,1730,18340,NA,NA
+"780","Colombia",1982,1647,16470,NA,NA
+"781","Colombia",1983,1727,25900,NA,NA
+"782","Colombia",1984,1773,18843,NA,NA
+"783","Colombia",1985,2800,32500,NA,NA
+"784","Colombia",1986,4500,49006,NA,NA
+"785","Colombia",1987,4900,51351,5,NA
+"786","Colombia",1988,7500,76166,NA,NA
+"787","Colombia",1989,8000,81075,NA,NA
+"788","Colombia",1990,7307,57064,2,NA
+"789","Colombia",1991,7930,72102,NA,NA
+"790","Colombia",1992,7950,73815,NA,NA
+"791","Colombia",1993,8000,74000,NA,NA
+"792","Colombia",1994,8811,86924,NA,NA
+"793","Colombia",1995,9792,1e+05,NA,NA
+"794","Colombia",1996,9500,114000,NA,NA
+"795","Colombia",1997,11000,126000,NA,NA
+"796","Colombia",1998,8000,74000,NA,NA
+"797","Colombia",1999,12689,158505,NA,NA
+"798","Colombia",2000,13204,131664,4,NA
+"799","Colombia",2001,13846,137065,NA,NA
+"800","Colombia",2002,14042,142700,NA,NA
+"801","Colombia",2003,15540,163177,NA,NA
+"802","Colombia",2004,15967,170985,NA,NA
+"803","Colombia",2005,16108,171603,NA,NA
+"804","Colombia",2006,17641,191710,NA,NA
+"805","Colombia",2007,18833,193996,NA,NA
+"806","Colombia",2008,18470,183968,NA,NA
+"807","Colombia",2009,19255,189029,NA,NA
+"808","Colombia",2010,21592,205443,NA,NA
+"809","Colombia",2011,24513,215089,NA,NA
+"810","Colombia",2012,27705,255384,NA,NA
+"811","Colombia",2013,32089,294997,NA,NA
+"812","Colombia",2014,34513,288739,NA,NA
+"813","Colombia",2015,36461,309852,NA,NA
+"814","Colombia",2016,40057,294389,NA,NA
+"815","Colombia",2017,41068,308166,29,NA
+"816","Colombia",2018,53801,445075,288,NA
+"817","Colombia",2019,63534,535021,1602,NA
+"818","Colombia",2020,78578,876754,3211,NA
+"819","Congo",1961,900,6500,NA,NA
+"820","Congo",1962,900,6500,NA,NA
+"821","Congo",1963,900,6500,NA,NA
+"822","Congo",1964,800,6000,NA,NA
+"823","Congo",1965,800,6000,NA,NA
+"824","Congo",1966,800,6000,NA,NA
+"825","Congo",1967,900,6500,NA,NA
+"826","Congo",1968,900,6500,NA,NA
+"827","Congo",1969,900,6500,NA,NA
+"828","Congo",1970,900,6500,NA,NA
+"829","Congo",1971,900,6500,NA,NA
+"830","Congo",1972,900,6500,NA,NA
+"831","Congo",1973,900,6500,NA,NA
+"832","Congo",1974,800,6200,NA,NA
+"833","Congo",1975,800,6200,NA,NA
+"834","Congo",1976,900,6500,NA,NA
+"835","Congo",1977,850,6500,NA,NA
+"836","Congo",1978,850,6500,NA,NA
+"837","Congo",1979,850,6000,NA,NA
+"838","Congo",1980,850,6000,NA,NA
+"839","Congo",1981,700,5500,NA,NA
+"840","Congo",1982,700,5500,NA,NA
+"841","Congo",1983,750,5500,NA,NA
+"842","Congo",1984,750,5300,NA,NA
+"843","Congo",1985,700,5300,NA,NA
+"844","Congo",1986,700,5400,NA,NA
+"845","Congo",1987,700,5500,NA,NA
+"846","Congo",1988,700,5500,NA,NA
+"847","Congo",1989,700,5500,NA,NA
+"848","Congo",1990,714,5300,NA,NA
+"849","Congo",1991,750,5500,NA,NA
+"850","Congo",1992,731,5487,NA,NA
+"851","Congo",1993,725,5466,NA,NA
+"852","Congo",1994,700,5400,NA,NA
+"853","Congo",1995,717,5448,NA,NA
+"854","Congo",1996,722,5500,NA,NA
+"855","Congo",1997,752,5732,NA,NA
+"856","Congo",1998,743,5675,NA,NA
+"857","Congo",1999,732,5574,NA,NA
+"858","Congo",2000,702,5361,NA,NA
+"859","Congo",2001,705,5400,NA,NA
+"860","Congo",2002,809,6196,NA,NA
+"861","Congo",2003,810,6297,NA,NA
+"862","Congo",2004,850,6570,NA,NA
+"863","Congo",2005,900,6800,NA,NA
+"864","Congo",2006,900,7000,NA,NA
+"865","Congo",2007,930,7200,NA,NA
+"866","Congo",2008,940,7500,NA,NA
+"867","Congo",2009,980,7800,NA,NA
+"868","Congo",2010,1021,8054,NA,NA
+"869","Congo",2011,1050,8294,NA,NA
+"870","Congo",2012,1080,8550,NA,NA
+"871","Congo",2013,1107,8790,NA,NA
+"872","Congo",2014,1133,9017,NA,NA
+"873","Congo",2015,1164,9298,NA,NA
+"874","Congo",2016,1191,9035,NA,NA
+"875","Congo",2017,1162,9117,NA,NA
+"876","Congo",2018,1172,9150,NA,NA
+"877","Congo",2019,1175,9100,NA,NA
+"878","Congo",2020,1170,9122,NA,NA
+"879","Cook Islands",1961,50,450,NA,NA
+"880","Cook Islands",1962,50,450,NA,NA
+"881","Cook Islands",1963,60,500,NA,NA
+"882","Cook Islands",1964,70,530,NA,NA
+"883","Cook Islands",1965,70,550,NA,NA
+"884","Cook Islands",1966,70,550,NA,NA
+"885","Cook Islands",1967,70,600,NA,NA
+"886","Cook Islands",1968,70,600,NA,NA
+"887","Cook Islands",1969,70,600,NA,NA
+"888","Cook Islands",1970,80,650,NA,NA
+"889","Cook Islands",1971,80,660,NA,NA
+"890","Cook Islands",1972,80,660,NA,NA
+"891","Cook Islands",1973,90,671,NA,NA
+"892","Cook Islands",1974,70,671,NA,NA
+"893","Cook Islands",1975,100,850,NA,NA
+"894","Cook Islands",1976,80,600,NA,NA
+"895","Cook Islands",1977,80,600,NA,NA
+"896","Cook Islands",1978,80,600,NA,NA
+"897","Cook Islands",1979,80,600,NA,NA
+"898","Cook Islands",1980,70,500,NA,NA
+"899","Cook Islands",1981,70,500,NA,NA
+"900","Cook Islands",1982,70,500,NA,NA
+"901","Cook Islands",1983,70,500,NA,NA
+"902","Cook Islands",1984,70,500,NA,NA
+"903","Cook Islands",1985,70,500,NA,NA
+"904","Cook Islands",1986,80,670,NA,NA
+"905","Cook Islands",1987,80,670,NA,NA
+"906","Cook Islands",1988,80,670,NA,NA
+"907","Cook Islands",1989,80,670,NA,NA
+"908","Cook Islands",1990,58,507,NA,NA
+"909","Cook Islands",1991,70,500,NA,NA
+"910","Cook Islands",1992,60,400,NA,NA
+"911","Cook Islands",1993,43,292,NA,NA
+"912","Cook Islands",1994,30,200,NA,NA
+"913","Cook Islands",1995,24,159,NA,NA
+"914","Cook Islands",1996,23,149,NA,NA
+"915","Cook Islands",1997,25,150,NA,NA
+"916","Cook Islands",1998,24,150,NA,NA
+"917","Cook Islands",1999,22,140,NA,NA
+"918","Cook Islands",2000,20,124,NA,NA
+"919","Cook Islands",2001,16,101,137,NA
+"920","Cook Islands",2002,10,70,NA,NA
+"921","Cook Islands",2003,5,35,NA,NA
+"922","Cook Islands",2004,3,15,NA,NA
+"923","Cook Islands",2005,3,17,NA,NA
+"924","Cook Islands",2006,3,16,NA,NA
+"925","Cook Islands",2007,5,25,NA,NA
+"926","Cook Islands",2008,6,31,NA,NA
+"927","Cook Islands",2009,6,33,NA,NA
+"928","Cook Islands",2010,6,31,NA,NA
+"929","Cook Islands",2011,6,29,NA,NA
+"930","Cook Islands",2012,5,26,NA,NA
+"931","Cook Islands",2013,5,24,NA,NA
+"932","Cook Islands",2014,5,22,NA,NA
+"933","Cook Islands",2015,5,21,NA,NA
+"934","Cook Islands",2016,5,22,NA,NA
+"935","Cook Islands",2017,5,22,NA,NA
+"936","Cook Islands",2018,5,21,NA,NA
+"937","Cook Islands",2019,5,22,NA,NA
+"938","Cook Islands",2020,5,22,NA,NA
+"939","Costa Rica",1961,1600,10600,NA,NA
+"940","Costa Rica",1962,1700,11000,NA,NA
+"941","Costa Rica",1963,1800,11700,NA,NA
+"942","Costa Rica",1964,1900,12200,NA,NA
+"943","Costa Rica",1965,2000,12800,NA,NA
+"944","Costa Rica",1966,2000,13300,NA,NA
+"945","Costa Rica",1967,2200,14100,NA,NA
+"946","Costa Rica",1968,2300,14800,NA,NA
+"947","Costa Rica",1969,2400,15600,NA,NA
+"948","Costa Rica",1970,2500,16300,NA,NA
+"949","Costa Rica",1971,2600,18000,NA,NA
+"950","Costa Rica",1972,2700,21000,NA,NA
+"951","Costa Rica",1973,3000,23800,NA,NA
+"952","Costa Rica",1974,3000,24000,NA,NA
+"953","Costa Rica",1975,3100,25000,NA,NA
+"954","Costa Rica",1976,3200,25500,NA,NA
+"955","Costa Rica",1977,3300,26000,NA,NA
+"956","Costa Rica",1978,3300,26000,NA,NA
+"957","Costa Rica",1979,3400,27000,NA,NA
+"958","Costa Rica",1980,3500,27500,NA,NA
+"959","Costa Rica",1981,3600,28000,NA,NA
+"960","Costa Rica",1982,3700,21275,NA,NA
+"961","Costa Rica",1983,3750,21563,NA,NA
+"962","Costa Rica",1984,3800,21850,NA,NA
+"963","Costa Rica",1985,3800,21850,NA,NA
+"964","Costa Rica",1986,3800,21850,1804,NA
+"965","Costa Rica",1987,3800,21850,NA,NA
+"966","Costa Rica",1988,3800,21850,NA,NA
+"967","Costa Rica",1989,3900,22000,NA,NA
+"968","Costa Rica",1990,4100,23000,NA,NA
+"969","Costa Rica",1991,4164,23144,NA,NA
+"970","Costa Rica",1992,4200,23200,NA,NA
+"971","Costa Rica",1993,4300,23300,NA,NA
+"972","Costa Rica",1994,4400,23400,36,NA
+"973","Costa Rica",1995,4500,23500,NA,NA
+"974","Costa Rica",1996,4853,24000,NA,NA
+"975","Costa Rica",1997,5074,24000,4,NA
+"976","Costa Rica",1998,5100,23000,NA,NA
+"977","Costa Rica",1999,5367,23000,38,NA
+"978","Costa Rica",2000,5426,22023,NA,NA
+"979","Costa Rica",2001,5465,20926,NA,NA
+"980","Costa Rica",2002,5479,19716,NA,NA
+"981","Costa Rica",2003,5971,18417,NA,NA
+"982","Costa Rica",2004,6026,17051,NA,NA
+"983","Costa Rica",2005,5510,13525,NA,NA
+"984","Costa Rica",2006,5292,11784,NA,NA
+"985","Costa Rica",2007,4209,8434,NA,NA
+"986","Costa Rica",2008,3919,7006,NA,NA
+"987","Costa Rica",2009,3573,5642,NA,NA
+"988","Costa Rica",2010,3166,4370,NA,NA
+"989","Costa Rica",2011,2698,3217,NA,NA
+"990","Costa Rica",2012,1996,1672,NA,7
+"991","Costa Rica",2013,1861,1115,21,NA
+"992","Costa Rica",2014,1888,1185,17,1
+"993","Costa Rica",2015,3004,12158,NA,7
+"994","Costa Rica",2016,3092,12368,NA,13
+"995","Costa Rica",2017,3092,12368,NA,NA
+"996","Costa Rica",2018,3316,11376,NA,20
+"997","Costa Rica",2019,2111,17354,NA,NA
+"998","Costa Rica",2020,3452,13286,NA,NA
+"999","Croatia",2018,0,0,NA,NA
+"1000","Croatia",2019,0,0,NA,NA
+"1001","Croatia",2020,0,0,NA,NA
+"1002","Cuba",1961,1100,35000,NA,NA
+"1003","Cuba",1962,1100,35000,NA,NA
+"1004","Cuba",1963,1100,35983,NA,NA
+"1005","Cuba",1964,1200,37779,NA,NA
+"1006","Cuba",1965,900,31818,NA,NA
+"1007","Cuba",1966,450,12997,NA,NA
+"1008","Cuba",1967,800,27541,NA,NA
+"1009","Cuba",1968,495,16150,NA,NA
+"1010","Cuba",1969,500,16492,NA,NA
+"1011","Cuba",1970,500,16080,NA,NA
+"1012","Cuba",1971,550,11839,NA,NA
+"1013","Cuba",1972,730,18368,NA,NA
+"1014","Cuba",1973,740,18428,NA,NA
+"1015","Cuba",1974,840,20853,NA,NA
+"1016","Cuba",1975,1086,23359,NA,NA
+"1017","Cuba",1976,850,21181,NA,NA
+"1018","Cuba",1977,780,19593,NA,NA
+"1019","Cuba",1978,980,24389,NA,NA
+"1020","Cuba",1979,570,14100,NA,NA
+"1021","Cuba",1980,570,15030,NA,NA
+"1022","Cuba",1981,400,9985,NA,NA
+"1023","Cuba",1982,650,16171,NA,NA
+"1024","Cuba",1983,680,16966,NA,NA
+"1025","Cuba",1984,600,15012,NA,NA
+"1026","Cuba",1985,700,8643,NA,NA
+"1027","Cuba",1986,750,11184,NA,NA
+"1028","Cuba",1987,750,10631,NA,NA
+"1029","Cuba",1988,750,6181,NA,NA
+"1030","Cuba",1989,750,8753,NA,NA
+"1031","Cuba",1990,736,9000,NA,NA
+"1032","Cuba",1991,757,8525,NA,NA
+"1033","Cuba",1992,781,8500,NA,NA
+"1034","Cuba",1993,693,8160,NA,NA
+"1035","Cuba",1994,750,8500,NA,NA
+"1036","Cuba",1995,750,7500,NA,NA
+"1037","Cuba",1996,750,7500,NA,NA
+"1038","Cuba",1997,750,7500,NA,NA
+"1039","Cuba",1998,750,7500,NA,NA
+"1040","Cuba",1999,698,6991,NA,NA
+"1041","Cuba",2000,676,6804,NA,NA
+"1042","Cuba",2001,750,7500,NA,NA
+"1043","Cuba",2002,350,3500,NA,NA
+"1044","Cuba",2003,516,5313,NA,NA
+"1045","Cuba",2004,498,5207,NA,NA
+"1046","Cuba",2005,456,4851,NA,NA
+"1047","Cuba",2006,448,4946,NA,NA
+"1048","Cuba",2007,411,4639,NA,NA
+"1049","Cuba",2008,387,4547,NA,NA
+"1050","Cuba",2009,364,4319,NA,NA
+"1051","Cuba",2010,352,4241,NA,NA
+"1052","Cuba",2011,331,4052,NA,NA
+"1053","Cuba",2012,300,3750,NA,NA
+"1054","Cuba",2013,300,3750,NA,NA
+"1055","Cuba",2014,290,3700,NA,NA
+"1056","Cuba",2015,259,3357,NA,NA
+"1057","Cuba",2016,283,3602,NA,NA
+"1058","Cuba",2017,277,3553,NA,NA
+"1059","Cuba",2018,273,3504,NA,NA
+"1060","Cuba",2019,278,3553,NA,NA
+"1061","Cuba",2020,276,3537,NA,NA
+"1062","Cyprus",1961,55,40,NA,NA
+"1063","Cyprus",1962,56,45,NA,NA
+"1064","Cyprus",1963,57,45,NA,NA
+"1065","Cyprus",1964,58,45,NA,NA
+"1066","Cyprus",1965,59,50,NA,NA
+"1067","Cyprus",1966,61,50,NA,NA
+"1068","Cyprus",1967,63,50,NA,NA
+"1069","Cyprus",1968,65,50,NA,NA
+"1070","Cyprus",1969,66,55,NA,NA
+"1071","Cyprus",1970,67,55,NA,NA
+"1072","Cyprus",1971,68,55,NA,NA
+"1073","Cyprus",1972,69,55,NA,NA
+"1074","Cyprus",1973,70,50,NA,NA
+"1075","Cyprus",1974,63,50,NA,NA
+"1076","Cyprus",1975,64,50,NA,NA
+"1077","Cyprus",1976,65,55,NA,NA
+"1078","Cyprus",1977,66,55,NA,NA
+"1079","Cyprus",1978,67,55,NA,NA
+"1080","Cyprus",1979,67,55,NA,NA
+"1081","Cyprus",1980,70,58,NA,NA
+"1082","Cyprus",1981,74,61,NA,NA
+"1083","Cyprus",1982,87,91,NA,NA
+"1084","Cyprus",1983,107,220,NA,NA
+"1085","Cyprus",1984,114,250,NA,NA
+"1086","Cyprus",1985,134,300,NA,NA
+"1087","Cyprus",1986,134,500,NA,NA
+"1088","Cyprus",1987,134,500,NA,NA
+"1089","Cyprus",1988,134,550,NA,NA
+"1090","Cyprus",1989,134,750,NA,NA
+"1091","Cyprus",1990,140,250,NA,NA
+"1092","Cyprus",1991,150,830,NA,NA
+"1093","Cyprus",1992,150,950,NA,NA
+"1094","Cyprus",1993,150,800,NA,NA
+"1095","Cyprus",1994,100,750,NA,NA
+"1096","Cyprus",1995,110,1200,NA,NA
+"1097","Cyprus",1996,110,1400,NA,NA
+"1098","Cyprus",1997,115,1100,NA,NA
+"1099","Cyprus",1998,110,1100,NA,NA
+"1100","Cyprus",1999,110,1000,NA,NA
+"1101","Cyprus",2000,115,1030,NA,NA
+"1102","Cyprus",2001,120,1030,NA,NA
+"1103","Cyprus",2002,125,1030,NA,NA
+"1104","Cyprus",2003,81,1030,NA,NA
+"1105","Cyprus",2004,95,1093,NA,NA
+"1106","Cyprus",2005,100,1160,NA,NA
+"1107","Cyprus",2006,99,1050,NA,NA
+"1108","Cyprus",2007,106,1114,NA,2
+"1109","Cyprus",2008,80,960,NA,2
+"1110","Cyprus",2009,88,910,NA,NA
+"1111","Cyprus",2010,95,967,NA,NA
+"1112","Cyprus",2011,89,1059,NA,NA
+"1113","Cyprus",2012,87,869,NA,NA
+"1114","Cyprus",2013,104,980,NA,NA
+"1115","Cyprus",2014,92,867,NA,NA
+"1116","Cyprus",2015,88,829,NA,NA
+"1117","Cyprus",2016,86,810,NA,NA
+"1118","Cyprus",2017,77,717,NA,NA
+"1119","Cyprus",2018,100,950,NA,NA
+"1120","Cyprus",2019,100,910,NA,NA
+"1121","Cyprus",2020,100,940,NA,NA
+"1122","Czechia",2018,0,0,NA,NA
+"1123","Czechia",2019,0,0,NA,NA
+"1124","Czechia",2020,0,0,NA,NA
+"1125","Democratic Republic of the Congo",1961,2100,14000,NA,NA
+"1126","Democratic Republic of the Congo",1962,2100,14000,NA,NA
+"1127","Democratic Republic of the Congo",1963,1800,12000,NA,NA
+"1128","Democratic Republic of the Congo",1964,1800,12000,NA,NA
+"1129","Democratic Republic of the Congo",1965,2400,16000,NA,NA
+"1130","Democratic Republic of the Congo",1966,2400,16000,NA,NA
+"1131","Democratic Republic of the Congo",1967,2400,17000,NA,NA
+"1132","Democratic Republic of the Congo",1968,2500,18000,NA,NA
+"1133","Democratic Republic of the Congo",1969,2600,18000,NA,NA
+"1134","Democratic Republic of the Congo",1970,2600,19500,NA,NA
+"1135","Democratic Republic of the Congo",1971,2700,18800,NA,NA
+"1136","Democratic Republic of the Congo",1972,2700,19600,NA,NA
+"1137","Democratic Republic of the Congo",1973,2800,21100,NA,NA
+"1138","Democratic Republic of the Congo",1974,2900,21700,NA,NA
+"1139","Democratic Republic of the Congo",1975,3000,22300,NA,NA
+"1140","Democratic Republic of the Congo",1976,3000,22800,NA,NA
+"1141","Democratic Republic of the Congo",1977,3100,21800,NA,NA
+"1142","Democratic Republic of the Congo",1978,3400,21700,NA,NA
+"1143","Democratic Republic of the Congo",1979,5000,35000,NA,NA
+"1144","Democratic Republic of the Congo",1980,5100,35700,NA,NA
+"1145","Democratic Republic of the Congo",1981,5300,37100,NA,NA
+"1146","Democratic Republic of the Congo",1982,5400,37800,NA,NA
+"1147","Democratic Republic of the Congo",1983,5600,39200,NA,NA
+"1148","Democratic Republic of the Congo",1984,5700,39900,NA,NA
+"1149","Democratic Republic of the Congo",1985,5800,40700,NA,NA
+"1150","Democratic Republic of the Congo",1986,5600,41900,NA,NA
+"1151","Democratic Republic of the Congo",1987,5800,43200,NA,NA
+"1152","Democratic Republic of the Congo",1988,5800,44000,NA,NA
+"1153","Democratic Republic of the Congo",1989,5900,44900,NA,NA
+"1154","Democratic Republic of the Congo",1990,5300,40000,NA,NA
+"1155","Democratic Republic of the Congo",1991,6148,70962,NA,NA
+"1156","Democratic Republic of the Congo",1992,5400,76911,NA,NA
+"1157","Democratic Republic of the Congo",1993,5829,83353,NA,NA
+"1158","Democratic Republic of the Congo",1994,5400,90334,NA,NA
+"1159","Democratic Republic of the Congo",1995,4600,60743,NA,NA
+"1160","Democratic Republic of the Congo",1996,3985,58520,NA,NA
+"1161","Democratic Republic of the Congo",1997,4013,60356,NA,NA
+"1162","Democratic Republic of the Congo",1998,4042,62012,NA,NA
+"1163","Democratic Republic of the Congo",1999,6000,63713,NA,NA
+"1164","Democratic Republic of the Congo",2000,8401,62500,NA,NA
+"1165","Democratic Republic of the Congo",2001,8241,61310,NA,NA
+"1166","Democratic Republic of the Congo",2002,8083,60143,NA,NA
+"1167","Democratic Republic of the Congo",2003,8194,60960,NA,NA
+"1168","Democratic Republic of the Congo",2004,8305,61790,NA,NA
+"1169","Democratic Republic of the Congo",2005,8418,62630,NA,NA
+"1170","Democratic Republic of the Congo",2006,8532,63480,NA,NA
+"1171","Democratic Republic of the Congo",2007,8600,64340,NA,NA
+"1172","Democratic Republic of the Congo",2008,8766,65220,NA,NA
+"1173","Democratic Republic of the Congo",2009,8886,66112,NA,NA
+"1174","Democratic Republic of the Congo",2010,9008,67016,NA,NA
+"1175","Democratic Republic of the Congo",2011,9466,67933,NA,NA
+"1176","Democratic Republic of the Congo",2012,9163,66509,NA,NA
+"1177","Democratic Republic of the Congo",2013,8901,65303,NA,NA
+"1178","Democratic Republic of the Congo",2014,8895,63838,NA,NA
+"1179","Democratic Republic of the Congo",2015,9162,63275,NA,NA
+"1180","Democratic Republic of the Congo",2016,9340,62709,NA,NA
+"1181","Democratic Republic of the Congo",2017,9039,62833,NA,NA
+"1182","Democratic Republic of the Congo",2018,8777,62822,NA,NA
+"1183","Democratic Republic of the Congo",2019,8758,62674,NA,NA
+"1184","Democratic Republic of the Congo",2020,8744,62565,NA,NA
+"1185","Denmark",2018,0,0,NA,NA
+"1186","Denmark",2019,0,0,NA,NA
+"1187","Denmark",2020,0,0,NA,NA
+"1188","Dominica",1961,NA,100,NA,NA
+"1189","Dominica",1962,NA,100,NA,NA
+"1190","Dominica",1963,NA,100,NA,NA
+"1191","Dominica",1964,NA,100,NA,NA
+"1192","Dominica",1965,NA,100,NA,NA
+"1193","Dominica",1966,NA,100,NA,NA
+"1194","Dominica",1967,NA,100,NA,NA
+"1195","Dominica",1968,NA,100,NA,NA
+"1196","Dominica",1969,NA,100,NA,NA
+"1197","Dominica",1970,NA,100,NA,NA
+"1198","Dominica",1971,NA,100,NA,NA
+"1199","Dominica",1972,NA,100,NA,NA
+"1200","Dominica",1973,NA,100,NA,NA
+"1201","Dominica",1974,NA,100,NA,NA
+"1202","Dominica",1975,NA,100,NA,NA
+"1203","Dominica",1976,NA,100,NA,NA
+"1204","Dominica",1977,NA,100,NA,NA
+"1205","Dominica",1978,NA,100,NA,NA
+"1206","Dominica",1979,NA,101,NA,NA
+"1207","Dominica",1980,NA,152,NA,NA
+"1208","Dominica",1981,NA,157,NA,NA
+"1209","Dominica",1982,NA,160,NA,NA
+"1210","Dominica",1983,NA,193,NA,NA
+"1211","Dominica",1984,NA,231,NA,NA
+"1212","Dominica",1985,90,209,NA,NA
+"1213","Dominica",1986,90,280,NA,NA
+"1214","Dominica",1987,90,263,NA,NA
+"1215","Dominica",1988,90,358,NA,NA
+"1216","Dominica",1989,180,803,NA,NA
+"1217","Dominica",1990,177,695,NA,NA
+"1218","Dominica",1991,181,718,NA,NA
+"1219","Dominica",1992,190,861,NA,NA
+"1220","Dominica",1993,200,1071,NA,NA
+"1221","Dominica",1994,130,600,NA,NA
+"1222","Dominica",1995,100,323,NA,NA
+"1223","Dominica",1996,130,400,NA,NA
+"1224","Dominica",1997,129,471,5,NA
+"1225","Dominica",1998,123,480,NA,NA
+"1226","Dominica",1999,140,600,NA,NA
+"1227","Dominica",2000,154,642,NA,NA
+"1228","Dominica",2001,154,644,NA,NA
+"1229","Dominica",2002,154,637,NA,NA
+"1230","Dominica",2003,150,650,NA,NA
+"1231","Dominica",2004,152,584,NA,NA
+"1232","Dominica",2005,147,536,NA,NA
+"1233","Dominica",2006,144,495,NA,NA
+"1234","Dominica",2007,142,457,2,NA
+"1235","Dominica",2008,140,422,3,NA
+"1236","Dominica",2009,139,393,NA,NA
+"1237","Dominica",2010,140,350,NA,NA
+"1238","Dominica",2011,140,366,NA,NA
+"1239","Dominica",2012,145,360,NA,NA
+"1240","Dominica",2013,144,367,NA,NA
+"1241","Dominica",2014,146,377,NA,NA
+"1242","Dominica",2015,155,380,3,NA
+"1243","Dominica",2016,148,371,NA,NA
+"1244","Dominica",2017,153,376,NA,NA
+"1245","Dominica",2018,155,376,NA,NA
+"1246","Dominica",2019,152,374,NA,NA
+"1247","Dominica",2020,153,375,NA,NA
+"1248","Dominican Republic",1961,NA,106215,NA,NA
+"1249","Dominican Republic",1962,NA,107850,NA,NA
+"1250","Dominican Republic",1963,NA,109511,NA,NA
+"1251","Dominican Republic",1964,NA,115674,NA,NA
+"1252","Dominican Republic",1965,NA,116520,NA,NA
+"1253","Dominican Republic",1966,NA,115162,NA,NA
+"1254","Dominican Republic",1967,NA,116798,NA,NA
+"1255","Dominican Republic",1968,NA,118433,NA,NA
+"1256","Dominican Republic",1969,NA,120067,NA,NA
+"1257","Dominican Republic",1970,NA,121702,NA,NA
+"1258","Dominican Republic",1971,NA,123337,NA,NA
+"1259","Dominican Republic",1972,NA,124972,NA,NA
+"1260","Dominican Republic",1973,NA,126607,NA,NA
+"1261","Dominican Republic",1974,NA,128242,NA,NA
+"1262","Dominican Republic",1975,NA,129877,NA,NA
+"1263","Dominican Republic",1976,NA,131512,NA,NA
+"1264","Dominican Republic",1977,NA,133146,NA,NA
+"1265","Dominican Republic",1978,NA,134782,NA,NA
+"1266","Dominican Republic",1979,NA,138700,NA,NA
+"1267","Dominican Republic",1980,NA,124800,NA,NA
+"1268","Dominican Republic",1981,NA,134000,NA,NA
+"1269","Dominican Republic",1982,NA,136000,NA,NA
+"1270","Dominican Republic",1983,NA,138000,NA,NA
+"1271","Dominican Republic",1984,NA,130996,NA,NA
+"1272","Dominican Republic",1985,16000,129031,NA,NA
+"1273","Dominican Republic",1986,16000,132680,1829,NA
+"1274","Dominican Republic",1987,16000,129490,1304,NA
+"1275","Dominican Republic",1988,16000,124890,1214,NA
+"1276","Dominican Republic",1989,16000,137150,1091,NA
+"1277","Dominican Republic",1990,1104,7376,1659,NA
+"1278","Dominican Republic",1991,1012,20803,2404,NA
+"1279","Dominican Republic",1992,1494,11369,7025,19
+"1280","Dominican Republic",1993,1667,12082,5632,NA
+"1281","Dominican Republic",1994,2518,27197,4386,NA
+"1282","Dominican Republic",1995,5907,48030,6070,NA
+"1283","Dominican Republic",1996,7052,11989,6890,19
+"1284","Dominican Republic",1997,3914,30972,6377,NA
+"1285","Dominican Republic",1998,6196,60019,6030,NA
+"1286","Dominican Republic",1999,6978,71158,8308,40
+"1287","Dominican Republic",2000,6101,81736,9825,29
+"1288","Dominican Republic",2001,2901,111058,9034,19
+"1289","Dominican Republic",2002,3794,147534,11538,211
+"1290","Dominican Republic",2003,6578,273606,15229,15
+"1291","Dominican Republic",2004,6859,220146,12669,5
+"1292","Dominican Republic",2005,5084,112706,14821,18
+"1293","Dominican Republic",2006,7151,216378,12398,NA
+"1294","Dominican Republic",2007,6967,183468,15362,30
+"1295","Dominican Republic",2008,5832,188139,15661,27
+"1296","Dominican Republic",2009,7183,184357,14146,32
+"1297","Dominican Republic",2010,10558,285590,14774,73
+"1298","Dominican Republic",2011,10649,295081,16731,70
+"1299","Dominican Republic",2012,11184,290011,15140,4
+"1300","Dominican Republic",2013,12922,387546,16988,25
+"1301","Dominican Republic",2014,12927,513961,15171,NA
+"1302","Dominican Republic",2015,13112,526438,9469,NA
+"1303","Dominican Republic",2016,40125,601349,16656,NA
+"1304","Dominican Republic",2017,41711,637688,24103,33
+"1305","Dominican Republic",2018,41732,644603,26082,24
+"1306","Dominican Republic",2019,42571,665652,27041,NA
+"1307","Dominican Republic",2020,43129,676373,30042,NA
+"1308","Ecuador",1961,1300,16000,NA,NA
+"1309","Ecuador",1962,1599,25920,NA,NA
+"1310","Ecuador",1963,1816,29174,NA,NA
+"1311","Ecuador",1964,1901,28782,NA,NA
+"1312","Ecuador",1965,2451,23984,NA,NA
+"1313","Ecuador",1966,2280,22998,NA,NA
+"1314","Ecuador",1967,3037,27395,NA,NA
+"1315","Ecuador",1968,3013,30788,NA,NA
+"1316","Ecuador",1969,2802,23768,NA,NA
+"1317","Ecuador",1970,2905,23358,NA,NA
+"1318","Ecuador",1971,2028,21670,NA,NA
+"1319","Ecuador",1972,3167,27200,NA,NA
+"1320","Ecuador",1973,3011,24317,NA,NA
+"1321","Ecuador",1974,5248,29332,NA,NA
+"1322","Ecuador",1975,4889,31936,NA,NA
+"1323","Ecuador",1976,4635,43495,NA,NA
+"1324","Ecuador",1977,2664,40466,NA,NA
+"1325","Ecuador",1978,2709,31346,NA,NA
+"1326","Ecuador",1979,2729,28994,NA,NA
+"1327","Ecuador",1980,2825,29055,NA,NA
+"1328","Ecuador",1981,2892,30617,NA,NA
+"1329","Ecuador",1982,2945,31076,NA,NA
+"1330","Ecuador",1983,2954,29561,NA,NA
+"1331","Ecuador",1984,3275,32577,NA,NA
+"1332","Ecuador",1985,3394,28382,NA,NA
+"1333","Ecuador",1986,3465,20290,724,NA
+"1334","Ecuador",1987,3200,20026,NA,NA
+"1335","Ecuador",1988,3710,16376,NA,NA
+"1336","Ecuador",1989,3390,13432,NA,NA
+"1337","Ecuador",1990,3100,18655,NA,NA
+"1338","Ecuador",1991,3380,18083,NA,NA
+"1339","Ecuador",1992,3180,16083,NA,NA
+"1340","Ecuador",1993,3560,17668,NA,NA
+"1341","Ecuador",1994,3380,24063,NA,NA
+"1342","Ecuador",1995,3080,12568,123,NA
+"1343","Ecuador",1996,4187,31694,NA,NA
+"1344","Ecuador",1997,4500,43998,NA,NA
+"1345","Ecuador",1998,2802,23577,NA,NA
+"1346","Ecuador",1999,2678,21203,NA,1
+"1347","Ecuador",2000,2219,16104,NA,NA
+"1348","Ecuador",2001,2512,16296,NA,NA
+"1349","Ecuador",2002,2367,15303,36,NA
+"1350","Ecuador",2003,1600,11850,54,NA
+"1351","Ecuador",2004,2572,21928,NA,NA
+"1352","Ecuador",2005,2931,27580,NA,NA
+"1353","Ecuador",2006,2950,28000,NA,NA
+"1354","Ecuador",2007,3000,28500,NA,NA
+"1355","Ecuador",2008,2900,27687,NA,NA
+"1356","Ecuador",2009,2950,28000,NA,NA
+"1357","Ecuador",2010,3334,29000,NA,NA
+"1358","Ecuador",2011,3292,27000,NA,NA
+"1359","Ecuador",2012,3917,28600,NA,NA
+"1360","Ecuador",2013,4044,27000,NA,NA
+"1361","Ecuador",2014,3855,23587,NA,NA
+"1362","Ecuador",2015,4092,22597,NA,NA
+"1363","Ecuador",2016,3615,16118,NA,NA
+"1364","Ecuador",2017,4653,20995,NA,NA
+"1365","Ecuador",2018,4309,18232,NA,NA
+"1366","Ecuador",2019,4415,26408,NA,NA
+"1367","Ecuador",2020,4822,20352,NA,NA
+"1368","El Salvador",1961,1600,16400,NA,NA
+"1369","El Salvador",1962,1800,17600,NA,NA
+"1370","El Salvador",1963,1800,17900,NA,NA
+"1371","El Salvador",1964,1900,18800,NA,NA
+"1372","El Salvador",1965,2000,19800,NA,NA
+"1373","El Salvador",1966,2100,20800,NA,NA
+"1374","El Salvador",1967,2200,21900,NA,NA
+"1375","El Salvador",1968,2400,23600,NA,NA
+"1376","El Salvador",1969,2400,24000,NA,NA
+"1377","El Salvador",1970,2400,24100,NA,NA
+"1378","El Salvador",1971,2400,24500,NA,NA
+"1379","El Salvador",1972,2400,25000,NA,NA
+"1380","El Salvador",1973,2500,26000,NA,NA
+"1381","El Salvador",1974,2600,27000,NA,NA
+"1382","El Salvador",1975,2700,28000,NA,NA
+"1383","El Salvador",1976,2800,29000,NA,NA
+"1384","El Salvador",1977,3000,30000,NA,NA
+"1385","El Salvador",1978,3100,31000,NA,NA
+"1386","El Salvador",1979,3100,31000,NA,NA
+"1387","El Salvador",1980,3100,31000,NA,NA
+"1388","El Salvador",1981,3200,32000,NA,NA
+"1389","El Salvador",1982,3300,33000,NA,NA
+"1390","El Salvador",1983,3350,33500,NA,NA
+"1391","El Salvador",1984,3400,34000,NA,NA
+"1392","El Salvador",1985,3400,34000,NA,NA
+"1393","El Salvador",1986,3500,35000,NA,NA
+"1394","El Salvador",1987,3500,35000,NA,NA
+"1395","El Salvador",1988,3600,36000,NA,NA
+"1396","El Salvador",1989,3700,37000,NA,NA
+"1397","El Salvador",1990,3800,38000,NA,NA
+"1398","El Salvador",1991,3900,39000,NA,NA
+"1399","El Salvador",1992,4000,40000,NA,NA
+"1400","El Salvador",1993,4000,40000,NA,NA
+"1401","El Salvador",1994,4100,41000,NA,NA
+"1402","El Salvador",1995,4100,41000,NA,NA
+"1403","El Salvador",1996,4150,41500,NA,NA
+"1404","El Salvador",1997,4200,42000,NA,NA
+"1405","El Salvador",1998,4250,42500,NA,NA
+"1406","El Salvador",1999,4250,42500,NA,NA
+"1407","El Salvador",2000,4000,40000,NA,NA
+"1408","El Salvador",2001,2600,23000,NA,NA
+"1409","El Salvador",2002,800,7000,NA,NA
+"1410","El Salvador",2003,794,6822,NA,NA
+"1411","El Salvador",2004,983,8442,NA,NA
+"1412","El Salvador",2005,1046,8976,NA,NA
+"1413","El Salvador",2006,1163,1920,NA,NA
+"1414","El Salvador",2007,1331,1958,NA,NA
+"1415","El Salvador",2008,1450,2135,NA,2
+"1416","El Salvador",2009,1481,2182,NA,NA
+"1417","El Salvador",2010,440,1880,NA,NA
+"1418","El Salvador",2011,639,2887,NA,NA
+"1419","El Salvador",2012,615,5250,NA,16
+"1420","El Salvador",2013,644,8256,NA,NA
+"1421","El Salvador",2014,650,10245,NA,NA
+"1422","El Salvador",2015,647,9190,NA,NA
+"1423","El Salvador",2016,644,10537,NA,2
+"1424","El Salvador",2017,1117,36088,NA,NA
+"1425","El Salvador",2018,1257,41011,NA,NA
+"1426","El Salvador",2019,1257,40613,NA,NA
+"1427","El Salvador",2020,1221,40992,NA,NA
+"1428","Estonia",2018,0,0,NA,NA
+"1429","Estonia",2019,0,0,NA,NA
+"1430","Estonia",2020,0,0,NA,NA
+"1431","Eswatini",1961,NA,NA,NA,NA
+"1432","Eswatini",1962,NA,NA,NA,NA
+"1433","Eswatini",1963,NA,NA,NA,NA
+"1434","Eswatini",1964,NA,NA,NA,NA
+"1435","Eswatini",1965,NA,NA,NA,NA
+"1436","Eswatini",1966,NA,NA,NA,NA
+"1437","Eswatini",1967,NA,NA,NA,NA
+"1438","Eswatini",1968,NA,NA,NA,NA
+"1439","Eswatini",1969,NA,NA,NA,NA
+"1440","Eswatini",1970,NA,NA,NA,NA
+"1441","Eswatini",1971,NA,NA,NA,NA
+"1442","Eswatini",1972,NA,NA,NA,NA
+"1443","Eswatini",1973,NA,NA,NA,NA
+"1444","Eswatini",1974,NA,NA,NA,NA
+"1445","Eswatini",1975,NA,NA,NA,NA
+"1446","Eswatini",1976,NA,NA,NA,NA
+"1447","Eswatini",1977,NA,NA,NA,NA
+"1448","Eswatini",1978,NA,NA,NA,NA
+"1449","Eswatini",1979,NA,NA,NA,NA
+"1450","Eswatini",1980,NA,NA,NA,NA
+"1451","Eswatini",1981,NA,NA,NA,NA
+"1452","Eswatini",1982,NA,NA,NA,NA
+"1453","Eswatini",1983,NA,NA,NA,NA
+"1454","Eswatini",1984,NA,NA,NA,NA
+"1455","Eswatini",1985,NA,NA,NA,NA
+"1456","Eswatini",1986,NA,NA,NA,NA
+"1457","Eswatini",1987,NA,NA,NA,NA
+"1458","Eswatini",1988,NA,NA,NA,NA
+"1459","Eswatini",1989,NA,NA,NA,NA
+"1460","Eswatini",1990,NA,NA,NA,NA
+"1461","Eswatini",1991,NA,NA,NA,NA
+"1462","Eswatini",1992,NA,NA,NA,NA
+"1463","Eswatini",1993,NA,NA,NA,NA
+"1464","Eswatini",1994,NA,NA,NA,NA
+"1465","Eswatini",1995,NA,NA,NA,NA
+"1466","Eswatini",1996,NA,NA,NA,NA
+"1467","Eswatini",1997,48,280,NA,NA
+"1468","Eswatini",1998,45,250,NA,NA
+"1469","Eswatini",1999,24,140,NA,NA
+"1470","Eswatini",2000,51,310,NA,NA
+"1471","Eswatini",2001,24,140,NA,NA
+"1472","Eswatini",2002,36,210,NA,NA
+"1473","Eswatini",2003,60,350,NA,NA
+"1474","Eswatini",2004,56,325,NA,NA
+"1475","Eswatini",2005,55,280,NA,NA
+"1476","Eswatini",2006,80,500,NA,NA
+"1477","Eswatini",2007,100,650,NA,NA
+"1478","Eswatini",2008,123,750,NA,NA
+"1479","Eswatini",2009,120,731,NA,NA
+"1480","Eswatini",2010,125,800,NA,NA
+"1481","Eswatini",2011,130,789,NA,NA
+"1482","Eswatini",2012,130,750,NA,NA
+"1483","Eswatini",2013,136,811,NA,NA
+"1484","Eswatini",2014,137,834,NA,NA
+"1485","Eswatini",2015,154,934,NA,NA
+"1486","Eswatini",2016,142,860,NA,NA
+"1487","Eswatini",2017,145,876,NA,NA
+"1488","Eswatini",2018,147,890,NA,NA
+"1489","Eswatini",2019,145,875,NA,NA
+"1490","Eswatini",2020,145,880,NA,NA
+"1491","Ethiopia",1993,NA,NA,NA,NA
+"1492","Ethiopia",1994,NA,NA,NA,NA
+"1493","Ethiopia",1995,NA,NA,NA,NA
+"1494","Ethiopia",1996,NA,NA,NA,NA
+"1495","Ethiopia",1997,NA,NA,NA,NA
+"1496","Ethiopia",1998,NA,NA,NA,NA
+"1497","Ethiopia",1999,NA,NA,NA,NA
+"1498","Ethiopia",2000,9754,78032,NA,NA
+"1499","Ethiopia",2001,2414,13888,NA,NA
+"1500","Ethiopia",2002,2600,15000,NA,NA
+"1501","Ethiopia",2003,2938,17201,NA,NA
+"1502","Ethiopia",2004,3248,16740,NA,NA
+"1503","Ethiopia",2005,3596,28348,NA,NA
+"1504","Ethiopia",2006,4716,34845,NA,NA
+"1505","Ethiopia",2007,6473,42849,NA,NA
+"1506","Ethiopia",2008,5067,32452,NA,NA
+"1507","Ethiopia",2009,5694,37651,NA,NA
+"1508","Ethiopia",2010,7212,57299,NA,NA
+"1509","Ethiopia",2011,9024,73097,NA,NA
+"1510","Ethiopia",2012,8938,25633,NA,NA
+"1511","Ethiopia",2013,10590,18206,NA,NA
+"1512","Ethiopia",2014,13798,53698,NA,NA
+"1513","Ethiopia",2015,13665,59331,NA,NA
+"1514","Ethiopia",2016,17835,64982,NA,NA
+"1515","Ethiopia",2017,18021,81432,NA,NA
+"1516","Ethiopia",2018,19759,84794,NA,NA
+"1517","Ethiopia",2019,20908,104492,NA,NA
+"1518","Ethiopia",2020,30588,245336,NA,NA
+"1519","Finland",2018,0,0,NA,NA
+"1520","Finland",2019,0,0,NA,NA
+"1521","Finland",2020,0,0,NA,NA
+"1522","France",1974,35,200,NA,NA
+"1523","France",1975,35,230,NA,NA
+"1524","France",1976,35,220,NA,NA
+"1525","France",1977,15,95,NA,NA
+"1526","France",1978,20,65,NA,NA
+"1527","France",1988,100,300,NA,3366
+"1528","France",1989,70,400,NA,744
+"1529","France",1990,70,350,NA,42
+"1530","France",1991,13,74,NA,39
+"1531","France",1992,11,75,NA,475
+"1532","France",1993,11,75,NA,3106
+"1533","France",1994,11,75,NA,2887
+"1534","France",1995,11,75,NA,9398
+"1535","France",1996,11,64,NA,312
+"1536","France",1997,11,70,NA,264
+"1537","France",1998,11,70,NA,20
+"1538","France",1999,11,77,NA,3
+"1539","France",2000,171,1498,NA,19
+"1540","France",2001,181,1611,NA,21
+"1541","France",2002,162,1459,NA,3
+"1542","France",2003,304,940,NA,NA
+"1543","France",2004,304,1176,NA,NA
+"1544","France",2005,328,980,NA,NA
+"1545","France",2006,352,996,NA,NA
+"1546","France",2007,284,957,NA,NA
+"1547","France",2008,219,1411,NA,NA
+"1548","France",2009,217,2347,NA,NA
+"1549","France",2010,304,1983,NA,NA
+"1550","France",2011,304,1256,NA,NA
+"1551","France",2012,328,980,NA,NA
+"1552","France",2013,351,980,NA,NA
+"1553","France",2014,284,957,NA,NA
+"1554","France",2015,296,941,NA,NA
+"1555","France",2016,228,1926,NA,7
+"1556","France",2017,238,2568,NA,NA
+"1557","France",2018,240,2460,NA,NA
+"1558","France",2019,240,2080,NA,NA
+"1559","France",2020,240,2040,NA,NA
+"1560","French Guyana",1970,150,60,NA,NA
+"1561","French Guyana",1971,150,60,NA,NA
+"1562","French Guyana",1972,150,80,NA,NA
+"1563","French Guyana",1973,150,90,NA,NA
+"1564","French Guyana",1974,150,150,NA,NA
+"1565","French Guyana",1975,150,150,NA,NA
+"1566","French Guyana",1976,144,75,NA,NA
+"1567","French Guyana",1977,140,70,NA,NA
+"1568","French Guyana",1978,100,60,NA,NA
+"1569","French Guyana",1979,90,60,NA,NA
+"1570","French Guyana",1980,90,60,NA,NA
+"1571","French Guyana",1981,60,40,NA,NA
+"1572","French Guyana",1982,40,32,NA,NA
+"1573","French Guyana",1983,40,32,NA,NA
+"1574","French Guyana",1984,41,33,NA,NA
+"1575","French Guyana",1985,41,30,NA,NA
+"1576","French Guyana",1986,35,35,NA,NA
+"1577","French Guyana",1987,35,35,NA,NA
+"1578","French Guyana",1988,28,56,NA,NA
+"1579","French Guyana",1989,25,50,NA,NA
+"1580","French Guyana",1990,27,52,NA,NA
+"1581","French Guyana",1991,14,29,NA,NA
+"1582","French Guyana",1992,28,69,NA,NA
+"1583","French Guyana",1993,43,132,NA,NA
+"1584","French Guyana",1994,61,147,NA,NA
+"1585","French Guyana",1995,67,247,NA,NA
+"1586","French Guyana",1996,67,247,NA,NA
+"1587","French Guyana",1997,67,208,NA,NA
+"1588","French Guyana",1998,67,247,NA,NA
+"1589","French Guyana",1999,67,247,NA,NA
+"1590","French Guyana",2000,47,208,NA,NA
+"1591","French Guyana",2001,32,185,NA,NA
+"1592","French Guyana",2002,33,250,NA,NA
+"1593","French Guyana",2003,50,483,NA,NA
+"1594","French Guyana",2004,70,803,NA,NA
+"1595","French Guyana",2005,45,1087,NA,NA
+"1596","French Guyana",2006,34,1347,NA,NA
+"1597","French Polynesia",1987,3,28,NA,NA
+"1598","French Polynesia",1988,3,37,NA,NA
+"1599","French Polynesia",1989,5,57,NA,NA
+"1600","French Polynesia",1990,5,57,NA,NA
+"1601","French Polynesia",1991,5,61,NA,NA
+"1602","French Polynesia",1992,4,40,NA,NA
+"1603","French Polynesia",1993,5,50,NA,NA
+"1604","French Polynesia",1994,6,62,NA,NA
+"1605","French Polynesia",1995,7,70,NA,NA
+"1606","French Polynesia",1996,7,75,NA,NA
+"1607","French Polynesia",1997,7,78,NA,NA
+"1608","French Polynesia",1998,6,67,NA,NA
+"1609","French Polynesia",1999,6,70,NA,NA
+"1610","French Polynesia",2000,7,77,NA,NA
+"1611","French Polynesia",2001,7,82,NA,NA
+"1612","French Polynesia",2002,7,86,NA,NA
+"1613","French Polynesia",2003,7,87,NA,NA
+"1614","French Polynesia",2004,7,88,NA,NA
+"1615","French Polynesia",2005,7,88,NA,NA
+"1616","French Polynesia",2006,7,91,NA,NA
+"1617","French Polynesia",2007,10,132,NA,NA
+"1618","French Polynesia",2008,11,147,NA,NA
+"1619","French Polynesia",2009,11,150,NA,NA
+"1620","French Polynesia",2010,7,97,NA,NA
+"1621","French Polynesia",2011,7,100,NA,NA
+"1622","French Polynesia",2012,7,105,NA,NA
+"1623","French Polynesia",2013,8,110,NA,NA
+"1624","French Polynesia",2014,8,110,NA,NA
+"1625","French Polynesia",2015,8,112,NA,NA
+"1626","French Polynesia",2016,8,111,NA,NA
+"1627","French Polynesia",2017,8,111,NA,NA
+"1628","French Polynesia",2018,8,111,NA,NA
+"1629","French Polynesia",2019,8,111,NA,NA
+"1630","French Polynesia",2020,8,111,NA,NA
+"1631","Germany",2018,0,0,NA,NA
+"1632","Germany",2019,0,0,NA,7
+"1633","Germany",2020,0,0,NA,NA
+"1634","Ghana",1961,1000,4000,NA,NA
+"1635","Ghana",1962,1000,4000,NA,NA
+"1636","Ghana",1963,1000,4000,NA,NA
+"1637","Ghana",1964,1000,4000,NA,NA
+"1638","Ghana",1965,1000,3861,NA,NA
+"1639","Ghana",1966,1000,4064,NA,NA
+"1640","Ghana",1967,1000,3759,NA,NA
+"1641","Ghana",1968,1000,4000,NA,NA
+"1642","Ghana",1969,1000,4000,NA,NA
+"1643","Ghana",1970,1000,4000,NA,NA
+"1644","Ghana",1971,1000,4000,NA,NA
+"1645","Ghana",1972,1000,4000,NA,NA
+"1646","Ghana",1973,1000,4000,NA,NA
+"1647","Ghana",1974,1000,4000,NA,NA
+"1648","Ghana",1975,1000,4000,NA,NA
+"1649","Ghana",1976,1000,4000,NA,NA
+"1650","Ghana",1977,1000,4000,NA,NA
+"1651","Ghana",1978,1000,4000,NA,NA
+"1652","Ghana",1979,1000,4000,NA,NA
+"1653","Ghana",1980,1000,4000,NA,NA
+"1654","Ghana",1981,1000,4000,NA,NA
+"1655","Ghana",1982,1100,4500,NA,NA
+"1656","Ghana",1983,1000,4000,NA,NA
+"1657","Ghana",1984,1100,4300,NA,NA
+"1658","Ghana",1985,1150,4500,NA,NA
+"1659","Ghana",1986,1300,5000,NA,NA
+"1660","Ghana",1987,1300,5500,NA,NA
+"1661","Ghana",1988,1300,5700,NA,NA
+"1662","Ghana",1989,1300,5800,NA,NA
+"1663","Ghana",1990,920,5900,NA,NA
+"1664","Ghana",1991,1298,6000,NA,NA
+"1665","Ghana",1992,1315,6100,NA,NA
+"1666","Ghana",1993,1332,6200,NA,NA
+"1667","Ghana",1994,1342,6268,NA,NA
+"1668","Ghana",1995,1344,6300,NA,NA
+"1669","Ghana",1996,1370,6442,NA,NA
+"1670","Ghana",1997,1385,6535,NA,NA
+"1671","Ghana",1998,1400,6627,NA,NA
+"1672","Ghana",1999,1414,6718,NA,NA
+"1673","Ghana",2000,1433,6832,NA,NA
+"1674","Ghana",2001,1450,6936,NA,NA
+"1675","Ghana",2002,1442,6919,NA,NA
+"1676","Ghana",2003,1471,7084,NA,NA
+"1677","Ghana",2004,1489,7224,NA,NA
+"1678","Ghana",2005,1513,7371,NA,NA
+"1679","Ghana",2006,1500,7350,NA,NA
+"1680","Ghana",2007,1650,7900,NA,NA
+"1681","Ghana",2008,1683,8000,NA,NA
+"1682","Ghana",2009,1719,8118,NA,NA
+"1683","Ghana",2010,1762,8272,NA,NA
+"1684","Ghana",2011,1821,8500,NA,NA
+"1685","Ghana",2012,1900,8750,NA,NA
+"1686","Ghana",2013,1885,8704,NA,NA
+"1687","Ghana",2014,1900,8700,NA,NA
+"1688","Ghana",2015,1932,8802,NA,NA
+"1689","Ghana",2016,1974,8950,NA,NA
+"1690","Ghana",2017,1935,8817,NA,NA
+"1691","Ghana",2018,1947,8856,NA,NA
+"1692","Ghana",2019,1952,8874,NA,NA
+"1693","Ghana",2020,1945,8849,NA,NA
+"1694","Greece",1981,150,500,NA,NA
+"1695","Greece",1982,150,500,NA,NA
+"1696","Greece",1983,150,500,NA,NA
+"1697","Greece",1984,150,500,NA,NA
+"1698","Greece",1985,170,746,NA,NA
+"1699","Greece",1986,127,565,NA,NA
+"1700","Greece",1987,151,488,NA,NA
+"1701","Greece",1988,254,941,NA,1
+"1702","Greece",1989,306,727,NA,NA
+"1703","Greece",1990,267,812,NA,NA
+"1704","Greece",1991,357,1608,NA,NA
+"1705","Greece",1992,426,1678,NA,NA
+"1706","Greece",1993,460,1944,NA,NA
+"1707","Greece",1994,442,2010,NA,NA
+"1708","Greece",1995,386,1453,NA,NA
+"1709","Greece",1996,366,1511,NA,NA
+"1710","Greece",1997,365,1562,NA,NA
+"1711","Greece",1998,353,1544,NA,NA
+"1712","Greece",1999,349,1473,NA,NA
+"1713","Greece",2000,585,1925,NA,NA
+"1714","Greece",2001,336,1471,NA,NA
+"1715","Greece",2002,317,1578,NA,NA
+"1716","Greece",2003,342,1596,NA,NA
+"1717","Greece",2004,315,1635,NA,NA
+"1718","Greece",2005,316,1538,NA,NA
+"1719","Greece",2006,308,1534,NA,NA
+"1720","Greece",2007,334,1538,NA,NA
+"1721","Greece",2008,321,1427,NA,NA
+"1722","Greece",2009,316,1427,NA,NA
+"1723","Greece",2010,316,1431,NA,NA
+"1724","Greece",2011,318,1427,NA,NA
+"1725","Greece",2012,320,1478,NA,NA
+"1726","Greece",2013,306,1415,NA,NA
+"1727","Greece",2014,289,1474,NA,NA
+"1728","Greece",2015,311,1542,NA,NA
+"1729","Greece",2016,318,1731,NA,NA
+"1730","Greece",2017,307,1756,NA,NA
+"1731","Greece",2018,720,6530,NA,NA
+"1732","Greece",2019,1080,9380,NA,NA
+"1733","Greece",2020,1100,9570,NA,NA
+"1734","Grenada",1961,NA,2000,NA,NA
+"1735","Grenada",1962,NA,2000,NA,NA
+"1736","Grenada",1963,NA,2050,NA,NA
+"1737","Grenada",1964,NA,2050,NA,NA
+"1738","Grenada",1965,NA,2100,NA,NA
+"1739","Grenada",1966,NA,2110,NA,NA
+"1740","Grenada",1967,NA,2120,NA,NA
+"1741","Grenada",1968,NA,2120,NA,NA
+"1742","Grenada",1969,NA,2125,NA,NA
+"1743","Grenada",1970,NA,2125,NA,NA
+"1744","Grenada",1971,NA,2130,NA,NA
+"1745","Grenada",1972,NA,2050,NA,NA
+"1746","Grenada",1973,NA,2041,NA,NA
+"1747","Grenada",1974,NA,1705,NA,NA
+"1748","Grenada",1975,NA,1370,NA,NA
+"1749","Grenada",1976,NA,907,NA,NA
+"1750","Grenada",1977,NA,989,NA,NA
+"1751","Grenada",1978,NA,1243,NA,NA
+"1752","Grenada",1979,NA,1234,NA,NA
+"1753","Grenada",1980,NA,1354,NA,NA
+"1754","Grenada",1981,NA,1423,NA,NA
+"1755","Grenada",1982,NA,1495,NA,NA
+"1756","Grenada",1983,NA,1571,NA,NA
+"1757","Grenada",1984,NA,1587,NA,NA
+"1758","Grenada",1985,230,1619,NA,NA
+"1759","Grenada",1986,230,1525,NA,NA
+"1760","Grenada",1987,230,1718,NA,NA
+"1761","Grenada",1988,230,1552,NA,NA
+"1762","Grenada",1989,230,1597,NA,NA
+"1763","Grenada",1990,225,1677,4,NA
+"1764","Grenada",1991,246,1759,NA,NA
+"1765","Grenada",1992,230,1583,NA,NA
+"1766","Grenada",1993,214,1504,NA,NA
+"1767","Grenada",1994,222,1549,NA,NA
+"1768","Grenada",1995,228,1582,NA,NA
+"1769","Grenada",1996,233,1600,NA,NA
+"1770","Grenada",1997,220,1500,NA,NA
+"1771","Grenada",1998,231,1567,NA,NA
+"1772","Grenada",1999,235,1582,NA,NA
+"1773","Grenada",2000,236,1576,NA,NA
+"1774","Grenada",2001,238,1577,NA,NA
+"1775","Grenada",2002,239,1574,NA,NA
+"1776","Grenada",2003,241,1573,NA,NA
+"1777","Grenada",2004,243,1572,NA,NA
+"1778","Grenada",2005,244,1570,NA,NA
+"1779","Grenada",2006,246,1568,NA,NA
+"1780","Grenada",2007,250,1600,NA,NA
+"1781","Grenada",2008,250,1561,NA,NA
+"1782","Grenada",2009,252,1556,NA,NA
+"1783","Grenada",2010,254,1550,NA,NA
+"1784","Grenada",2011,256,1545,NA,NA
+"1785","Grenada",2012,260,1525,NA,NA
+"1786","Grenada",2013,262,1541,NA,NA
+"1787","Grenada",2014,266,1557,NA,NA
+"1788","Grenada",2015,268,1553,NA,NA
+"1789","Grenada",2016,270,1549,NA,NA
+"1790","Grenada",2017,273,1552,NA,1
+"1791","Grenada",2018,277,1555,NA,NA
+"1792","Grenada",2019,273,1554,NA,NA
+"1793","Grenada",2020,274,1554,NA,NA
+"1794","Guadeloupe",1985,30,168,NA,NA
+"1795","Guadeloupe",1986,30,297,NA,NA
+"1796","Guadeloupe",1987,28,186,NA,NA
+"1797","Guadeloupe",1988,30,173,NA,NA
+"1798","Guadeloupe",1989,27,104,NA,NA
+"1799","Guadeloupe",1990,26,86,NA,NA
+"1800","Guadeloupe",1991,17,246,NA,NA
+"1801","Guadeloupe",1992,16,268,NA,NA
+"1802","Guadeloupe",1993,18,270,NA,NA
+"1803","Guadeloupe",1994,18,240,NA,NA
+"1804","Guadeloupe",1995,18,239,NA,NA
+"1805","Guadeloupe",1996,19,245,NA,NA
+"1806","Guadeloupe",1997,20,280,NA,NA
+"1807","Guadeloupe",1998,20,265,NA,NA
+"1808","Guadeloupe",1999,19,245,NA,NA
+"1809","Guadeloupe",2000,19,241,NA,NA
+"1810","Guadeloupe",2001,19,237,NA,NA
+"1811","Guadeloupe",2002,19,235,NA,NA
+"1812","Guadeloupe",2003,19,233,NA,NA
+"1813","Guadeloupe",2004,19,232,NA,NA
+"1814","Guadeloupe",2005,20,231,NA,NA
+"1815","Guadeloupe",2006,20,228,NA,NA
+"1816","Guatemala",1961,1200,12200,NA,NA
+"1817","Guatemala",1962,1300,13100,NA,NA
+"1818","Guatemala",1963,1400,13900,NA,NA
+"1819","Guatemala",1964,1400,14200,NA,NA
+"1820","Guatemala",1965,1500,14800,NA,NA
+"1821","Guatemala",1966,1600,16400,NA,NA
+"1822","Guatemala",1967,1600,15800,NA,NA
+"1823","Guatemala",1968,1600,15800,NA,NA
+"1824","Guatemala",1969,1700,17000,NA,NA
+"1825","Guatemala",1970,1800,17700,NA,NA
+"1826","Guatemala",1971,1900,19000,NA,NA
+"1827","Guatemala",1972,2000,20000,NA,NA
+"1828","Guatemala",1973,2000,21000,NA,NA
+"1829","Guatemala",1974,2000,21000,NA,NA
+"1830","Guatemala",1975,2000,21500,NA,NA
+"1831","Guatemala",1976,2000,20000,NA,NA
+"1832","Guatemala",1977,2200,22600,NA,NA
+"1833","Guatemala",1978,2250,22500,NA,NA
+"1834","Guatemala",1979,2000,16628,NA,NA
+"1835","Guatemala",1980,2500,21072,NA,NA
+"1836","Guatemala",1981,2600,22380,NA,NA
+"1837","Guatemala",1982,2300,23000,NA,NA
+"1838","Guatemala",1983,2330,23300,NA,NA
+"1839","Guatemala",1984,2400,24000,NA,NA
+"1840","Guatemala",1985,2550,25500,NA,NA
+"1841","Guatemala",1986,2550,25068,NA,NA
+"1842","Guatemala",1987,2600,25569,NA,NA
+"1843","Guatemala",1988,2000,21000,0,NA
+"1844","Guatemala",1989,2700,23000,NA,NA
+"1845","Guatemala",1990,2580,26000,NA,NA
+"1846","Guatemala",1991,2600,29000,NA,NA
+"1847","Guatemala",1992,2650,22477,NA,NA
+"1848","Guatemala",1993,2730,23368,NA,NA
+"1849","Guatemala",1994,2730,23380,NA,NA
+"1850","Guatemala",1995,2800,24288,NA,NA
+"1851","Guatemala",1996,2940,24293,NA,NA
+"1852","Guatemala",1997,3080,24389,NA,NA
+"1853","Guatemala",1998,3080,25498,NA,NA
+"1854","Guatemala",1999,3220,26408,NA,NA
+"1855","Guatemala",2000,3220,26277,NA,NA
+"1856","Guatemala",2001,5521,39562,NA,NA
+"1857","Guatemala",2002,7269,47128,NA,NA
+"1858","Guatemala",2003,7269,65980,NA,NA
+"1859","Guatemala",2004,7269,58913,NA,NA
+"1860","Guatemala",2005,7269,58967,NA,NA
+"1861","Guatemala",2006,7269,95064,NA,NA
+"1862","Guatemala",2007,9295,96524,NA,NA
+"1863","Guatemala",2008,9435,94914,NA,NA
+"1864","Guatemala",2009,9435,94302,NA,NA
+"1865","Guatemala",2010,9435,94302,NA,16
+"1866","Guatemala",2011,9568,96769,NA,NA
+"1867","Guatemala",2012,9421,94605,NA,NA
+"1868","Guatemala",2013,9903,103698,NA,NA
+"1869","Guatemala",2014,9994,108214,NA,NA
+"1870","Guatemala",2015,11462,115099,NA,NA
+"1871","Guatemala",2016,11602,122184,NA,NA
+"1872","Guatemala",2017,12100,127480,NA,NA
+"1873","Guatemala",2018,12750,134353,NA,NA
+"1874","Guatemala",2019,13162,138305,NA,NA
+"1875","Guatemala",2020,13027,137024,NA,NA
+"1876","Guyana",1961,NA,300,NA,NA
+"1877","Guyana",1962,NA,310,NA,NA
+"1878","Guyana",1963,NA,320,NA,NA
+"1879","Guyana",1964,NA,330,NA,NA
+"1880","Guyana",1965,NA,340,NA,NA
+"1881","Guyana",1966,NA,350,NA,NA
+"1882","Guyana",1967,NA,360,NA,NA
+"1883","Guyana",1968,NA,370,NA,NA
+"1884","Guyana",1969,NA,380,NA,NA
+"1885","Guyana",1970,NA,387,NA,NA
+"1886","Guyana",1971,NA,390,NA,NA
+"1887","Guyana",1972,NA,400,NA,NA
+"1888","Guyana",1973,NA,410,NA,NA
+"1889","Guyana",1974,NA,380,NA,NA
+"1890","Guyana",1975,NA,400,NA,NA
+"1891","Guyana",1976,NA,410,NA,NA
+"1892","Guyana",1977,NA,410,NA,NA
+"1893","Guyana",1978,NA,420,NA,NA
+"1894","Guyana",1979,NA,430,NA,NA
+"1895","Guyana",1980,NA,440,NA,NA
+"1896","Guyana",1981,NA,445,NA,NA
+"1897","Guyana",1982,NA,450,NA,NA
+"1898","Guyana",1983,NA,460,NA,NA
+"1899","Guyana",1984,NA,460,NA,NA
+"1900","Guyana",1985,80,465,NA,NA
+"1901","Guyana",1986,80,470,NA,NA
+"1902","Guyana",1987,80,480,NA,NA
+"1903","Guyana",1988,80,480,NA,NA
+"1904","Guyana",1989,80,480,NA,NA
+"1905","Guyana",1990,95,460,NA,NA
+"1906","Guyana",1991,93,440,NA,NA
+"1907","Guyana",1992,91,420,NA,NA
+"1908","Guyana",1993,88,400,NA,NA
+"1909","Guyana",1994,78,360,NA,NA
+"1910","Guyana",1995,74,329,NA,NA
+"1911","Guyana",1996,70,282,NA,NA
+"1912","Guyana",1997,80,330,NA,NA
+"1913","Guyana",1998,90,490,NA,NA
+"1914","Guyana",1999,114,529,NA,NA
+"1915","Guyana",2000,130,757,NA,NA
+"1916","Guyana",2001,92,421,NA,NA
+"1917","Guyana",2002,112,500,NA,NA
+"1918","Guyana",2003,95,413,NA,NA
+"1919","Guyana",2004,91,382,NA,NA
+"1920","Guyana",2005,125,480,NA,NA
+"1921","Guyana",2006,100,369,NA,NA
+"1922","Guyana",2007,93,327,NA,NA
+"1923","Guyana",2008,95,319,NA,NA
+"1924","Guyana",2009,93,297,NA,NA
+"1925","Guyana",2010,61,185,NA,NA
+"1926","Guyana",2011,87,167,NA,NA
+"1927","Guyana",2012,60,73,NA,NA
+"1928","Guyana",2013,120,211,NA,NA
+"1929","Guyana",2014,109,577,NA,NA
+"1930","Guyana",2015,216,460,NA,NA
+"1931","Guyana",2016,171,1383,NA,NA
+"1932","Guyana",2017,182,5874,NA,NA
+"1933","Guyana",2018,205,8586,NA,NA
+"1934","Guyana",2019,883,9213,NA,NA
+"1935","Guyana",2020,621,7616,NA,NA
+"1936","Haiti",1961,NA,40000,NA,NA
+"1937","Haiti",1962,NA,40000,NA,NA
+"1938","Haiti",1963,NA,41000,NA,NA
+"1939","Haiti",1964,NA,42000,NA,NA
+"1940","Haiti",1965,NA,43000,NA,NA
+"1941","Haiti",1966,NA,44000,NA,NA
+"1942","Haiti",1967,NA,45000,NA,NA
+"1943","Haiti",1968,NA,46000,NA,NA
+"1944","Haiti",1969,NA,47000,NA,NA
+"1945","Haiti",1970,NA,48000,NA,NA
+"1946","Haiti",1971,NA,49000,NA,NA
+"1947","Haiti",1972,NA,50000,NA,NA
+"1948","Haiti",1973,NA,52000,NA,NA
+"1949","Haiti",1974,NA,53000,NA,NA
+"1950","Haiti",1975,NA,54000,NA,NA
+"1951","Haiti",1976,NA,55000,NA,NA
+"1952","Haiti",1977,NA,55000,NA,NA
+"1953","Haiti",1978,NA,55000,NA,NA
+"1954","Haiti",1979,NA,57000,NA,NA
+"1955","Haiti",1980,NA,58000,NA,NA
+"1956","Haiti",1981,NA,59000,NA,NA
+"1957","Haiti",1982,NA,61000,NA,NA
+"1958","Haiti",1983,NA,62000,NA,NA
+"1959","Haiti",1984,NA,65000,NA,NA
+"1960","Haiti",1985,8600,62000,NA,NA
+"1961","Haiti",1986,8600,62000,NA,NA
+"1962","Haiti",1987,8600,61000,NA,NA
+"1963","Haiti",1988,8600,60000,NA,NA
+"1964","Haiti",1989,8600,58000,NA,NA
+"1965","Haiti",1990,8442,57000,NA,NA
+"1966","Haiti",1991,8085,49601,NA,NA
+"1967","Haiti",1992,7300,45000,NA,NA
+"1968","Haiti",1993,7463,45725,2,NA
+"1969","Haiti",1994,7427,45454,NA,NA
+"1970","Haiti",1995,7495,45824,NA,NA
+"1971","Haiti",1996,7540,46056,NA,NA
+"1972","Haiti",1997,8007,49012,NA,NA
+"1973","Haiti",1998,7541,45974,NA,NA
+"1974","Haiti",1999,7542,45920,3,NA
+"1975","Haiti",2000,7300,45000,NA,NA
+"1976","Haiti",2001,7300,42000,NA,NA
+"1977","Haiti",2002,8300,51100,NA,NA
+"1978","Haiti",2003,8413,51000,NA,NA
+"1979","Haiti",2004,7600,47000,NA,NA
+"1980","Haiti",2005,8800,54000,5,NA
+"1981","Haiti",2006,8925,54000,NA,NA
+"1982","Haiti",2007,9400,58000,NA,NA
+"1983","Haiti",2008,7467,45000,NA,NA
+"1984","Haiti",2009,9401,56446,9,NA
+"1985","Haiti",2010,10500,62837,NA,NA
+"1986","Haiti",2011,12000,71526,NA,NA
+"1987","Haiti",2012,14000,80230,NA,NA
+"1988","Haiti",2013,15000,88253,NA,NA
+"1989","Haiti",2014,16500,97078,NA,NA
+"1990","Haiti",2015,19041,111931,8,NA
+"1991","Haiti",2016,25985,152510,NA,NA
+"1992","Haiti",2017,31717,185938,NA,NA
+"1993","Haiti",2018,43630,254825,NA,NA
+"1994","Haiti",2019,34157,198976,NA,NA
+"1995","Haiti",2020,32997,191713,11,NA
+"1996","Honduras",1961,697,3586,NA,NA
+"1997","Honduras",1962,718,3683,NA,NA
+"1998","Honduras",1963,746,3823,NA,NA
+"1999","Honduras",1964,774,3960,NA,NA
+"2000","Honduras",1965,788,4104,NA,NA
+"2001","Honduras",1966,816,4245,NA,NA
+"2002","Honduras",1967,847,4412,NA,NA
+"2003","Honduras",1968,879,4567,NA,NA
+"2004","Honduras",1969,900,4673,NA,NA
+"2005","Honduras",1970,938,4901,NA,NA
+"2006","Honduras",1971,1007,3710,NA,NA
+"2007","Honduras",1972,1000,4200,NA,NA
+"2008","Honduras",1973,1000,4200,NA,NA
+"2009","Honduras",1974,1000,4500,NA,NA
+"2010","Honduras",1975,1000,4600,NA,NA
+"2011","Honduras",1976,1100,4800,NA,NA
+"2012","Honduras",1977,1100,5200,NA,NA
+"2013","Honduras",1978,1150,5400,NA,NA
+"2014","Honduras",1979,1200,5600,NA,NA
+"2015","Honduras",1980,1200,5800,NA,NA
+"2016","Honduras",1981,1200,5800,NA,NA
+"2017","Honduras",1982,1200,6000,NA,NA
+"2018","Honduras",1983,1250,6200,NA,NA
+"2019","Honduras",1984,1250,6300,NA,NA
+"2020","Honduras",1985,1300,6500,NA,NA
+"2021","Honduras",1986,1340,6700,NA,NA
+"2022","Honduras",1987,1200,5000,NA,NA
+"2023","Honduras",1988,1000,4000,NA,NA
+"2024","Honduras",1989,900,3000,NA,NA
+"2025","Honduras",1990,800,2280,NA,NA
+"2026","Honduras",1991,800,2513,NA,NA
+"2027","Honduras",1992,800,2486,NA,NA
+"2028","Honduras",1993,249,797,NA,NA
+"2029","Honduras",1994,250,800,70,NA
+"2030","Honduras",1995,250,800,NA,NA
+"2031","Honduras",1996,250,800,NA,NA
+"2032","Honduras",1997,250,800,NA,NA
+"2033","Honduras",1998,250,800,NA,NA
+"2034","Honduras",1999,250,800,NA,NA
+"2035","Honduras",2000,240,750,NA,NA
+"2036","Honduras",2001,240,750,NA,NA
+"2037","Honduras",2002,280,896,NA,NA
+"2038","Honduras",2003,305,1007,NA,NA
+"2039","Honduras",2004,330,1124,NA,NA
+"2040","Honduras",2005,355,1241,NA,NA
+"2041","Honduras",2006,365,1400,NA,NA
+"2042","Honduras",2007,375,1638,NA,1
+"2043","Honduras",2008,380,1650,NA,3
+"2044","Honduras",2009,390,1700,NA,3
+"2045","Honduras",2010,367,1614,NA,NA
+"2046","Honduras",2011,299,1354,NA,NA
+"2047","Honduras",2012,268,1258,NA,3
+"2048","Honduras",2013,246,1185,NA,NA
+"2049","Honduras",2014,245,980,NA,NA
+"2050","Honduras",2015,400,1600,NA,NA
+"2051","Honduras",2016,740,2960,NA,9
+"2052","Honduras",2017,523,2177,NA,NA
+"2053","Honduras",2018,323,1326,NA,NA
+"2054","Honduras",2019,321,1304,NA,NA
+"2055","Honduras",2020,326,1321,NA,NA
+"2056","Hungary",2018,0,0,NA,NA
+"2057","Hungary",2019,0,0,NA,NA
+"2058","Hungary",2020,0,0,NA,NA
+"2059","Indonesia",1961,5500,30000,NA,NA
+"2060","Indonesia",1962,5500,30000,NA,NA
+"2061","Indonesia",1963,5500,30000,NA,NA
+"2062","Indonesia",1964,6300,35000,NA,NA
+"2063","Indonesia",1965,6300,35000,NA,NA
+"2064","Indonesia",1966,7000,50000,NA,NA
+"2065","Indonesia",1967,7000,50000,NA,NA
+"2066","Indonesia",1968,7000,50000,NA,NA
+"2067","Indonesia",1969,6500,40000,NA,NA
+"2068","Indonesia",1970,6000,33000,NA,NA
+"2069","Indonesia",1971,4000,28000,NA,NA
+"2070","Indonesia",1972,6000,36000,NA,NA
+"2071","Indonesia",1973,7000,40000,NA,NA
+"2072","Indonesia",1974,7800,55400,NA,NA
+"2073","Indonesia",1975,7500,55800,NA,NA
+"2074","Indonesia",1976,11000,44000,NA,NA
+"2075","Indonesia",1977,15315,57600,NA,NA
+"2076","Indonesia",1978,13958,47000,NA,NA
+"2077","Indonesia",1979,9098,39019,NA,NA
+"2078","Indonesia",1980,10600,46373,NA,NA
+"2079","Indonesia",1981,15259,72192,NA,NA
+"2080","Indonesia",1982,17000,51465,NA,NA
+"2081","Indonesia",1983,15495,45745,NA,NA
+"2082","Indonesia",1984,16897,58097,NA,NA
+"2083","Indonesia",1985,20030,62802,NA,NA
+"2084","Indonesia",1986,16500,71100,NA,NA
+"2085","Indonesia",1987,14700,56600,NA,NA
+"2086","Indonesia",1988,20362,62520,NA,NA
+"2087","Indonesia",1989,21709,61302,NA,NA
+"2088","Indonesia",1990,23830,84592,NA,NA
+"2089","Indonesia",1991,26879,91420,NA,NA
+"2090","Indonesia",1992,27740,93267,NA,NA
+"2091","Indonesia",1993,19185,92721,NA,NA
+"2092","Indonesia",1994,14856,102037,NA,NA
+"2093","Indonesia",1995,19377,162697,NA,NA
+"2094","Indonesia",1996,19041,143151,NA,NA
+"2095","Indonesia",1997,11200,129952,NA,NA
+"2096","Indonesia",1998,12284,130950,NA,NA
+"2097","Indonesia",1999,11421,126104,NA,NA
+"2098","Indonesia",2000,13277,145795,NA,20
+"2099","Indonesia",2001,11237,141703,NA,NA
+"2100","Indonesia",2002,15769,238182,NA,NA
+"2101","Indonesia",2003,17338,255959,NA,NA
+"2102","Indonesia",2004,15536,221774,NA,NA
+"2103","Indonesia",2005,17133,227577,NA,NA
+"2104","Indonesia",2006,15629,239463,NA,NA
+"2105","Indonesia",2007,17224,201635,NA,NA
+"2106","Indonesia",2008,19802,244215,NA,NA
+"2107","Indonesia",2009,19979,257642,NA,NA
+"2108","Indonesia",2010,20507,224278,NA,NA
+"2109","Indonesia",2011,21653,275953,NA,NA
+"2110","Indonesia",2012,20989,294200,NA,NA
+"2111","Indonesia",2013,21027,289901,NA,NA
+"2112","Indonesia",2014,22372,307326,NA,1
+"2113","Indonesia",2015,28429,382530,NA,7
+"2114","Indonesia",2016,22784,304938,NA,10
+"2115","Indonesia",2017,27116,363157,NA,20
+"2116","Indonesia",2018,31074,410084,NA,NA
+"2117","Indonesia",2019,35066,461613,NA,14
+"2118","Indonesia",2020,46383,609049,NA,14
+"2119","Ireland",2018,0,0,NA,NA
+"2120","Ireland",2019,0,0,NA,NA
+"2121","Ireland",2020,0,0,NA,NA
+"2122","Israel",1961,170,800,NA,NA
+"2123","Israel",1962,260,1200,NA,NA
+"2124","Israel",1963,340,1550,NA,NA
+"2125","Israel",1964,340,1550,NA,NA
+"2126","Israel",1965,310,1400,NA,NA
+"2127","Israel",1966,500,2300,NA,NA
+"2128","Israel",1967,600,3500,NA,NA
+"2129","Israel",1968,700,4750,NA,NA
+"2130","Israel",1969,900,5200,NA,NA
+"2131","Israel",1970,1050,4100,NA,NA
+"2132","Israel",1971,1150,7600,NA,NA
+"2133","Israel",1972,1250,11750,NA,NA
+"2134","Israel",1973,1330,12350,NA,NA
+"2135","Israel",1974,1450,15000,NA,NA
+"2136","Israel",1975,1600,17050,NA,NA
+"2137","Israel",1976,2170,18500,NA,NA
+"2138","Israel",1977,2540,21800,NA,NA
+"2139","Israel",1978,2970,24200,NA,NA
+"2140","Israel",1979,3560,32900,NA,NA
+"2141","Israel",1980,4100,32000,NA,NA
+"2142","Israel",1981,5010,8000,NA,NA
+"2143","Israel",1982,6300,40100,NA,NA
+"2144","Israel",1983,7300,61600,NA,NA
+"2145","Israel",1984,8190,52500,NA,NA
+"2146","Israel",1985,9070,77200,NA,NA
+"2147","Israel",1986,9450,68000,NA,NA
+"2148","Israel",1987,9760,134700,0,NA
+"2149","Israel",1988,9420,35800,NA,NA
+"2150","Israel",1989,9250,20000,NA,NA
+"2151","Israel",1990,8466,48000,NA,NA
+"2152","Israel",1991,7991,52700,NA,NA
+"2153","Israel",1992,8324,74880,NA,NA
+"2154","Israel",1993,7320,47590,NA,NA
+"2155","Israel",1994,7110,49400,NA,NA
+"2156","Israel",1995,7495,56750,NA,NA
+"2157","Israel",1996,6610,76000,NA,NA
+"2158","Israel",1997,6230,79347,17,NA
+"2159","Israel",1998,5940,65684,NA,NA
+"2160","Israel",1999,5888,55900,3,NA
+"2161","Israel",2000,6380,81303,NA,NA
+"2162","Israel",2001,5850,78600,NA,NA
+"2163","Israel",2002,5710,94230,NA,NA
+"2164","Israel",2003,5750,59470,NA,NA
+"2165","Israel",2004,5100,73160,NA,NA
+"2166","Israel",2005,4810,85640,NA,NA
+"2167","Israel",2006,4970,84909,NA,NA
+"2168","Israel",2007,5100,85913,NA,NA
+"2169","Israel",2008,6270,53130,NA,NA
+"2170","Israel",2009,6480,84968,NA,NA
+"2171","Israel",2010,6565,69545,NA,NA
+"2172","Israel",2011,6780,75287,NA,NA
+"2173","Israel",2012,6280,77500,NA,1
+"2174","Israel",2013,7250,80000,NA,1
+"2175","Israel",2014,7654,91035,NA,0
+"2176","Israel",2015,7579,93000,NA,NA
+"2177","Israel",2016,8180,101500,NA,NA
+"2178","Israel",2017,8410,110000,NA,NA
+"2179","Israel",2018,9408,131720,NA,NA
+"2180","Israel",2019,10520,138766,NA,NA
+"2181","Israel",2020,11790,147000,NA,NA
+"2182","Italy",2018,0,0,NA,NA
+"2183","Italy",2019,0,0,NA,NA
+"2184","Italy",2020,0,0,NA,NA
+"2185","Jamaica",1961,NA,2887,NA,NA
+"2186","Jamaica",1962,NA,2315,NA,NA
+"2187","Jamaica",1963,NA,2315,NA,NA
+"2188","Jamaica",1964,NA,2588,NA,NA
+"2189","Jamaica",1965,NA,2452,NA,NA
+"2190","Jamaica",1966,NA,2588,NA,NA
+"2191","Jamaica",1967,NA,2452,NA,NA
+"2192","Jamaica",1968,NA,2043,NA,NA
+"2193","Jamaica",1969,NA,2315,NA,NA
+"2194","Jamaica",1970,NA,2452,NA,NA
+"2195","Jamaica",1971,NA,2452,NA,NA
+"2196","Jamaica",1972,NA,2452,NA,NA
+"2197","Jamaica",1973,NA,2500,NA,NA
+"2198","Jamaica",1974,NA,2500,NA,NA
+"2199","Jamaica",1975,NA,2500,NA,NA
+"2200","Jamaica",1976,NA,2600,NA,NA
+"2201","Jamaica",1977,NA,2600,NA,NA
+"2202","Jamaica",1978,NA,2600,NA,NA
+"2203","Jamaica",1979,NA,2700,NA,NA
+"2204","Jamaica",1980,NA,2700,NA,NA
+"2205","Jamaica",1981,NA,2800,NA,NA
+"2206","Jamaica",1982,NA,2800,NA,NA
+"2207","Jamaica",1983,NA,2900,NA,NA
+"2208","Jamaica",1984,NA,2900,NA,NA
+"2209","Jamaica",1985,530,3000,NA,NA
+"2210","Jamaica",1986,530,3000,NA,NA
+"2211","Jamaica",1987,530,3000,NA,NA
+"2212","Jamaica",1988,530,3000,NA,NA
+"2213","Jamaica",1989,530,3200,NA,NA
+"2214","Jamaica",1990,536,3064,NA,NA
+"2215","Jamaica",1991,473,3500,NA,NA
+"2216","Jamaica",1992,474,3500,5,NA
+"2217","Jamaica",1993,544,4000,11,NA
+"2218","Jamaica",1994,503,3687,NA,NA
+"2219","Jamaica",1995,497,3636,2,NA
+"2220","Jamaica",1996,492,3583,NA,NA
+"2221","Jamaica",1997,486,3528,NA,NA
+"2222","Jamaica",1998,480,3472,NA,NA
+"2223","Jamaica",1999,473,3414,NA,NA
+"2224","Jamaica",2000,467,3356,NA,2
+"2225","Jamaica",2001,460,3295,3,3
+"2226","Jamaica",2002,453,3234,NA,4
+"2227","Jamaica",2003,445,3172,NA,NA
+"2228","Jamaica",2004,439,3110,NA,NA
+"2229","Jamaica",2005,433,3046,NA,2
+"2230","Jamaica",2006,427,2983,NA,2
+"2231","Jamaica",2007,421,2918,NA,2
+"2232","Jamaica",2008,415,2854,NA,1
+"2233","Jamaica",2009,409,2790,NA,NA
+"2234","Jamaica",2010,398,2726,NA,NA
+"2235","Jamaica",2011,392,2662,NA,1
+"2236","Jamaica",2012,370,2500,NA,1
+"2237","Jamaica",2013,388,2577,NA,NA
+"2238","Jamaica",2014,400,2600,NA,NA
+"2239","Jamaica",2015,394,2533,NA,1
+"2240","Jamaica",2016,385,2447,NA,15
+"2241","Jamaica",2017,378,2527,1,6
+"2242","Jamaica",2018,376,2502,1,NA
+"2243","Jamaica",2019,380,2492,NA,2
+"2244","Jamaica",2020,378,2507,NA,0
+"2245","Kenya",1961,1100,16000,NA,NA
+"2246","Kenya",1962,1100,16000,NA,NA
+"2247","Kenya",1963,1100,16000,NA,NA
+"2248","Kenya",1964,1100,16000,NA,NA
+"2249","Kenya",1965,1100,16000,NA,NA
+"2250","Kenya",1966,1100,16000,NA,NA
+"2251","Kenya",1967,1100,16000,NA,NA
+"2252","Kenya",1968,1100,16000,NA,NA
+"2253","Kenya",1969,1100,16000,NA,NA
+"2254","Kenya",1970,1100,16000,NA,NA
+"2255","Kenya",1971,1100,16000,NA,NA
+"2256","Kenya",1972,1100,16000,NA,NA
+"2257","Kenya",1973,1200,17000,NA,NA
+"2258","Kenya",1974,1200,17000,NA,NA
+"2259","Kenya",1975,1200,17000,NA,NA
+"2260","Kenya",1976,1200,17000,NA,NA
+"2261","Kenya",1977,1200,17000,NA,NA
+"2262","Kenya",1978,1250,18000,NA,NA
+"2263","Kenya",1979,1400,20000,NA,NA
+"2264","Kenya",1980,1400,20000,NA,NA
+"2265","Kenya",1981,1400,20000,NA,NA
+"2266","Kenya",1982,1400,20000,NA,NA
+"2267","Kenya",1983,1500,22000,NA,NA
+"2268","Kenya",1984,1500,22000,NA,NA
+"2269","Kenya",1985,1500,22000,NA,NA
+"2270","Kenya",1986,1500,22000,NA,NA
+"2271","Kenya",1987,1600,23000,NA,NA
+"2272","Kenya",1988,1600,23000,NA,NA
+"2273","Kenya",1989,1600,23000,NA,NA
+"2274","Kenya",1990,1559,22980,NA,NA
+"2275","Kenya",1991,1817,19170,NA,NA
+"2276","Kenya",1992,1626,20628,NA,NA
+"2277","Kenya",1993,2434,39116,NA,NA
+"2278","Kenya",1994,2852,14296,NA,NA
+"2279","Kenya",1995,1988,27267,NA,NA
+"2280","Kenya",1996,2585,31351,NA,NA
+"2281","Kenya",1997,2745,37283,NA,NA
+"2282","Kenya",1998,3710,48477,NA,NA
+"2283","Kenya",1999,3986,53670,NA,NA
+"2284","Kenya",2000,4120,52030,NA,NA
+"2285","Kenya",2001,4460,54400,NA,NA
+"2286","Kenya",2002,4880,52431,NA,NA
+"2287","Kenya",2003,5099,70948,NA,NA
+"2288","Kenya",2004,6421,80316,NA,NA
+"2289","Kenya",2005,7714,100277,NA,NA
+"2290","Kenya",2006,7995,103935,NA,NA
+"2291","Kenya",2007,7203,93639,NA,NA
+"2292","Kenya",2008,7900,103523,NA,NA
+"2293","Kenya",2009,10053,145204,NA,NA
+"2294","Kenya",2010,10320,202294,NA,NA
+"2295","Kenya",2011,9960,149241,NA,NA
+"2296","Kenya",2012,11021,166948,NA,NA
+"2297","Kenya",2013,11439,177799,NA,NA
+"2298","Kenya",2014,11583,218692,NA,NA
+"2299","Kenya",2015,8486,136420,NA,NA
+"2300","Kenya",2016,10305,176045,NA,NA
+"2301","Kenya",2017,16460,217688,NA,NA
+"2302","Kenya",2018,14497,233933,NA,NA
+"2303","Kenya",2019,20125,264032,NA,NA
+"2304","Kenya",2020,24447,322556,NA,NA
+"2305","Latvia",2018,0,0,NA,NA
+"2306","Latvia",2019,0,0,NA,NA
+"2307","Latvia",2020,0,0,NA,NA
+"2308","Lebanon",1961,NA,NA,NA,NA
+"2309","Lebanon",1962,NA,NA,NA,NA
+"2310","Lebanon",1963,NA,NA,NA,NA
+"2311","Lebanon",1964,NA,NA,NA,NA
+"2312","Lebanon",1965,NA,NA,NA,NA
+"2313","Lebanon",1966,NA,NA,NA,NA
+"2314","Lebanon",1967,NA,NA,NA,NA
+"2315","Lebanon",1968,NA,NA,NA,NA
+"2316","Lebanon",1969,NA,NA,NA,NA
+"2317","Lebanon",1970,NA,NA,NA,NA
+"2318","Lebanon",1971,NA,NA,NA,NA
+"2319","Lebanon",1972,NA,NA,NA,NA
+"2320","Lebanon",1973,NA,NA,NA,NA
+"2321","Lebanon",1974,NA,NA,NA,NA
+"2322","Lebanon",1975,NA,NA,NA,NA
+"2323","Lebanon",1976,NA,NA,NA,NA
+"2324","Lebanon",1977,NA,NA,NA,NA
+"2325","Lebanon",1978,NA,NA,NA,NA
+"2326","Lebanon",1979,NA,NA,NA,NA
+"2327","Lebanon",1980,NA,NA,NA,NA
+"2328","Lebanon",1981,NA,NA,NA,NA
+"2329","Lebanon",1982,NA,NA,NA,NA
+"2330","Lebanon",1983,NA,NA,NA,NA
+"2331","Lebanon",1984,NA,NA,NA,NA
+"2332","Lebanon",1985,NA,NA,NA,NA
+"2333","Lebanon",1986,NA,NA,NA,NA
+"2334","Lebanon",1987,NA,NA,NA,NA
+"2335","Lebanon",1988,NA,NA,NA,NA
+"2336","Lebanon",1989,NA,NA,NA,NA
+"2337","Lebanon",1990,NA,NA,NA,NA
+"2338","Lebanon",1991,NA,NA,NA,NA
+"2339","Lebanon",1992,NA,NA,NA,NA
+"2340","Lebanon",1993,NA,NA,NA,NA
+"2341","Lebanon",1994,NA,NA,NA,2
+"2342","Lebanon",1995,NA,NA,NA,NA
+"2343","Lebanon",1996,NA,NA,NA,NA
+"2344","Lebanon",1997,NA,NA,NA,NA
+"2345","Lebanon",1998,300,4400,NA,NA
+"2346","Lebanon",1999,300,6200,NA,NA
+"2347","Lebanon",2000,290,3000,NA,NA
+"2348","Lebanon",2001,286,4400,NA,NA
+"2349","Lebanon",2002,277,4600,NA,NA
+"2350","Lebanon",2003,296,4900,NA,NA
+"2351","Lebanon",2004,300,4500,NA,NA
+"2352","Lebanon",2005,300,5000,NA,NA
+"2353","Lebanon",2006,390,4700,NA,NA
+"2354","Lebanon",2007,430,6000,NA,NA
+"2355","Lebanon",2008,450,6100,NA,NA
+"2356","Lebanon",2009,610,7200,NA,2
+"2357","Lebanon",2010,664,8913,NA,1
+"2358","Lebanon",2011,580,7863,NA,NA
+"2359","Lebanon",2012,580,7922,NA,NA
+"2360","Lebanon",2013,597,8100,NA,NA
+"2361","Lebanon",2014,615,7851,NA,NA
+"2362","Lebanon",2015,982,12327,NA,4
+"2363","Lebanon",2016,1642,18695,NA,1
+"2364","Lebanon",2017,1665,19193,NA,NA
+"2365","Lebanon",2018,1511,18240,NA,NA
+"2366","Lebanon",2019,1476,17890,NA,NA
+"2367","Lebanon",2020,1533,18623,NA,18
+"2368","Lithuania",2018,0,0,NA,NA
+"2369","Lithuania",2019,0,0,NA,NA
+"2370","Lithuania",2020,0,0,NA,NA
+"2371","Luxembourg",2018,0,0,NA,NA
+"2372","Luxembourg",2019,0,0,NA,NA
+"2373","Luxembourg",2020,0,0,NA,NA
+"2374","Madagascar",1969,50,150,NA,NA
+"2375","Madagascar",1970,100,400,NA,NA
+"2376","Madagascar",1971,160,794,NA,NA
+"2377","Madagascar",1972,500,3007,NA,NA
+"2378","Madagascar",1973,545,3670,NA,NA
+"2379","Madagascar",1974,1460,12055,NA,NA
+"2380","Madagascar",1975,1870,25215,NA,NA
+"2381","Madagascar",1976,1940,16625,NA,NA
+"2382","Madagascar",1977,4235,19040,NA,NA
+"2383","Madagascar",1978,4865,20805,NA,NA
+"2384","Madagascar",1979,1805,13820,NA,NA
+"2385","Madagascar",1980,1825,17400,NA,NA
+"2386","Madagascar",1981,1840,14400,NA,NA
+"2387","Madagascar",1982,1885,14760,NA,NA
+"2388","Madagascar",1983,1895,16080,NA,NA
+"2389","Madagascar",1984,1910,17119,NA,NA
+"2390","Madagascar",1985,2100,17300,NA,NA
+"2391","Madagascar",1986,2200,18000,NA,NA
+"2392","Madagascar",1987,2300,19000,NA,NA
+"2393","Madagascar",1988,2300,19000,NA,NA
+"2394","Madagascar",1989,2400,20000,NA,NA
+"2395","Madagascar",1990,2500,21000,NA,NA
+"2396","Madagascar",1991,2500,21000,NA,NA
+"2397","Madagascar",1992,2600,21500,NA,NA
+"2398","Madagascar",1993,2700,22000,NA,NA
+"2399","Madagascar",1994,2449,20000,NA,NA
+"2400","Madagascar",1995,2558,21000,NA,NA
+"2401","Madagascar",1996,2674,22000,NA,NA
+"2402","Madagascar",1997,2800,23000,NA,NA
+"2403","Madagascar",1998,2800,23000,NA,NA
+"2404","Madagascar",1999,2900,24000,NA,NA
+"2405","Madagascar",2000,2800,23000,NA,NA
+"2406","Madagascar",2001,2820,23143,NA,NA
+"2407","Madagascar",2002,2824,23078,NA,NA
+"2408","Madagascar",2003,2867,23533,NA,NA
+"2409","Madagascar",2004,2866,23546,NA,NA
+"2410","Madagascar",2005,2916,23993,NA,NA
+"2411","Madagascar",2006,2900,24000,NA,NA
+"2412","Madagascar",2007,3000,25000,NA,NA
+"2413","Madagascar",2008,2915,24000,NA,NA
+"2414","Madagascar",2009,2999,24561,NA,NA
+"2415","Madagascar",2010,3077,25060,NA,NA
+"2416","Madagascar",2011,3136,25385,NA,NA
+"2417","Madagascar",2012,3250,26000,NA,NA
+"2418","Madagascar",2013,3250,25900,NA,NA
+"2419","Madagascar",2014,3272,26040,NA,NA
+"2420","Madagascar",2015,3245,26228,NA,NA
+"2421","Madagascar",2016,3240,26369,NA,NA
+"2422","Madagascar",2017,3324,26618,NA,NA
+"2423","Madagascar",2018,3346,26699,NA,NA
+"2424","Madagascar",2019,3374,26866,NA,NA
+"2425","Madagascar",2020,3403,27034,NA,NA
+"2426","Malawi",2014,18500,92400,NA,NA
+"2427","Malawi",2015,19000,95337,NA,NA
+"2428","Malawi",2016,17000,86769,NA,NA
+"2429","Malawi",2017,19000,97358,NA,NA
+"2430","Malawi",2018,18000,92239,NA,NA
+"2431","Malawi",2019,18187,93334,NA,NA
+"2432","Malawi",2020,18163,93619,NA,NA
+"2433","Malta",2018,0,0,NA,NA
+"2434","Malta",2019,0,0,NA,NA
+"2435","Malta",2020,0,0,NA,NA
+"2436","Martinique",1985,600,4850,NA,NA
+"2437","Martinique",1986,492,3234,NA,NA
+"2438","Martinique",1987,427,2422,NA,NA
+"2439","Martinique",1988,380,2322,NA,NA
+"2440","Martinique",1989,300,1809,NA,NA
+"2441","Martinique",1990,295,1066,NA,NA
+"2442","Martinique",1991,240,1202,NA,NA
+"2443","Martinique",1992,170,650,NA,NA
+"2444","Martinique",1993,140,573,NA,NA
+"2445","Martinique",1994,140,573,NA,NA
+"2446","Martinique",1995,130,522,NA,NA
+"2447","Martinique",1996,105,420,NA,NA
+"2448","Martinique",1997,80,318,NA,NA
+"2449","Martinique",1998,90,363,NA,NA
+"2450","Martinique",1999,85,363,NA,NA
+"2451","Martinique",2000,88,384,NA,NA
+"2452","Martinique",2001,86,381,NA,NA
+"2453","Martinique",2002,79,360,NA,NA
+"2454","Martinique",2003,50,248,NA,NA
+"2455","Martinique",2004,90,429,NA,NA
+"2456","Martinique",2005,100,462,NA,NA
+"2457","Martinique",2006,110,462,NA,NA
+"2458","Mauritius",1991,NA,NA,4,NA
+"2459","Mauritius",1992,NA,NA,NA,NA
+"2460","Mauritius",1993,NA,NA,NA,NA
+"2461","Mauritius",1994,NA,NA,NA,NA
+"2462","Mauritius",1995,NA,NA,NA,NA
+"2463","Mauritius",1996,NA,NA,NA,NA
+"2464","Mauritius",1997,NA,NA,NA,NA
+"2465","Mauritius",1998,NA,NA,NA,NA
+"2466","Mauritius",1999,NA,NA,NA,NA
+"2467","Mauritius",2000,NA,NA,NA,NA
+"2468","Mauritius",2001,NA,NA,NA,NA
+"2469","Mauritius",2002,NA,NA,NA,NA
+"2470","Mauritius",2003,NA,NA,NA,NA
+"2471","Mauritius",2004,NA,NA,NA,NA
+"2472","Mauritius",2005,NA,NA,NA,NA
+"2473","Mauritius",2006,NA,NA,NA,NA
+"2474","Mauritius",2007,NA,NA,NA,NA
+"2475","Mauritius",2008,NA,NA,NA,NA
+"2476","Mauritius",2009,NA,NA,NA,NA
+"2477","Mauritius",2010,NA,NA,NA,NA
+"2478","Mauritius",2011,NA,NA,NA,NA
+"2479","Mauritius",2012,NA,NA,NA,NA
+"2480","Mauritius",2013,NA,NA,NA,NA
+"2481","Mauritius",2014,NA,NA,NA,NA
+"2482","Mauritius",2015,NA,NA,NA,NA
+"2483","Mauritius",2016,NA,NA,NA,NA
+"2484","Mauritius",2017,NA,NA,NA,NA
+"2485","Mauritius",2018,NA,NA,NA,NA
+"2486","Mauritius",2019,NA,NA,NA,NA
+"2487","Mauritius",2020,NA,NA,NA,NA
+"2488","Mexico",1961,8723,108057,NA,NA
+"2489","Mexico",1962,8898,112934,NA,NA
+"2490","Mexico",1963,9972,130046,NA,NA
+"2491","Mexico",1964,10055,131721,NA,NA
+"2492","Mexico",1965,12181,161910,NA,NA
+"2493","Mexico",1966,13660,169510,NA,NA
+"2494","Mexico",1967,15034,173899,NA,NA
+"2495","Mexico",1968,16031,192307,NA,NA
+"2496","Mexico",1969,17104,201739,NA,NA
+"2497","Mexico",1970,19111,226034,NA,NA
+"2498","Mexico",1971,23797,236791,NA,NA
+"2499","Mexico",1972,26864,234270,NA,NA
+"2500","Mexico",1973,31324,286443,NA,NA
+"2501","Mexico",1974,33555,260890,NA,NA
+"2502","Mexico",1975,37453,279470,NA,NA
+"2503","Mexico",1976,36942,280421,NA,NA
+"2504","Mexico",1977,45243,333112,NA,NA
+"2505","Mexico",1978,51450,395168,NA,NA
+"2506","Mexico",1979,48861,365957,NA,NA
+"2507","Mexico",1980,54498,441768,NA,NA
+"2508","Mexico",1981,55640,460879,NA,NA
+"2509","Mexico",1982,55796,486056,NA,NA
+"2510","Mexico",1983,57480,426618,NA,NA
+"2511","Mexico",1984,56869,439418,NA,NA
+"2512","Mexico",1985,73015,566451,NA,NA
+"2513","Mexico",1986,66362,627906,NA,18
+"2514","Mexico",1987,61211,520837,NA,42
+"2515","Mexico",1988,78084,682928,106,3
+"2516","Mexico",1989,56831,473156,NA,NA
+"2517","Mexico",1990,77365,686301,21,NA
+"2518","Mexico",1991,82926,780403,333,23
+"2519","Mexico",1992,87508,724523,860,NA
+"2520","Mexico",1993,82792,709296,487,16
+"2521","Mexico",1994,89747,799929,617,NA
+"2522","Mexico",1995,89705,790097,690,26
+"2523","Mexico",1996,89931,837787,1791,0
+"2524","Mexico",1997,81358,762336,4110,10
+"2525","Mexico",1998,92215,876623,9294,5
+"2526","Mexico",1999,92669,879083,11792,210
+"2527","Mexico",2000,94104,907439,13135,39
+"2528","Mexico",2001,94148,940229,12856,115
+"2529","Mexico",2002,93847,901075,27167,75
+"2530","Mexico",2003,95399,905000,34996,34
+"2531","Mexico",2004,1e+05,987000,38680,328
+"2532","Mexico",2005,103119,1021515,134349,0
+"2533","Mexico",2006,105477,1134250,108975,937
+"2534","Mexico",2007,110377,1142892,219364,NA
+"2535","Mexico",2008,112479,1162429,234507,165
+"2536","Mexico",2009,121491,1230973,300607,18
+"2537","Mexico",2010,123403,1107135,266646,3950
+"2538","Mexico",2011,126598,1264141,318938,384
+"2539","Mexico",2012,130308,1316104,431319,483
+"2540","Mexico",2013,144244,1467837,509728,1740
+"2541","Mexico",2014,153771,1520695,604634,71
+"2542","Mexico",2015,166945,1644226,804050,20
+"2543","Mexico",2016,180536,1889354,785076,45
+"2544","Mexico",2017,188723,2029886,774626,12
+"2545","Mexico",2018,206389,2184663,904204,19
+"2546","Mexico",2019,215942,2300889,976613,14
+"2547","Mexico",2020,224422,2393849,1004962,606
+"2548","Micronesia (Federated States of)",1995,NA,NA,NA,NA
+"2549","Micronesia (Federated States of)",1996,NA,NA,NA,NA
+"2550","Micronesia (Federated States of)",1997,NA,NA,NA,NA
+"2551","Micronesia (Federated States of)",1998,NA,NA,NA,NA
+"2552","Micronesia (Federated States of)",1999,NA,NA,NA,NA
+"2553","Micronesia (Federated States of)",2000,NA,NA,NA,NA
+"2554","Micronesia (Federated States of)",2001,NA,NA,NA,NA
+"2555","Micronesia (Federated States of)",2002,NA,NA,NA,NA
+"2556","Micronesia (Federated States of)",2003,NA,NA,NA,NA
+"2557","Micronesia (Federated States of)",2004,NA,NA,NA,NA
+"2558","Micronesia (Federated States of)",2005,NA,NA,NA,NA
+"2559","Micronesia (Federated States of)",2006,NA,NA,NA,NA
+"2560","Micronesia (Federated States of)",2007,NA,NA,NA,NA
+"2561","Micronesia (Federated States of)",2008,NA,NA,NA,NA
+"2562","Micronesia (Federated States of)",2009,NA,NA,NA,NA
+"2563","Micronesia (Federated States of)",2010,NA,NA,NA,NA
+"2564","Micronesia (Federated States of)",2011,NA,NA,NA,NA
+"2565","Micronesia (Federated States of)",2012,NA,NA,NA,NA
+"2566","Micronesia (Federated States of)",2013,NA,NA,NA,NA
+"2567","Micronesia (Federated States of)",2014,NA,NA,NA,NA
+"2568","Micronesia (Federated States of)",2015,NA,NA,NA,NA
+"2569","Micronesia (Federated States of)",2016,NA,NA,NA,NA
+"2570","Micronesia (Federated States of)",2017,NA,NA,NA,NA
+"2571","Micronesia (Federated States of)",2018,NA,NA,NA,NA
+"2572","Micronesia (Federated States of)",2019,NA,NA,NA,NA
+"2573","Micronesia (Federated States of)",2020,NA,NA,NA,NA
+"2574","Morocco",1961,125,1000,NA,NA
+"2575","Morocco",1962,125,1000,NA,NA
+"2576","Morocco",1963,125,1000,NA,NA
+"2577","Morocco",1964,125,1000,NA,NA
+"2578","Morocco",1965,125,1000,NA,NA
+"2579","Morocco",1966,125,1000,NA,NA
+"2580","Morocco",1967,125,1000,NA,NA
+"2581","Morocco",1968,125,1000,NA,NA
+"2582","Morocco",1969,125,1000,NA,NA
+"2583","Morocco",1970,125,1000,NA,NA
+"2584","Morocco",1971,125,1000,NA,NA
+"2585","Morocco",1972,125,1000,NA,NA
+"2586","Morocco",1973,125,1000,NA,NA
+"2587","Morocco",1974,125,1000,NA,NA
+"2588","Morocco",1975,125,1000,NA,NA
+"2589","Morocco",1976,125,1000,NA,NA
+"2590","Morocco",1977,125,1000,NA,NA
+"2591","Morocco",1978,125,1000,NA,NA
+"2592","Morocco",1979,125,1000,NA,NA
+"2593","Morocco",1980,125,1000,NA,NA
+"2594","Morocco",1981,125,1000,NA,NA
+"2595","Morocco",1982,125,1000,NA,NA
+"2596","Morocco",1983,125,1000,NA,NA
+"2597","Morocco",1984,125,1000,NA,NA
+"2598","Morocco",1985,250,2000,NA,NA
+"2599","Morocco",1986,300,2500,NA,NA
+"2600","Morocco",1987,350,3000,NA,NA
+"2601","Morocco",1988,400,3500,NA,NA
+"2602","Morocco",1989,450,4000,NA,NA
+"2603","Morocco",1990,500,4500,NA,NA
+"2604","Morocco",1991,550,5000,NA,NA
+"2605","Morocco",1992,600,5500,NA,NA
+"2606","Morocco",1993,650,6000,NA,NA
+"2607","Morocco",1994,750,7000,NA,NA
+"2608","Morocco",1995,850,8000,NA,NA
+"2609","Morocco",1996,950,9000,NA,NA
+"2610","Morocco",1997,1100,10000,NA,NA
+"2611","Morocco",1998,1200,11000,NA,NA
+"2612","Morocco",1999,1240,13000,NA,NA
+"2613","Morocco",2000,1270,13000,NA,NA
+"2614","Morocco",2001,1290,13600,NA,NA
+"2615","Morocco",2002,1300,13500,NA,NA
+"2616","Morocco",2003,1420,14500,NA,NA
+"2617","Morocco",2004,1540,15700,NA,NA
+"2618","Morocco",2005,1600,13400,NA,NA
+"2619","Morocco",2006,1660,16400,NA,NA
+"2620","Morocco",2007,1920,16896,NA,NA
+"2621","Morocco",2008,1972,19253,NA,NA
+"2622","Morocco",2009,2118,26000,NA,NA
+"2623","Morocco",2010,1868,33645,NA,NA
+"2624","Morocco",2011,2539,33519,NA,NA
+"2625","Morocco",2012,2065,54340,NA,NA
+"2626","Morocco",2013,3105,28080,NA,NA
+"2627","Morocco",2014,2599,31896,NA,NA
+"2628","Morocco",2015,3423,42732,NA,NA
+"2629","Morocco",2016,3806,42256,NA,NA
+"2630","Morocco",2017,3505,41695,NA,NA
+"2631","Morocco",2018,4449,51170,NA,NA
+"2632","Morocco",2019,5069,54576,NA,NA
+"2633","Morocco",2020,6745,69940,NA,NA
+"2634","Netherlands",2018,0,0,NA,74
+"2635","Netherlands",2019,0,0,NA,4
+"2636","Netherlands",2020,0,0,NA,NA
+"2637","New Zealand",1974,32,19,NA,NA
+"2638","New Zealand",1975,20,12,NA,NA
+"2639","New Zealand",1976,52,30,NA,NA
+"2640","New Zealand",1977,113,14,NA,NA
+"2641","New Zealand",1978,126,78,NA,NA
+"2642","New Zealand",1979,153,89,NA,NA
+"2643","New Zealand",1980,209,67,NA,NA
+"2644","New Zealand",1981,321,230,NA,NA
+"2645","New Zealand",1982,520,320,NA,NA
+"2646","New Zealand",1983,992,610,NA,NA
+"2647","New Zealand",1984,1062,660,NA,NA
+"2648","New Zealand",1985,1217,680,NA,NA
+"2649","New Zealand",1986,1225,800,NA,NA
+"2650","New Zealand",1987,1236,1000,6,NA
+"2651","New Zealand",1988,1296,1300,NA,NA
+"2652","New Zealand",1989,1314,1188,NA,NA
+"2653","New Zealand",1990,1354,2477,NA,NA
+"2654","New Zealand",1991,1300,3208,5,NA
+"2655","New Zealand",1992,1308,2030,NA,NA
+"2656","New Zealand",1993,1260,2500,NA,NA
+"2657","New Zealand",1994,1374,2550,3,NA
+"2658","New Zealand",1995,1588,3000,74,1
+"2659","New Zealand",1996,1573,3500,68,NA
+"2660","New Zealand",1997,1300,4000,325,NA
+"2661","New Zealand",1998,1100,5300,411,NA
+"2662","New Zealand",1999,1200,9300,3045,NA
+"2663","New Zealand",2000,2646,12606,4373,NA
+"2664","New Zealand",2001,1600,12060,2122,NA
+"2665","New Zealand",2002,3106,13398,1882,18
+"2666","New Zealand",2003,3235,10642,116,44
+"2667","New Zealand",2004,2563,11752,119,NA
+"2668","New Zealand",2005,3400,22970,57,NA
+"2669","New Zealand",2006,3000,15000,NA,NA
+"2670","New Zealand",2007,4004,20000,2397,NA
+"2671","New Zealand",2008,4000,17000,16,NA
+"2672","New Zealand",2009,4117,20500,269,NA
+"2673","New Zealand",2010,3935,21000,NA,NA
+"2674","New Zealand",2011,3976,21500,756,NA
+"2675","New Zealand",2012,4149,25500,36,NA
+"2676","New Zealand",2013,4169,24600,NA,NA
+"2677","New Zealand",2014,3893,37900,3356,NA
+"2678","New Zealand",2015,3934,29000,NA,NA
+"2679","New Zealand",2016,4841,35000,NA,NA
+"2680","New Zealand",2017,3979,27000,NA,NA
+"2681","New Zealand",2018,4482,32835,NA,NA
+"2682","New Zealand",2019,4520,35340,1,NA
+"2683","New Zealand",2020,4869,37657,NA,NA
+"2684","Palestine",1961,NA,NA,NA,NA
+"2685","Palestine",1962,NA,NA,NA,NA
+"2686","Palestine",1963,NA,NA,NA,NA
+"2687","Palestine",1964,NA,NA,NA,NA
+"2688","Palestine",1965,NA,NA,NA,NA
+"2689","Palestine",1966,NA,NA,NA,NA
+"2690","Palestine",1967,NA,NA,NA,NA
+"2691","Palestine",1968,NA,NA,NA,NA
+"2692","Palestine",1969,NA,NA,NA,NA
+"2693","Palestine",1970,NA,NA,NA,NA
+"2694","Palestine",1971,NA,NA,NA,NA
+"2695","Palestine",1972,NA,NA,NA,NA
+"2696","Palestine",1973,NA,NA,NA,NA
+"2697","Palestine",1974,NA,NA,NA,NA
+"2698","Palestine",1975,NA,NA,NA,NA
+"2699","Palestine",1976,NA,NA,NA,NA
+"2700","Palestine",1977,NA,NA,NA,NA
+"2701","Palestine",1978,NA,NA,NA,NA
+"2702","Palestine",1979,NA,NA,NA,NA
+"2703","Palestine",1980,NA,NA,NA,NA
+"2704","Palestine",1981,NA,NA,NA,NA
+"2705","Palestine",1982,NA,NA,NA,NA
+"2706","Palestine",1983,NA,NA,NA,NA
+"2707","Palestine",1984,NA,NA,NA,NA
+"2708","Palestine",1985,NA,NA,NA,NA
+"2709","Palestine",1986,NA,NA,NA,NA
+"2710","Palestine",1987,NA,NA,NA,NA
+"2711","Palestine",1988,NA,NA,NA,NA
+"2712","Palestine",1989,NA,NA,NA,NA
+"2713","Palestine",1990,NA,NA,NA,NA
+"2714","Palestine",1991,NA,NA,NA,NA
+"2715","Palestine",1992,NA,NA,NA,NA
+"2716","Palestine",1993,NA,NA,NA,NA
+"2717","Palestine",1994,4,19,NA,NA
+"2718","Palestine",1995,8,41,NA,NA
+"2719","Palestine",1996,NA,NA,NA,NA
+"2720","Palestine",1997,12,156,NA,NA
+"2721","Palestine",1998,12,74,NA,NA
+"2722","Palestine",1999,12,63,NA,NA
+"2723","Palestine",2000,5,121,NA,NA
+"2724","Palestine",2001,7,325,NA,NA
+"2725","Palestine",2002,8,290,NA,NA
+"2726","Palestine",2003,8,268,NA,NA
+"2727","Palestine",2004,14,268,NA,NA
+"2728","Palestine",2005,12,479,NA,NA
+"2729","Palestine",2006,13,376,NA,NA
+"2730","Palestine",2007,13,377,NA,NA
+"2731","Palestine",2008,13,344,NA,NA
+"2732","Palestine",2009,15,386,NA,NA
+"2733","Palestine",2010,22,480,NA,NA
+"2734","Palestine",2011,25,580,NA,NA
+"2735","Palestine",2012,24,600,NA,NA
+"2736","Palestine",2013,24,570,NA,NA
+"2737","Palestine",2014,25,550,NA,NA
+"2738","Palestine",2015,29,626,NA,NA
+"2739","Palestine",2016,32,677,NA,NA
+"2740","Palestine",2017,37,720,NA,NA
+"2741","Palestine",2018,48,800,NA,NA
+"2742","Palestine",2019,50,796,NA,NA
+"2743","Palestine",2020,53,797,NA,NA
+"2744","Panama",1961,NA,5100,NA,NA
+"2745","Panama",1962,NA,5300,NA,NA
+"2746","Panama",1963,NA,5500,NA,NA
+"2747","Panama",1964,NA,5600,NA,NA
+"2748","Panama",1965,NA,5800,NA,NA
+"2749","Panama",1966,NA,6000,NA,NA
+"2750","Panama",1967,NA,6200,NA,NA
+"2751","Panama",1968,NA,6400,NA,NA
+"2752","Panama",1969,NA,6600,NA,NA
+"2753","Panama",1970,NA,2400,NA,NA
+"2754","Panama",1971,NA,2300,NA,NA
+"2755","Panama",1972,NA,2200,NA,NA
+"2756","Panama",1973,NA,2200,NA,NA
+"2757","Panama",1974,NA,2100,NA,NA
+"2758","Panama",1975,NA,2098,NA,NA
+"2759","Panama",1976,NA,2047,NA,NA
+"2760","Panama",1977,NA,1998,NA,NA
+"2761","Panama",1978,NA,1950,NA,NA
+"2762","Panama",1979,NA,1904,NA,NA
+"2763","Panama",1980,NA,2133,NA,NA
+"2764","Panama",1981,NA,2113,NA,NA
+"2765","Panama",1982,NA,2093,NA,NA
+"2766","Panama",1983,NA,2073,NA,NA
+"2767","Panama",1984,NA,2053,NA,NA
+"2768","Panama",1985,590,2034,NA,NA
+"2769","Panama",1986,590,2015,NA,NA
+"2770","Panama",1987,590,1995,NA,NA
+"2771","Panama",1988,590,1977,NA,30
+"2772","Panama",1989,590,2174,NA,NA
+"2773","Panama",1990,690,2671,NA,NA
+"2774","Panama",1991,696,2697,NA,NA
+"2775","Panama",1992,699,2724,NA,NA
+"2776","Panama",1993,700,2762,NA,NA
+"2777","Panama",1994,704,2778,NA,NA
+"2778","Panama",1995,710,2806,NA,NA
+"2779","Panama",1996,720,2834,NA,NA
+"2780","Panama",1997,714,2862,NA,NA
+"2781","Panama",1998,710,2890,NA,NA
+"2782","Panama",1999,720,2919,NA,NA
+"2783","Panama",2000,710,2948,NA,NA
+"2784","Panama",2001,850,3402,NA,1
+"2785","Panama",2002,870,3485,NA,1
+"2786","Panama",2003,890,3571,NA,NA
+"2787","Panama",2004,887,3696,NA,NA
+"2788","Panama",2005,900,3732,NA,NA
+"2789","Panama",2006,920,3821,NA,NA
+"2790","Panama",2007,940,3914,NA,4
+"2791","Panama",2008,960,4010,NA,9
+"2792","Panama",2009,947,4108,NA,5
+"2793","Panama",2010,3100,12623,NA,5
+"2794","Panama",2011,1600,10319,NA,5
+"2795","Panama",2012,1750,7878,NA,34
+"2796","Panama",2013,1800,7956,NA,8
+"2797","Panama",2014,1800,8035,NA,10
+"2798","Panama",2015,1757,8115,NA,1
+"2799","Panama",2016,1746,8195,NA,4
+"2800","Panama",2017,1753,8276,NA,0
+"2801","Panama",2018,1756,8358,NA,7
+"2802","Panama",2019,1803,8648,NA,1
+"2803","Panama",2020,1819,8794,NA,2
+"2804","Paraguay",1961,NA,10000,NA,NA
+"2805","Paraguay",1962,NA,10000,NA,NA
+"2806","Paraguay",1963,NA,8000,NA,NA
+"2807","Paraguay",1964,NA,8200,NA,NA
+"2808","Paraguay",1965,NA,8600,NA,NA
+"2809","Paraguay",1966,NA,8900,NA,NA
+"2810","Paraguay",1967,NA,9200,NA,NA
+"2811","Paraguay",1968,NA,11200,NA,NA
+"2812","Paraguay",1969,NA,12800,NA,NA
+"2813","Paraguay",1970,NA,14500,NA,NA
+"2814","Paraguay",1971,NA,15000,NA,NA
+"2815","Paraguay",1972,NA,15500,NA,NA
+"2816","Paraguay",1973,NA,15900,NA,NA
+"2817","Paraguay",1974,NA,16000,NA,NA
+"2818","Paraguay",1975,NA,15700,NA,NA
+"2819","Paraguay",1976,NA,16200,NA,NA
+"2820","Paraguay",1977,NA,15700,NA,NA
+"2821","Paraguay",1978,NA,16800,NA,NA
+"2822","Paraguay",1979,NA,17300,NA,NA
+"2823","Paraguay",1980,NA,17000,NA,NA
+"2824","Paraguay",1981,NA,16500,NA,NA
+"2825","Paraguay",1982,NA,16300,NA,NA
+"2826","Paraguay",1983,NA,16800,NA,NA
+"2827","Paraguay",1984,NA,17334,NA,NA
+"2828","Paraguay",1985,2650,17850,NA,NA
+"2829","Paraguay",1986,2650,18029,NA,NA
+"2830","Paraguay",1987,2650,18106,NA,NA
+"2831","Paraguay",1988,2550,16312,NA,NA
+"2832","Paraguay",1989,2550,16296,NA,NA
+"2833","Paraguay",1990,2574,15847,NA,NA
+"2834","Paraguay",1991,2610,15407,NA,NA
+"2835","Paraguay",1992,2500,14978,NA,NA
+"2836","Paraguay",1993,2488,14678,NA,NA
+"2837","Paraguay",1994,2518,14825,NA,NA
+"2838","Paraguay",1995,2300,13528,NA,NA
+"2839","Paraguay",1996,2100,12344,NA,NA
+"2840","Paraguay",1997,1900,11264,NA,NA
+"2841","Paraguay",1998,1946,11500,NA,NA
+"2842","Paraguay",1999,2000,12000,NA,NA
+"2843","Paraguay",2000,2089,12268,NA,NA
+"2844","Paraguay",2001,2200,12500,NA,NA
+"2845","Paraguay",2002,2250,13000,NA,NA
+"2846","Paraguay",2003,2300,13500,NA,NA
+"2847","Paraguay",2004,2250,13000,NA,NA
+"2848","Paraguay",2005,2260,13160,NA,NA
+"2849","Paraguay",2006,2279,13378,NA,NA
+"2850","Paraguay",2007,2300,13500,NA,NA
+"2851","Paraguay",2008,2341,13747,NA,NA
+"2852","Paraguay",2009,2400,14000,NA,NA
+"2853","Paraguay",2010,2450,14485,NA,NA
+"2854","Paraguay",2011,2512,14946,NA,NA
+"2855","Paraguay",2012,2500,15500,NA,NA
+"2856","Paraguay",2013,2646,15919,NA,NA
+"2857","Paraguay",2014,2717,16308,NA,NA
+"2858","Paraguay",2015,2320,14032,NA,NA
+"2859","Paraguay",2016,2561,15420,NA,NA
+"2860","Paraguay",2017,2533,15253,NA,NA
+"2861","Paraguay",2018,2471,14902,NA,NA
+"2862","Paraguay",2019,2522,15192,NA,NA
+"2863","Paraguay",2020,2509,15116,NA,NA
+"2864","Peru",1961,3900,19910,NA,NA
+"2865","Peru",1962,4100,20930,NA,NA
+"2866","Peru",1963,4400,22460,NA,NA
+"2867","Peru",1964,4630,23645,NA,NA
+"2868","Peru",1965,4455,29815,NA,NA
+"2869","Peru",1966,5420,46522,NA,NA
+"2870","Peru",1967,5334,45305,NA,NA
+"2871","Peru",1968,6454,49053,NA,NA
+"2872","Peru",1969,8980,66388,NA,NA
+"2873","Peru",1970,10190,87396,NA,NA
+"2874","Peru",1971,10888,96384,NA,NA
+"2875","Peru",1972,10745,104904,NA,NA
+"2876","Peru",1973,10827,104253,NA,NA
+"2877","Peru",1974,10825,104047,NA,NA
+"2878","Peru",1975,9635,85788,NA,NA
+"2879","Peru",1976,9794,82938,NA,NA
+"2880","Peru",1977,9580,83916,NA,NA
+"2881","Peru",1978,9593,83480,NA,NA
+"2882","Peru",1979,9575,82606,NA,NA
+"2883","Peru",1980,7718,73518,NA,NA
+"2884","Peru",1981,7656,77005,NA,NA
+"2885","Peru",1982,7958,86107,NA,NA
+"2886","Peru",1983,7640,77556,NA,NA
+"2887","Peru",1984,7874,83012,NA,NA
+"2888","Peru",1985,6823,70707,NA,NA
+"2889","Peru",1986,7265,80148,NA,NA
+"2890","Peru",1987,7674,83873,NA,NA
+"2891","Peru",1988,7650,86200,NA,NA
+"2892","Peru",1989,7540,87318,NA,NA
+"2893","Peru",1990,7524,87928,NA,NA
+"2894","Peru",1991,7710,85709,NA,NA
+"2895","Peru",1992,7828,96181,NA,NA
+"2896","Peru",1993,8159,92658,NA,NA
+"2897","Peru",1994,6368,53112,NA,NA
+"2898","Peru",1995,6115,53145,NA,NA
+"2899","Peru",1996,7168,64408,NA,NA
+"2900","Peru",1997,7246,72093,NA,NA
+"2901","Peru",1998,7814,67222,NA,32
+"2902","Peru",1999,8169,78037,NA,NA
+"2903","Peru",2000,8748,83671,NA,NA
+"2904","Peru",2001,10263,93459,NA,NA
+"2905","Peru",2002,10308,94236,NA,NA
+"2906","Peru",2003,11163,99975,NA,NA
+"2907","Peru",2004,11699,108460,NA,NA
+"2908","Peru",2005,11762,103417,NA,NA
+"2909","Peru",2006,12528,113259,12,NA
+"2910","Peru",2007,13603,121720,NA,NA
+"2911","Peru",2008,14370,136303,NA,NA
+"2912","Peru",2009,16292,157415,11,NA
+"2913","Peru",2010,17750,184370,137,NA
+"2914","Peru",2011,19339,213662,9157,NA
+"2915","Peru",2012,21615,268525,15860,NA
+"2916","Peru",2013,25753,288387,21617,NA
+"2917","Peru",2014,30320,349317,64448,NA
+"2918","Peru",2015,33590,367110,46284,NA
+"2919","Peru",2016,37871,455394,31573,NA
+"2920","Peru",2017,39629,466796,64420,NA
+"2921","Peru",2018,41228,504840,81893,NA
+"2922","Peru",2019,47905,571992,85174,NA
+"2923","Peru",2020,50605,660003,77440,NA
+"2924","Philippines",1961,4000,13320,NA,NA
+"2925","Philippines",1962,4000,13000,NA,NA
+"2926","Philippines",1963,4000,13900,NA,NA
+"2927","Philippines",1964,4000,14423,NA,NA
+"2928","Philippines",1965,4000,15885,NA,NA
+"2929","Philippines",1966,4000,15885,NA,NA
+"2930","Philippines",1967,4000,16961,NA,NA
+"2931","Philippines",1968,4000,14381,NA,NA
+"2932","Philippines",1969,4000,15179,NA,NA
+"2933","Philippines",1970,5000,18090,NA,NA
+"2934","Philippines",1971,5000,15189,NA,NA
+"2935","Philippines",1972,5350,20663,NA,NA
+"2936","Philippines",1973,5530,17414,NA,NA
+"2937","Philippines",1974,5300,19800,NA,NA
+"2938","Philippines",1975,5210,21118,NA,NA
+"2939","Philippines",1976,4590,23980,NA,NA
+"2940","Philippines",1977,5190,28074,NA,NA
+"2941","Philippines",1978,5350,27260,NA,NA
+"2942","Philippines",1979,5500,27506,NA,NA
+"2943","Philippines",1980,5540,27503,NA,NA
+"2944","Philippines",1981,5560,25300,NA,NA
+"2945","Philippines",1982,5620,24924,NA,NA
+"2946","Philippines",1983,5470,20955,NA,NA
+"2947","Philippines",1984,5160,21564,NA,NA
+"2948","Philippines",1985,5110,20630,NA,NA
+"2949","Philippines",1986,5110,21882,NA,NA
+"2950","Philippines",1987,4980,22271,NA,NA
+"2951","Philippines",1988,5010,21594,NA,NA
+"2952","Philippines",1989,5000,24000,NA,NA
+"2953","Philippines",1990,4986,28000,NA,NA
+"2954","Philippines",1991,4899,46123,NA,NA
+"2955","Philippines",1992,4932,46936,NA,NA
+"2956","Philippines",1993,4960,47105,NA,NA
+"2957","Philippines",1994,4980,47001,NA,NA
+"2958","Philippines",1995,5042,47023,NA,NA
+"2959","Philippines",1996,5112,46303,NA,NA
+"2960","Philippines",1997,5152,43700,NA,NA
+"2961","Philippines",1998,5219,37548,NA,NA
+"2962","Philippines",1999,5213,38820,NA,NA
+"2963","Philippines",2000,5124,38086,NA,NA
+"2964","Philippines",2001,5199,37404,NA,NA
+"2965","Philippines",2002,5300,37957,NA,NA
+"2966","Philippines",2003,5328,35125,NA,NA
+"2967","Philippines",2004,5392,30797,NA,NA
+"2968","Philippines",2005,5504,27755,NA,NA
+"2969","Philippines",2006,5418,25617,NA,NA
+"2970","Philippines",2007,5464,24975,NA,NA
+"2971","Philippines",2008,5392,24180,NA,NA
+"2972","Philippines",2009,5395,22763,NA,NA
+"2973","Philippines",2010,5397,22029,NA,NA
+"2974","Philippines",2011,5371,20993,NA,NA
+"2975","Philippines",2012,5395,20909,NA,NA
+"2976","Philippines",2013,5371,20397,NA,NA
+"2977","Philippines",2014,5255,20061,NA,NA
+"2978","Philippines",2015,5214,19995,NA,NA
+"2979","Philippines",2016,5187,19572,NA,NA
+"2980","Philippines",2017,5180,19440,NA,NA
+"2981","Philippines",2018,5180,19443,NA,NA
+"2982","Philippines",2019,5196,19597,NA,NA
+"2983","Philippines",2020,5242,20055,NA,NA
+"2984","Poland",2018,0,0,NA,NA
+"2985","Poland",2019,0,0,NA,NA
+"2986","Poland",2020,0,0,NA,NA
+"2987","Portugal",1961,NA,NA,NA,NA
+"2988","Portugal",1962,NA,NA,NA,NA
+"2989","Portugal",1963,NA,NA,NA,NA
+"2990","Portugal",1964,NA,NA,NA,NA
+"2991","Portugal",1965,NA,NA,NA,NA
+"2992","Portugal",1966,NA,NA,NA,NA
+"2993","Portugal",1967,NA,NA,NA,NA
+"2994","Portugal",1968,NA,NA,NA,NA
+"2995","Portugal",1969,NA,NA,NA,NA
+"2996","Portugal",1970,NA,NA,NA,NA
+"2997","Portugal",1971,NA,NA,NA,NA
+"2998","Portugal",1972,NA,NA,NA,NA
+"2999","Portugal",1973,NA,NA,NA,NA
+"3000","Portugal",1974,NA,NA,NA,NA
+"3001","Portugal",1975,NA,NA,NA,NA
+"3002","Portugal",1976,NA,NA,NA,NA
+"3003","Portugal",1977,NA,NA,NA,NA
+"3004","Portugal",1978,NA,NA,NA,NA
+"3005","Portugal",1979,NA,NA,NA,NA
+"3006","Portugal",1980,NA,NA,NA,NA
+"3007","Portugal",1981,NA,NA,NA,NA
+"3008","Portugal",1982,NA,NA,NA,NA
+"3009","Portugal",1983,NA,NA,NA,NA
+"3010","Portugal",1984,NA,NA,NA,NA
+"3011","Portugal",1985,NA,NA,NA,NA
+"3012","Portugal",1986,NA,NA,NA,NA
+"3013","Portugal",1987,NA,NA,NA,NA
+"3014","Portugal",1988,NA,NA,NA,NA
+"3015","Portugal",1989,NA,NA,NA,NA
+"3016","Portugal",1990,11200,21300,NA,NA
+"3017","Portugal",1991,11200,20300,NA,NA
+"3018","Portugal",1992,10700,19400,NA,NA
+"3019","Portugal",1993,10600,16300,NA,NA
+"3020","Portugal",1994,10200,13000,NA,NA
+"3021","Portugal",1995,NA,NA,NA,NA
+"3022","Portugal",1996,NA,NA,NA,NA
+"3023","Portugal",1997,NA,NA,NA,NA
+"3024","Portugal",1998,NA,NA,NA,NA
+"3025","Portugal",1999,NA,NA,NA,NA
+"3026","Portugal",2000,NA,NA,NA,NA
+"3027","Portugal",2001,NA,NA,NA,NA
+"3028","Portugal",2002,NA,NA,NA,NA
+"3029","Portugal",2003,NA,NA,NA,NA
+"3030","Portugal",2004,NA,NA,NA,NA
+"3031","Portugal",2005,NA,NA,NA,NA
+"3032","Portugal",2006,NA,NA,NA,NA
+"3033","Portugal",2007,NA,NA,NA,NA
+"3034","Portugal",2008,NA,NA,NA,NA
+"3035","Portugal",2009,NA,NA,NA,NA
+"3036","Portugal",2010,NA,NA,NA,NA
+"3037","Portugal",2011,NA,NA,NA,NA
+"3038","Portugal",2012,NA,NA,NA,NA
+"3039","Portugal",2013,NA,NA,NA,NA
+"3040","Portugal",2014,NA,NA,NA,NA
+"3041","Portugal",2015,NA,NA,NA,NA
+"3042","Portugal",2016,NA,NA,NA,NA
+"3043","Portugal",2017,NA,NA,NA,NA
+"3044","Portugal",2018,NA,NA,NA,NA
+"3045","Portugal",2019,1980,13370,NA,NA
+"3046","Puerto Rico",1961,940,4767,NA,NA
+"3047","Puerto Rico",1962,900,4336,NA,NA
+"3048","Puerto Rico",1963,950,4858,NA,NA
+"3049","Puerto Rico",1964,980,5822,NA,NA
+"3050","Puerto Rico",1965,980,5720,NA,NA
+"3051","Puerto Rico",1966,980,5720,NA,NA
+"3052","Puerto Rico",1967,980,5788,NA,NA
+"3053","Puerto Rico",1968,1000,5902,NA,NA
+"3054","Puerto Rico",1969,578,5902,NA,NA
+"3055","Puerto Rico",1970,1050,5675,NA,NA
+"3056","Puerto Rico",1971,1050,5448,NA,NA
+"3057","Puerto Rico",1972,980,5221,NA,NA
+"3058","Puerto Rico",1973,1030,5902,NA,NA
+"3059","Puerto Rico",1974,870,4540,NA,NA
+"3060","Puerto Rico",1975,1050,4767,NA,NA
+"3061","Puerto Rico",1976,1050,4052,NA,NA
+"3062","Puerto Rico",1977,920,3794,NA,NA
+"3063","Puerto Rico",1978,980,4536,NA,NA
+"3064","Puerto Rico",1979,1000,3629,NA,NA
+"3065","Puerto Rico",1980,900,3289,NA,NA
+"3066","Puerto Rico",1981,900,3221,NA,NA
+"3067","Puerto Rico",1982,1020,4150,NA,NA
+"3068","Puerto Rico",1983,1020,3629,NA,NA
+"3069","Puerto Rico",1984,1020,3402,NA,NA
+"3070","Puerto Rico",1985,1020,3515,NA,NA
+"3071","Puerto Rico",1986,1050,3946,NA,NA
+"3072","Puerto Rico",1987,1050,3924,NA,NA
+"3073","Puerto Rico",1988,1080,4990,NA,NA
+"3074","Puerto Rico",1989,1050,4264,NA,NA
+"3075","Puerto Rico",1990,1030,4286,NA,NA
+"3076","Puerto Rico",1991,1102,4264,NA,NA
+"3077","Puerto Rico",1992,1020,3768,NA,NA
+"3078","Puerto Rico",1993,1050,3677,NA,NA
+"3079","Puerto Rico",1994,900,3087,NA,NA
+"3080","Puerto Rico",1995,800,2427,NA,NA
+"3081","Puerto Rico",1996,700,2109,NA,NA
+"3082","Puerto Rico",1997,686,2100,NA,NA
+"3083","Puerto Rico",1998,635,1930,NA,NA
+"3084","Puerto Rico",1999,610,1828,NA,NA
+"3085","Puerto Rico",2000,690,2067,NA,NA
+"3086","Puerto Rico",2001,650,1964,NA,NA
+"3087","Puerto Rico",2002,900,2733,NA,NA
+"3088","Puerto Rico",2003,880,2646,NA,NA
+"3089","Puerto Rico",2004,1665,4780,NA,NA
+"3090","Puerto Rico",2005,714,1879,NA,NA
+"3091","Puerto Rico",2006,852,2093,NA,NA
+"3092","Puerto Rico",2007,789,1959,NA,NA
+"3093","Puerto Rico",2008,824,2000,NA,NA
+"3094","Puerto Rico",2009,709,1704,NA,NA
+"3095","Puerto Rico",2010,536,1481,NA,NA
+"3096","Puerto Rico",2011,470,1321,NA,NA
+"3097","Puerto Rico",2012,410,1171,NA,NA
+"3098","Puerto Rico",2013,356,1027,NA,NA
+"3099","Puerto Rico",2014,171,514,NA,NA
+"3100","Puerto Rico",2015,164,438,NA,NA
+"3101","Puerto Rico",2016,230,631,NA,NA
+"3102","Puerto Rico",2017,235,670,NA,NA
+"3103","Puerto Rico",2018,210,580,NA,NA
+"3104","Puerto Rico",2019,225,627,NA,NA
+"3105","Puerto Rico",2020,223,626,NA,NA
+"3106","R?union",1978,NA,500,NA,NA
+"3107","R?union",1979,NA,600,NA,NA
+"3108","R?union",1980,NA,650,NA,NA
+"3109","R?union",1981,NA,700,NA,NA
+"3110","R?union",1982,NA,750,NA,NA
+"3111","R?union",1983,NA,800,NA,NA
+"3112","R?union",1984,NA,952,NA,NA
+"3113","R?union",1985,100,800,NA,NA
+"3114","R?union",1986,100,800,NA,NA
+"3115","R?union",1987,30,202,NA,NA
+"3116","R?union",1988,30,202,NA,NA
+"3117","R?union",1989,30,202,NA,NA
+"3118","R?union",1990,41,202,NA,NA
+"3119","R?union",1991,28,202,NA,NA
+"3120","R?union",1992,28,202,NA,NA
+"3121","R?union",1993,26,182,NA,NA
+"3122","R?union",1994,25,180,NA,NA
+"3123","R?union",1995,25,180,NA,NA
+"3124","R?union",1996,25,180,NA,NA
+"3125","R?union",1997,27,200,NA,NA
+"3126","R?union",1998,31,230,NA,NA
+"3127","R?union",1999,33,250,NA,NA
+"3128","R?union",2000,36,270,NA,NA
+"3129","R?union",2001,40,300,NA,NA
+"3130","R?union",2002,41,320,NA,NA
+"3131","R?union",2003,45,350,NA,NA
+"3132","R?union",2004,49,380,NA,NA
+"3133","R?union",2005,51,400,NA,NA
+"3134","R?union",2006,57,450,NA,NA
+"3135","Romania",2018,0,0,NA,NA
+"3136","Romania",2019,0,0,NA,NA
+"3137","Romania",2020,0,0,NA,NA
+"3138","Rwanda",1961,NA,NA,NA,NA
+"3139","Rwanda",1962,NA,NA,NA,NA
+"3140","Rwanda",1963,NA,NA,NA,NA
+"3141","Rwanda",1964,NA,NA,NA,NA
+"3142","Rwanda",1965,NA,NA,NA,NA
+"3143","Rwanda",1966,NA,NA,NA,NA
+"3144","Rwanda",1967,NA,NA,NA,NA
+"3145","Rwanda",1968,NA,NA,NA,NA
+"3146","Rwanda",1969,NA,NA,NA,NA
+"3147","Rwanda",1970,NA,NA,NA,NA
+"3148","Rwanda",1971,NA,NA,NA,NA
+"3149","Rwanda",1972,NA,NA,NA,NA
+"3150","Rwanda",1973,NA,NA,NA,NA
+"3151","Rwanda",1974,NA,NA,NA,NA
+"3152","Rwanda",1975,NA,NA,NA,NA
+"3153","Rwanda",1976,NA,NA,NA,NA
+"3154","Rwanda",1977,NA,NA,NA,NA
+"3155","Rwanda",1978,NA,NA,NA,NA
+"3156","Rwanda",1979,NA,NA,NA,NA
+"3157","Rwanda",1980,NA,NA,NA,NA
+"3158","Rwanda",1981,NA,NA,NA,NA
+"3159","Rwanda",1982,NA,NA,NA,NA
+"3160","Rwanda",1983,NA,NA,NA,NA
+"3161","Rwanda",1984,NA,NA,NA,NA
+"3162","Rwanda",1985,NA,NA,NA,NA
+"3163","Rwanda",1986,NA,NA,NA,NA
+"3164","Rwanda",1987,NA,NA,NA,NA
+"3165","Rwanda",1988,NA,NA,NA,NA
+"3166","Rwanda",1989,NA,NA,NA,NA
+"3167","Rwanda",1990,NA,NA,NA,NA
+"3168","Rwanda",1991,NA,NA,NA,NA
+"3169","Rwanda",1992,NA,NA,NA,NA
+"3170","Rwanda",1993,NA,NA,NA,NA
+"3171","Rwanda",1994,NA,NA,NA,NA
+"3172","Rwanda",1995,NA,NA,NA,NA
+"3173","Rwanda",1996,NA,NA,NA,NA
+"3174","Rwanda",1997,NA,NA,NA,NA
+"3175","Rwanda",1998,400,3000,NA,NA
+"3176","Rwanda",1999,400,3500,NA,NA
+"3177","Rwanda",2000,450,3500,NA,NA
+"3178","Rwanda",2001,450,3500,NA,NA
+"3179","Rwanda",2002,450,4000,NA,NA
+"3180","Rwanda",2003,500,4000,NA,NA
+"3181","Rwanda",2004,500,4000,NA,NA
+"3182","Rwanda",2005,550,4500,NA,NA
+"3183","Rwanda",2006,600,4500,NA,NA
+"3184","Rwanda",2007,600,5000,NA,NA
+"3185","Rwanda",2008,620,9290,NA,NA
+"3186","Rwanda",2009,650,10500,NA,NA
+"3187","Rwanda",2010,600,5700,NA,NA
+"3188","Rwanda",2011,630,8800,NA,NA
+"3189","Rwanda",2012,700,5000,NA,NA
+"3190","Rwanda",2013,930,8300,NA,NA
+"3191","Rwanda",2014,650,7600,NA,NA
+"3192","Rwanda",2015,680,9200,NA,NA
+"3193","Rwanda",2016,634,9296,NA,NA
+"3194","Rwanda",2017,950,6912,NA,NA
+"3195","Rwanda",2018,152,8597,NA,NA
+"3196","Rwanda",2019,220,6601,NA,NA
+"3197","Rwanda",2020,293,6477,NA,NA
+"3198","Saint Lucia",1961,NA,310,NA,NA
+"3199","Saint Lucia",1962,NA,315,NA,NA
+"3200","Saint Lucia",1963,NA,320,NA,NA
+"3201","Saint Lucia",1964,NA,325,NA,NA
+"3202","Saint Lucia",1965,NA,330,NA,NA
+"3203","Saint Lucia",1966,NA,335,NA,NA
+"3204","Saint Lucia",1967,NA,340,NA,NA
+"3205","Saint Lucia",1968,NA,345,NA,NA
+"3206","Saint Lucia",1969,NA,350,NA,NA
+"3207","Saint Lucia",1970,NA,355,NA,NA
+"3208","Saint Lucia",1971,NA,360,NA,NA
+"3209","Saint Lucia",1972,NA,365,NA,NA
+"3210","Saint Lucia",1973,NA,370,NA,NA
+"3211","Saint Lucia",1974,NA,375,NA,NA
+"3212","Saint Lucia",1975,NA,380,NA,NA
+"3213","Saint Lucia",1976,NA,390,NA,NA
+"3214","Saint Lucia",1977,NA,400,NA,NA
+"3215","Saint Lucia",1978,NA,410,NA,NA
+"3216","Saint Lucia",1979,NA,420,NA,NA
+"3217","Saint Lucia",1980,NA,430,NA,NA
+"3218","Saint Lucia",1981,NA,440,NA,NA
+"3219","Saint Lucia",1982,NA,450,NA,NA
+"3220","Saint Lucia",1983,NA,460,NA,NA
+"3221","Saint Lucia",1984,NA,470,NA,NA
+"3222","Saint Lucia",1985,105,470,NA,NA
+"3223","Saint Lucia",1986,105,480,NA,NA
+"3224","Saint Lucia",1987,105,500,NA,NA
+"3225","Saint Lucia",1988,90,510,NA,NA
+"3226","Saint Lucia",1989,80,520,NA,NA
+"3227","Saint Lucia",1990,79,500,NA,NA
+"3228","Saint Lucia",1991,70,450,NA,NA
+"3229","Saint Lucia",1992,65,400,NA,NA
+"3230","Saint Lucia",1993,60,350,NA,NA
+"3231","Saint Lucia",1994,48,300,NA,NA
+"3232","Saint Lucia",1995,40,250,NA,NA
+"3233","Saint Lucia",1996,79,490,NA,NA
+"3234","Saint Lucia",1997,66,410,NA,NA
+"3235","Saint Lucia",1998,30,220,NA,NA
+"3236","Saint Lucia",1999,50,331,NA,NA
+"3237","Saint Lucia",2000,60,396,NA,NA
+"3238","Saint Lucia",2001,55,350,NA,NA
+"3239","Saint Lucia",2002,45,300,NA,NA
+"3240","Saint Lucia",2003,40,280,NA,NA
+"3241","Saint Lucia",2004,50,329,NA,NA
+"3242","Saint Lucia",2005,30,215,NA,NA
+"3243","Saint Lucia",2006,50,323,NA,NA
+"3244","Saint Lucia",2007,44,284,NA,NA
+"3245","Saint Lucia",2008,70,458,NA,NA
+"3246","Saint Lucia",2009,40,252,NA,1
+"3247","Saint Lucia",2010,35,230,NA,NA
+"3248","Saint Lucia",2011,31,200,NA,1
+"3249","Saint Lucia",2012,26,168,NA,3
+"3250","Saint Lucia",2013,24,156,NA,2
+"3251","Saint Lucia",2014,26,165,15,1
+"3252","Saint Lucia",2015,35,229,NA,NA
+"3253","Saint Lucia",2016,38,250,NA,NA
+"3254","Saint Lucia",2017,43,287,NA,NA
+"3255","Saint Lucia",2018,50,335,NA,NA
+"3256","Saint Lucia",2019,51,344,NA,NA
+"3257","Saint Lucia",2020,40,265,NA,1
+"3258","Samoa",1961,30,1190,NA,NA
+"3259","Samoa",1962,34,1250,NA,NA
+"3260","Samoa",1963,38,1320,NA,NA
+"3261","Samoa",1964,42,1380,NA,NA
+"3262","Samoa",1965,47,1440,NA,NA
+"3263","Samoa",1966,52,1500,NA,NA
+"3264","Samoa",1967,55,1560,NA,NA
+"3265","Samoa",1968,57,1620,NA,NA
+"3266","Samoa",1969,60,1680,NA,NA
+"3267","Samoa",1970,64,1740,NA,NA
+"3268","Samoa",1971,67,1800,NA,NA
+"3269","Samoa",1972,71,1850,NA,NA
+"3270","Samoa",1973,75,1910,NA,NA
+"3271","Samoa",1974,78,1970,NA,NA
+"3272","Samoa",1975,70,2032,NA,NA
+"3273","Samoa",1976,81,2032,NA,NA
+"3274","Samoa",1977,81,2032,NA,NA
+"3275","Samoa",1978,81,2050,NA,NA
+"3276","Samoa",1979,81,2100,NA,NA
+"3277","Samoa",1980,81,2100,NA,NA
+"3278","Samoa",1981,84,2200,NA,NA
+"3279","Samoa",1982,86,2250,NA,NA
+"3280","Samoa",1983,88,2300,NA,NA
+"3281","Samoa",1984,90,2350,NA,NA
+"3282","Samoa",1985,70,1800,NA,NA
+"3283","Samoa",1986,50,1300,NA,NA
+"3284","Samoa",1987,30,1000,NA,NA
+"3285","Samoa",1988,20,500,NA,NA
+"3286","Samoa",1989,12,300,NA,NA
+"3287","Samoa",1990,15,400,NA,NA
+"3288","Samoa",1991,20,500,NA,NA
+"3289","Samoa",1992,30,800,NA,NA
+"3290","Samoa",1993,30,800,NA,NA
+"3291","Samoa",1994,30,800,NA,NA
+"3292","Samoa",1995,30,797,NA,NA
+"3293","Samoa",1996,30,799,NA,NA
+"3294","Samoa",1997,30,800,NA,NA
+"3295","Samoa",1998,30,800,NA,NA
+"3296","Samoa",1999,35,900,NA,NA
+"3297","Samoa",2000,37,1000,NA,NA
+"3298","Samoa",2001,35,1000,NA,NA
+"3299","Samoa",2002,35,972,NA,NA
+"3300","Samoa",2003,35,978,NA,NA
+"3301","Samoa",2004,35,983,NA,NA
+"3302","Samoa",2005,35,988,NA,NA
+"3303","Samoa",2006,35,1000,NA,NA
+"3304","Samoa",2007,40,1150,NA,NA
+"3305","Samoa",2008,40,1150,NA,NA
+"3306","Samoa",2009,40,1160,NA,NA
+"3307","Samoa",2010,41,1196,NA,NA
+"3308","Samoa",2011,42,1221,NA,NA
+"3309","Samoa",2012,42,1250,NA,NA
+"3310","Samoa",2013,43,1271,NA,NA
+"3311","Samoa",2014,44,1300,NA,NA
+"3312","Samoa",2015,45,1340,NA,NA
+"3313","Samoa",2016,45,1366,NA,NA
+"3314","Samoa",2017,44,1335,NA,NA
+"3315","Samoa",2018,45,1347,NA,NA
+"3316","Samoa",2019,45,1350,NA,NA
+"3317","Samoa",2020,45,1344,NA,NA
+"3318","Senegal",1991,NA,NA,NA,NA
+"3319","Senegal",1992,NA,NA,NA,NA
+"3320","Senegal",1993,NA,NA,NA,NA
+"3321","Senegal",1994,NA,NA,NA,NA
+"3322","Senegal",1995,NA,NA,NA,NA
+"3323","Senegal",1996,NA,NA,NA,NA
+"3324","Senegal",1997,NA,NA,NA,NA
+"3325","Senegal",1998,NA,NA,NA,NA
+"3326","Senegal",1999,NA,NA,NA,NA
+"3327","Senegal",2000,NA,NA,NA,NA
+"3328","Senegal",2001,NA,NA,NA,NA
+"3329","Senegal",2002,NA,NA,NA,NA
+"3330","Senegal",2003,NA,NA,NA,NA
+"3331","Senegal",2004,NA,NA,NA,NA
+"3332","Senegal",2005,NA,NA,NA,NA
+"3333","Senegal",2006,NA,NA,NA,NA
+"3334","Senegal",2007,NA,NA,NA,NA
+"3335","Senegal",2008,NA,NA,NA,NA
+"3336","Senegal",2009,NA,NA,NA,NA
+"3337","Senegal",2010,NA,NA,NA,NA
+"3338","Senegal",2011,NA,NA,NA,NA
+"3339","Senegal",2012,NA,NA,NA,NA
+"3340","Senegal",2013,NA,NA,NA,NA
+"3341","Senegal",2014,NA,NA,NA,NA
+"3342","Senegal",2015,NA,NA,NA,NA
+"3343","Senegal",2016,NA,NA,NA,NA
+"3344","Senegal",2017,NA,NA,NA,NA
+"3345","Senegal",2018,NA,NA,NA,NA
+"3346","Senegal",2019,NA,NA,NA,NA
+"3347","Senegal",2020,NA,NA,NA,NA
+"3348","Seychelles",1961,NA,6,NA,NA
+"3349","Seychelles",1962,NA,6,NA,NA
+"3350","Seychelles",1963,NA,6,NA,NA
+"3351","Seychelles",1964,NA,6,NA,NA
+"3352","Seychelles",1965,NA,6,NA,NA
+"3353","Seychelles",1966,NA,6,NA,NA
+"3354","Seychelles",1967,NA,6,NA,NA
+"3355","Seychelles",1968,NA,6,NA,NA
+"3356","Seychelles",1969,NA,7,NA,NA
+"3357","Seychelles",1970,NA,7,NA,NA
+"3358","Seychelles",1971,NA,8,NA,NA
+"3359","Seychelles",1972,NA,8,NA,NA
+"3360","Seychelles",1973,NA,8,NA,NA
+"3361","Seychelles",1974,NA,8,NA,NA
+"3362","Seychelles",1975,NA,9,NA,NA
+"3363","Seychelles",1976,NA,9,NA,NA
+"3364","Seychelles",1977,NA,9,NA,NA
+"3365","Seychelles",1978,NA,9,NA,NA
+"3366","Seychelles",1979,NA,10,NA,NA
+"3367","Seychelles",1980,NA,10,NA,NA
+"3368","Seychelles",1981,NA,10,NA,NA
+"3369","Seychelles",1982,NA,12,NA,NA
+"3370","Seychelles",1983,NA,12,NA,NA
+"3371","Seychelles",1984,NA,12,NA,NA
+"3372","Seychelles",1985,NA,12,NA,NA
+"3373","Seychelles",1986,NA,12,NA,NA
+"3374","Seychelles",1987,NA,12,NA,NA
+"3375","Seychelles",1988,NA,12,NA,NA
+"3376","Seychelles",1989,NA,12,NA,NA
+"3377","Seychelles",1990,NA,15,NA,NA
+"3378","Seychelles",1991,1,13,NA,NA
+"3379","Seychelles",1992,1,13,NA,NA
+"3380","Seychelles",1993,1,13,NA,NA
+"3381","Seychelles",1994,1,14,NA,NA
+"3382","Seychelles",1995,1,15,NA,NA
+"3383","Seychelles",1996,1,14,NA,NA
+"3384","Seychelles",1997,1,14,NA,NA
+"3385","Seychelles",1998,1,14,NA,NA
+"3386","Seychelles",1999,1,13,NA,NA
+"3387","Seychelles",2000,1,13,NA,NA
+"3388","Seychelles",2001,1,13,NA,NA
+"3389","Seychelles",2002,1,13,NA,NA
+"3390","Seychelles",2003,1,13,NA,NA
+"3391","Seychelles",2004,1,13,NA,NA
+"3392","Seychelles",2005,1,13,NA,NA
+"3393","Seychelles",2006,1,12,NA,NA
+"3394","Seychelles",2007,1,12,NA,NA
+"3395","Seychelles",2008,1,12,NA,NA
+"3396","Seychelles",2009,1,12,NA,NA
+"3397","Seychelles",2010,1,12,NA,NA
+"3398","Seychelles",2011,1,12,NA,NA
+"3399","Seychelles",2012,1,13,NA,NA
+"3400","Seychelles",2013,1,13,NA,NA
+"3401","Seychelles",2014,1,13,NA,NA
+"3402","Seychelles",2015,1,13,NA,NA
+"3403","Seychelles",2016,1,12,NA,NA
+"3404","Seychelles",2017,1,13,NA,NA
+"3405","Seychelles",2018,1,13,NA,NA
+"3406","Seychelles",2019,1,13,NA,NA
+"3407","Seychelles",2020,1,13,NA,NA
+"3408","Slovakia",2018,0,0,NA,NA
+"3409","Slovakia",2019,0,0,NA,NA
+"3410","Slovakia",2020,0,0,NA,NA
+"3411","Slovenia",2018,0,0,NA,NA
+"3412","Slovenia",2019,0,0,NA,NA
+"3413","Slovenia",2020,0,0,NA,NA
+"3414","South Africa",1961,1000,4733,NA,NA
+"3415","South Africa",1962,1200,5412,NA,NA
+"3416","South Africa",1963,1000,4054,NA,NA
+"3417","South Africa",1964,1000,4553,NA,NA
+"3418","South Africa",1965,1000,4152,NA,NA
+"3419","South Africa",1966,1000,4011,NA,NA
+"3420","South Africa",1967,1300,5891,NA,NA
+"3421","South Africa",1968,1500,6150,NA,NA
+"3422","South Africa",1969,2000,8747,NA,NA
+"3423","South Africa",1970,1800,7757,NA,NA
+"3424","South Africa",1971,2000,8729,NA,NA
+"3425","South Africa",1972,2000,9587,NA,NA
+"3426","South Africa",1973,2500,12112,NA,NA
+"3427","South Africa",1974,2800,13254,NA,NA
+"3428","South Africa",1975,3000,14760,NA,NA
+"3429","South Africa",1976,3300,17140,NA,NA
+"3430","South Africa",1977,3500,18971,NA,NA
+"3431","South Africa",1978,3500,18284,NA,NA
+"3432","South Africa",1979,4000,20162,NA,NA
+"3433","South Africa",1980,4000,20283,NA,NA
+"3434","South Africa",1981,4000,21135,NA,NA
+"3435","South Africa",1982,4000,21967,NA,NA
+"3436","South Africa",1983,4000,26581,NA,NA
+"3437","South Africa",1984,4000,22132,NA,NA
+"3438","South Africa",1985,4300,25506,NA,NA
+"3439","South Africa",1986,5300,32553,NA,NA
+"3440","South Africa",1987,5400,38270,NA,NA
+"3441","South Africa",1988,5400,41217,NA,10
+"3442","South Africa",1989,6000,41004,NA,NA
+"3443","South Africa",1990,6010,51808,NA,NA
+"3444","South Africa",1991,7000,48565,NA,NA
+"3445","South Africa",1992,5600,42234,NA,NA
+"3446","South Africa",1993,5300,37763,NA,NA
+"3447","South Africa",1994,9000,48418,NA,NA
+"3448","South Africa",1995,8700,45428,NA,NA
+"3449","South Africa",1996,7000,53801,NA,NA
+"3450","South Africa",1997,6000,44586,NA,6
+"3451","South Africa",1998,10790,92161,NA,2
+"3452","South Africa",1999,11450,55793,NA,9
+"3453","South Africa",2000,12380,81006,NA,NA
+"3454","South Africa",2001,11000,51942,NA,NA
+"3455","South Africa",2002,12950,84720,NA,NA
+"3456","South Africa",2003,13000,63265,NA,NA
+"3457","South Africa",2004,12750,56869,NA,NA
+"3458","South Africa",2005,14000,105931,NA,NA
+"3459","South Africa",2006,12500,61404,NA,NA
+"3460","South Africa",2007,13000,65209,NA,NA
+"3461","South Africa",2008,16000,83534,NA,NA
+"3462","South Africa",2009,14500,76726,NA,NA
+"3463","South Africa",2010,15000,83204,NA,NA
+"3464","South Africa",2011,13800,75765,NA,NA
+"3465","South Africa",2012,16500,91603,NA,NA
+"3466","South Africa",2013,16000,83718,NA,NA
+"3467","South Africa",2014,20000,107176,24,NA
+"3468","South Africa",2015,16536,86189,NA,NA
+"3469","South Africa",2016,17540,89546,NA,NA
+"3470","South Africa",2017,12310,63045,NA,NA
+"3471","South Africa",2018,24827,127568,NA,NA
+"3472","South Africa",2019,17456,89065,NA,NA
+"3473","South Africa",2020,19357,98018,NA,NA
+"3474","Spain",1961,35,340,NA,NA
+"3475","Spain",1962,35,373,NA,NA
+"3476","Spain",1963,35,377,NA,NA
+"3477","Spain",1964,30,347,NA,NA
+"3478","Spain",1965,40,400,NA,NA
+"3479","Spain",1966,52,469,NA,NA
+"3480","Spain",1967,62,599,NA,NA
+"3481","Spain",1968,42,555,NA,NA
+"3482","Spain",1969,63,674,NA,NA
+"3483","Spain",1970,40,600,NA,NA
+"3484","Spain",1971,54,887,NA,NA
+"3485","Spain",1972,108,1526,NA,NA
+"3486","Spain",1973,150,1800,NA,NA
+"3487","Spain",1974,200,2000,NA,NA
+"3488","Spain",1975,300,2500,NA,NA
+"3489","Spain",1976,450,3000,NA,NA
+"3490","Spain",1977,580,4000,NA,NA
+"3491","Spain",1978,628,4948,NA,NA
+"3492","Spain",1979,850,6000,NA,NA
+"3493","Spain",1980,910,7596,NA,NA
+"3494","Spain",1981,1500,10000,NA,NA
+"3495","Spain",1982,2000,15000,NA,NA
+"3496","Spain",1983,2500,20000,NA,NA
+"3497","Spain",1984,3016,24549,NA,NA
+"3498","Spain",1985,3795,27956,NA,NA
+"3499","Spain",1986,4125,30282,NA,NA
+"3500","Spain",1987,4274,32534,NA,NA
+"3501","Spain",1988,5335,42992,NA,NA
+"3502","Spain",1989,6010,46222,NA,16
+"3503","Spain",1990,6530,44880,NA,NA
+"3504","Spain",1991,7000,52144,NA,NA
+"3505","Spain",1992,7200,53197,NA,NA
+"3506","Spain",1993,7600,51745,NA,132
+"3507","Spain",1994,7570,34100,NA,20
+"3508","Spain",1995,7940,27955,NA,62
+"3509","Spain",1996,7500,52085,NA,151
+"3510","Spain",1997,8386,52409,NA,20
+"3511","Spain",1998,7965,73724,NA,308
+"3512","Spain",1999,8057,66099,NA,407
+"3513","Spain",2000,8759,63843,NA,17
+"3514","Spain",2001,8613,74981,NA,NA
+"3515","Spain",2002,9033,74204,NA,NA
+"3516","Spain",2003,9646,76609,NA,NA
+"3517","Spain",2004,9722,76297,NA,NA
+"3518","Spain",2005,9907,74994,NA,NA
+"3519","Spain",2006,9801,79824,NA,85
+"3520","Spain",2007,9980,82116,NA,NA
+"3521","Spain",2008,10023,73585,NA,118
+"3522","Spain",2009,10016,71931,NA,NA
+"3523","Spain",2010,10434,97378,NA,NA
+"3524","Spain",2011,10558,83426,NA,NA
+"3525","Spain",2012,10645,76337,NA,NA
+"3526","Spain",2013,10800,69400,NA,NA
+"3527","Spain",2014,10893,77401,NA,NA
+"3528","Spain",2015,11329,86636,NA,NA
+"3529","Spain",2016,11441,91509,NA,NA
+"3530","Spain",2017,11812,92936,NA,NA
+"3531","Spain",2018,12160,89590,NA,NA
+"3532","Spain",2019,14100,97730,19,NA
+"3533","Spain",2020,15850,99070,NA,74
+"3534","Sri Lanka",1990,0,0,NA,NA
+"3535","Sri Lanka",1991,117,1389,NA,NA
+"3536","Sri Lanka",1992,119,1424,NA,NA
+"3537","Sri Lanka",1993,121,1459,NA,NA
+"3538","Sri Lanka",1994,123,1493,NA,NA
+"3539","Sri Lanka",1995,125,1528,NA,NA
+"3540","Sri Lanka",1996,127,1563,NA,NA
+"3541","Sri Lanka",1997,129,1598,NA,NA
+"3542","Sri Lanka",1998,131,1632,NA,NA
+"3543","Sri Lanka",1999,133,1667,NA,NA
+"3544","Sri Lanka",2000,134,1702,NA,NA
+"3545","Sri Lanka",2001,136,1737,NA,NA
+"3546","Sri Lanka",2002,138,1771,NA,NA
+"3547","Sri Lanka",2003,140,1806,NA,NA
+"3548","Sri Lanka",2004,142,1841,NA,NA
+"3549","Sri Lanka",2005,146,1876,NA,NA
+"3550","Sri Lanka",2006,150,1911,NA,NA
+"3551","Sri Lanka",2007,154,1945,NA,NA
+"3552","Sri Lanka",2008,159,1980,NA,NA
+"3553","Sri Lanka",2009,163,2015,NA,NA
+"3554","Sri Lanka",2010,493,6171,NA,NA
+"3555","Sri Lanka",2011,731,9666,NA,NA
+"3556","Sri Lanka",2012,553,10663,NA,NA
+"3557","Sri Lanka",2013,1373,11370,NA,NA
+"3558","Sri Lanka",2014,1655,15620,NA,NA
+"3559","Sri Lanka",2015,1956,18000,NA,NA
+"3560","Sri Lanka",2016,2588,15651,NA,NA
+"3561","Sri Lanka",2017,2923,13773,NA,NA
+"3562","Sri Lanka",2018,3213,22744,NA,NA
+"3563","Sri Lanka",2019,3453,22446,NA,NA
+"3564","Sri Lanka",2020,3283,19274,NA,NA
+"3565","Sweden",2018,0,0,NA,NA
+"3566","Sweden",2019,0,0,NA,NA
+"3567","Sweden",2020,0,0,NA,NA
+"3568","Timor-Leste",1961,NA,NA,NA,NA
+"3569","Timor-Leste",1962,NA,NA,NA,NA
+"3570","Timor-Leste",1963,NA,NA,NA,NA
+"3571","Timor-Leste",1964,NA,NA,NA,NA
+"3572","Timor-Leste",1965,NA,NA,NA,NA
+"3573","Timor-Leste",1966,NA,NA,NA,NA
+"3574","Timor-Leste",1967,NA,NA,NA,NA
+"3575","Timor-Leste",1968,NA,NA,NA,NA
+"3576","Timor-Leste",1969,NA,NA,NA,NA
+"3577","Timor-Leste",1970,NA,NA,NA,NA
+"3578","Timor-Leste",1971,NA,NA,NA,NA
+"3579","Timor-Leste",1972,NA,NA,NA,NA
+"3580","Timor-Leste",1973,NA,NA,NA,NA
+"3581","Timor-Leste",1974,NA,NA,NA,NA
+"3582","Timor-Leste",1975,NA,NA,NA,NA
+"3583","Timor-Leste",1976,NA,NA,NA,NA
+"3584","Timor-Leste",1977,NA,NA,NA,NA
+"3585","Timor-Leste",1978,NA,NA,NA,NA
+"3586","Timor-Leste",1979,NA,NA,NA,NA
+"3587","Timor-Leste",1980,NA,NA,NA,NA
+"3588","Timor-Leste",1981,NA,NA,NA,NA
+"3589","Timor-Leste",1982,NA,NA,NA,NA
+"3590","Timor-Leste",1983,NA,NA,NA,NA
+"3591","Timor-Leste",1984,NA,NA,NA,NA
+"3592","Timor-Leste",1985,NA,NA,NA,NA
+"3593","Timor-Leste",1986,NA,NA,NA,NA
+"3594","Timor-Leste",1987,NA,NA,NA,NA
+"3595","Timor-Leste",1988,NA,NA,NA,NA
+"3596","Timor-Leste",1989,NA,NA,NA,NA
+"3597","Timor-Leste",1990,NA,NA,NA,NA
+"3598","Timor-Leste",1991,NA,NA,NA,NA
+"3599","Timor-Leste",1992,NA,NA,NA,NA
+"3600","Timor-Leste",1993,90,99,NA,NA
+"3601","Timor-Leste",1994,95,191,NA,NA
+"3602","Timor-Leste",1995,153,282,NA,NA
+"3603","Timor-Leste",1996,188,1068,NA,NA
+"3604","Timor-Leste",1997,98,804,NA,NA
+"3605","Timor-Leste",1998,72,457,NA,NA
+"3606","Timor-Leste",1999,67,376,NA,NA
+"3607","Timor-Leste",2000,70,690,NA,NA
+"3608","Timor-Leste",2001,90,1000,NA,NA
+"3609","Timor-Leste",2002,100,1300,NA,NA
+"3610","Timor-Leste",2003,110,1600,NA,NA
+"3611","Timor-Leste",2004,130,2000,NA,NA
+"3612","Timor-Leste",2005,150,2300,NA,NA
+"3613","Timor-Leste",2006,190,2600,NA,NA
+"3614","Timor-Leste",2007,200,2900,NA,NA
+"3615","Timor-Leste",2008,237,3551,NA,NA
+"3616","Timor-Leste",2009,296,3440,NA,NA
+"3617","Timor-Leste",2010,296,3440,NA,NA
+"3618","Timor-Leste",2011,292,3560,NA,NA
+"3619","Timor-Leste",2012,311,4081,NA,NA
+"3620","Timor-Leste",2013,322,4161,NA,NA
+"3621","Timor-Leste",2014,331,4237,NA,NA
+"3622","Timor-Leste",2015,348,4444,NA,NA
+"3623","Timor-Leste",2016,334,4281,NA,NA
+"3624","Timor-Leste",2017,338,4320,NA,NA
+"3625","Timor-Leste",2018,340,4348,NA,NA
+"3626","Timor-Leste",2019,337,4316,NA,NA
+"3627","Timor-Leste",2020,338,4328,NA,NA
+"3628","Trinidad and Tobago",1961,NA,180,NA,NA
+"3629","Trinidad and Tobago",1962,NA,190,NA,NA
+"3630","Trinidad and Tobago",1963,NA,202,NA,NA
+"3631","Trinidad and Tobago",1964,NA,210,NA,NA
+"3632","Trinidad and Tobago",1965,NA,220,NA,NA
+"3633","Trinidad and Tobago",1966,NA,230,NA,NA
+"3634","Trinidad and Tobago",1967,NA,250,NA,NA
+"3635","Trinidad and Tobago",1968,NA,270,NA,NA
+"3636","Trinidad and Tobago",1969,NA,240,NA,NA
+"3637","Trinidad and Tobago",1970,NA,220,NA,NA
+"3638","Trinidad and Tobago",1971,NA,190,NA,NA
+"3639","Trinidad and Tobago",1972,NA,170,NA,NA
+"3640","Trinidad and Tobago",1973,NA,150,NA,NA
+"3641","Trinidad and Tobago",1974,NA,160,NA,NA
+"3642","Trinidad and Tobago",1975,NA,170,NA,NA
+"3643","Trinidad and Tobago",1976,NA,180,NA,NA
+"3644","Trinidad and Tobago",1977,NA,190,NA,NA
+"3645","Trinidad and Tobago",1978,NA,200,NA,NA
+"3646","Trinidad and Tobago",1979,NA,210,NA,NA
+"3647","Trinidad and Tobago",1980,NA,220,NA,NA
+"3648","Trinidad and Tobago",1981,NA,240,NA,NA
+"3649","Trinidad and Tobago",1982,NA,250,NA,NA
+"3650","Trinidad and Tobago",1983,NA,260,NA,NA
+"3651","Trinidad and Tobago",1984,NA,270,NA,NA
+"3652","Trinidad and Tobago",1985,55,270,NA,NA
+"3653","Trinidad and Tobago",1986,55,280,NA,NA
+"3654","Trinidad and Tobago",1987,55,290,NA,NA
+"3655","Trinidad and Tobago",1988,55,300,NA,NA
+"3656","Trinidad and Tobago",1989,55,310,NA,NA
+"3657","Trinidad and Tobago",1990,54,363,NA,NA
+"3658","Trinidad and Tobago",1991,42,253,NA,NA
+"3659","Trinidad and Tobago",1992,42,256,NA,NA
+"3660","Trinidad and Tobago",1993,40,270,NA,NA
+"3661","Trinidad and Tobago",1994,55,337,NA,NA
+"3662","Trinidad and Tobago",1995,52,314,NA,NA
+"3663","Trinidad and Tobago",1996,54,322,NA,NA
+"3664","Trinidad and Tobago",1997,56,329,NA,NA
+"3665","Trinidad and Tobago",1998,58,326,NA,NA
+"3666","Trinidad and Tobago",1999,60,336,NA,NA
+"3667","Trinidad and Tobago",2000,60,320,NA,NA
+"3668","Trinidad and Tobago",2001,65,350,NA,NA
+"3669","Trinidad and Tobago",2002,70,380,NA,NA
+"3670","Trinidad and Tobago",2003,75,400,NA,NA
+"3671","Trinidad and Tobago",2004,80,430,NA,NA
+"3672","Trinidad and Tobago",2005,85,460,NA,NA
+"3673","Trinidad and Tobago",2006,90,460,NA,NA
+"3674","Trinidad and Tobago",2007,95,470,NA,NA
+"3675","Trinidad and Tobago",2008,95,470,NA,NA
+"3676","Trinidad and Tobago",2009,100,480,NA,NA
+"3677","Trinidad and Tobago",2010,100,517,NA,NA
+"3678","Trinidad and Tobago",2011,103,542,NA,NA
+"3679","Trinidad and Tobago",2012,100,600,NA,NA
+"3680","Trinidad and Tobago",2013,110,592,NA,NA
+"3681","Trinidad and Tobago",2014,113,596,NA,NA
+"3682","Trinidad and Tobago",2015,115,614,NA,6
+"3683","Trinidad and Tobago",2016,118,601,NA,1
+"3684","Trinidad and Tobago",2017,116,604,NA,NA
+"3685","Trinidad and Tobago",2018,116,606,NA,NA
+"3686","Trinidad and Tobago",2019,117,603,NA,NA
+"3687","Trinidad and Tobago",2020,116,604,NA,NA
+"3688","Tunisia",1961,NA,NA,NA,NA
+"3689","Tunisia",1962,NA,NA,NA,NA
+"3690","Tunisia",1963,NA,NA,NA,NA
+"3691","Tunisia",1964,NA,NA,NA,NA
+"3692","Tunisia",1965,NA,NA,NA,NA
+"3693","Tunisia",1966,NA,NA,NA,NA
+"3694","Tunisia",1967,NA,NA,NA,NA
+"3695","Tunisia",1968,NA,NA,NA,NA
+"3696","Tunisia",1969,NA,NA,NA,NA
+"3697","Tunisia",1970,NA,NA,NA,NA
+"3698","Tunisia",1971,NA,NA,NA,NA
+"3699","Tunisia",1972,NA,NA,NA,NA
+"3700","Tunisia",1973,NA,NA,NA,NA
+"3701","Tunisia",1974,NA,NA,NA,NA
+"3702","Tunisia",1975,NA,NA,NA,NA
+"3703","Tunisia",1976,NA,NA,NA,NA
+"3704","Tunisia",1977,NA,NA,NA,NA
+"3705","Tunisia",1978,NA,NA,NA,NA
+"3706","Tunisia",1979,NA,NA,NA,NA
+"3707","Tunisia",1980,NA,NA,NA,NA
+"3708","Tunisia",1981,NA,NA,NA,NA
+"3709","Tunisia",1982,NA,NA,NA,NA
+"3710","Tunisia",1983,NA,NA,NA,NA
+"3711","Tunisia",1984,NA,NA,NA,NA
+"3712","Tunisia",1985,NA,NA,NA,NA
+"3713","Tunisia",1986,NA,NA,NA,NA
+"3714","Tunisia",1987,NA,NA,NA,NA
+"3715","Tunisia",1988,NA,NA,NA,NA
+"3716","Tunisia",1989,NA,NA,NA,NA
+"3717","Tunisia",1990,NA,NA,NA,NA
+"3718","Tunisia",1991,NA,NA,NA,NA
+"3719","Tunisia",1992,NA,NA,NA,NA
+"3720","Tunisia",1993,NA,NA,NA,NA
+"3721","Tunisia",1994,NA,NA,NA,NA
+"3722","Tunisia",1995,NA,NA,NA,NA
+"3723","Tunisia",1996,NA,NA,NA,NA
+"3724","Tunisia",1997,NA,NA,NA,NA
+"3725","Tunisia",1998,24,225,NA,NA
+"3726","Tunisia",1999,24,225,NA,NA
+"3727","Tunisia",2000,25,230,NA,NA
+"3728","Tunisia",2001,25,243,NA,NA
+"3729","Tunisia",2002,25,244,NA,NA
+"3730","Tunisia",2003,25,250,NA,NA
+"3731","Tunisia",2004,25,256,NA,NA
+"3732","Tunisia",2005,25,261,NA,NA
+"3733","Tunisia",2006,26,267,NA,NA
+"3734","Tunisia",2007,26,272,NA,NA
+"3735","Tunisia",2008,27,278,NA,NA
+"3736","Tunisia",2009,27,283,NA,NA
+"3737","Tunisia",2010,27,289,NA,NA
+"3738","Tunisia",2011,28,295,NA,NA
+"3739","Tunisia",2012,27,300,NA,NA
+"3740","Tunisia",2013,29,306,NA,NA
+"3741","Tunisia",2014,29,312,NA,NA
+"3742","Tunisia",2015,29,318,NA,NA
+"3743","Tunisia",2016,29,323,NA,NA
+"3744","Tunisia",2017,30,318,NA,NA
+"3745","Tunisia",2018,30,320,NA,NA
+"3746","Tunisia",2019,30,320,NA,NA
+"3747","Tunisia",2020,30,319,NA,NA
+"3748","Turkey",1988,25,100,NA,NA
+"3749","Turkey",1989,25,100,NA,NA
+"3750","Turkey",1990,27,101,NA,NA
+"3751","Turkey",1991,6,59,NA,NA
+"3752","Turkey",1992,8,70,NA,NA
+"3753","Turkey",1993,12,114,NA,NA
+"3754","Turkey",1994,14,129,NA,NA
+"3755","Turkey",1995,18,153,NA,NA
+"3756","Turkey",1996,21,164,NA,NA
+"3757","Turkey",1997,22,225,NA,NA
+"3758","Turkey",1998,24,270,NA,NA
+"3759","Turkey",1999,24,285,NA,NA
+"3760","Turkey",2000,25,300,NA,NA
+"3761","Turkey",2001,35,350,4,NA
+"3762","Turkey",2002,55,400,NA,NA
+"3763","Turkey",2003,60,370,NA,NA
+"3764","Turkey",2004,70,400,NA,NA
+"3765","Turkey",2005,72,475,NA,NA
+"3766","Turkey",2006,74,492,NA,NA
+"3767","Turkey",2007,113,931,NA,NA
+"3768","Turkey",2008,121,958,NA,NA
+"3769","Turkey",2009,143,1169,NA,NA
+"3770","Turkey",2010,146,1207,NA,NA
+"3771","Turkey",2011,155,1316,NA,NA
+"3772","Turkey",2012,183,1463,NA,NA
+"3773","Turkey",2013,194,1599,NA,NA
+"3774","Turkey",2014,447,1824,NA,NA
+"3775","Turkey",2015,473,1850,NA,NA
+"3776","Turkey",2016,488,1950,NA,NA
+"3777","Turkey",2017,532,2765,NA,NA
+"3778","Turkey",2018,556,3164,NA,NA
+"3779","Turkey",2019,949,4209,NA,NA
+"3780","Turkey",2020,1265,5923,NA,NA
+"3781","United States of America",1961,10480,51342,NA,NA
+"3782","United States of America",1962,10640,47382,NA,NA
+"3783","United States of America",1963,10930,55579,NA,NA
+"3784","United States of America",1964,10840,33752,NA,NA
+"3785","United States of America",1965,9750,55681,NA,NA
+"3786","United States of America",1966,9670,55704,NA,NA
+"3787","United States of America",1967,9750,73400,NA,NA
+"3788","United States of America",1968,10000,47811,NA,NA
+"3789","United States of America",1969,9510,67319,NA,NA
+"3790","United States of America",1970,9630,41854,NA,NA
+"3791","United States of America",1971,9910,78190,NA,NA
+"3792","United States of America",1972,10200,41646,NA,NA
+"3793","United States of America",1973,10840,81354,NA,NA
+"3794","United States of America",1974,12140,67374,NA,NA
+"3795","United States of America",1975,13310,79748,NA,NA
+"3796","United States of America",1976,15460,128525,NA,NA
+"3797","United States of America",1977,18010,106775,NA,NA
+"3798","United States of America",1978,20720,132540,NA,NA
+"3799","United States of America",1979,24040,92800,NA,NA
+"3800","United States of America",1980,27150,243850,NA,NA
+"3801","United States of America",1981,29540,165830,NA,NA
+"3802","United States of America",1982,31560,214730,NA,NA
+"3803","United States of America",1983,33590,248570,NA,NA
+"3804","United States of America",1984,33990,208200,NA,NA
+"3805","United States of America",1985,34480,171000,NA,NA
+"3806","United States of America",1986,34920,274900,NA,NA
+"3807","United States of America",1987,34840,189600,NA,NA
+"3808","United States of America",1988,34960,175100,NA,NA
+"3809","United States of America",1989,34760,126100,NA,NA
+"3810","United States of America",1990,33790,141500,NA,NA
+"3811","United States of America",1991,33350,167800,NA,NA
+"3812","United States of America",1992,32990,264535,NA,NA
+"3813","United States of America",1993,29520,130362,NA,NA
+"3814","United States of America",1994,27200,158750,NA,NA
+"3815","United States of America",1995,27160,172360,NA,NA
+"3816","United States of America",1996,26630,173000,NA,NA
+"3817","United States of America",1997,26730,161270,NA,NA
+"3818","United States of America",1998,26560,144500,NA,NA
+"3819","United States of America",1999,26358,166288,NA,NA
+"3820","United States of America",2000,26395,217091,NA,NA
+"3821","United States of America",2001,26155,202570,NA,NA
+"3822","United States of America",2002,26568,180894,NA,NA
+"3823","United States of America",2003,27074,211737,NA,NA
+"3824","United States of America",2004,27790,162749,NA,NA
+"3825","United States of America",2005,27357,283405,NA,NA
+"3826","United States of America",2006,29070,247000,NA,NA
+"3827","United States of America",2007,29684,193100,NA,NA
+"3828","United States of America",2008,29473,105230,NA,NA
+"3829","United States of America",2009,26819,270813,NA,NA
+"3830","United States of America",2010,24253,158150,NA,NA
+"3831","United States of America",2011,24261,205432,NA,NA
+"3832","United States of America",2012,25000,238495,NA,NA
+"3833","United States of America",2013,24767,166106,NA,NA
+"3834","United States of America",2014,23876,179124,NA,NA
+"3835","United States of America",2015,23990,207750,NA,NA
+"3836","United States of America",2016,23350,125237,NA,NA
+"3837","United States of America",2017,23530,170260,NA,NA
+"3838","United States of America",2018,21710,168530,NA,NA
+"3839","United States of America",2019,21416,122670,NA,NA
+"3840","United States of America",2020,21335,187433,NA,NA
+"3841","Venezuela (Bolivarian Republic of)",1961,11935,53710,NA,NA
+"3842","Venezuela (Bolivarian Republic of)",1962,11962,53832,NA,NA
+"3843","Venezuela (Bolivarian Republic of)",1963,11990,53958,NA,NA
+"3844","Venezuela (Bolivarian Republic of)",1964,12017,54079,NA,NA
+"3845","Venezuela (Bolivarian Republic of)",1965,12045,54205,NA,NA
+"3846","Venezuela (Bolivarian Republic of)",1966,12073,48627,NA,NA
+"3847","Venezuela (Bolivarian Republic of)",1967,12101,47752,NA,NA
+"3848","Venezuela (Bolivarian Republic of)",1968,12130,46892,NA,NA
+"3849","Venezuela (Bolivarian Republic of)",1969,12158,46048,NA,NA
+"3850","Venezuela (Bolivarian Republic of)",1970,12186,45219,NA,NA
+"3851","Venezuela (Bolivarian Republic of)",1971,10337,40725,NA,NA
+"3852","Venezuela (Bolivarian Republic of)",1972,10400,42403,NA,NA
+"3853","Venezuela (Bolivarian Republic of)",1973,10485,43941,NA,NA
+"3854","Venezuela (Bolivarian Republic of)",1974,10129,43502,NA,NA
+"3855","Venezuela (Bolivarian Republic of)",1975,10923,48422,NA,NA
+"3856","Venezuela (Bolivarian Republic of)",1976,10114,40637,NA,NA
+"3857","Venezuela (Bolivarian Republic of)",1977,10700,46673,NA,NA
+"3858","Venezuela (Bolivarian Republic of)",1978,9890,39014,NA,NA
+"3859","Venezuela (Bolivarian Republic of)",1979,9980,41092,NA,NA
+"3860","Venezuela (Bolivarian Republic of)",1980,10292,44595,NA,NA
+"3861","Venezuela (Bolivarian Republic of)",1981,10512,46266,NA,NA
+"3862","Venezuela (Bolivarian Republic of)",1982,10569,45731,NA,NA
+"3863","Venezuela (Bolivarian Republic of)",1983,10670,47034,NA,NA
+"3864","Venezuela (Bolivarian Republic of)",1984,9933,43229,NA,NA
+"3865","Venezuela (Bolivarian Republic of)",1985,9640,41832,NA,NA
+"3866","Venezuela (Bolivarian Republic of)",1986,9780,43171,NA,NA
+"3867","Venezuela (Bolivarian Republic of)",1987,9845,42430,NA,NA
+"3868","Venezuela (Bolivarian Republic of)",1988,10247,45866,NA,NA
+"3869","Venezuela (Bolivarian Republic of)",1989,10849,49031,NA,NA
+"3870","Venezuela (Bolivarian Republic of)",1990,11024,50765,NA,NA
+"3871","Venezuela (Bolivarian Republic of)",1991,11443,53351,NA,NA
+"3872","Venezuela (Bolivarian Republic of)",1992,11265,51648,NA,NA
+"3873","Venezuela (Bolivarian Republic of)",1993,11030,51811,NA,NA
+"3874","Venezuela (Bolivarian Republic of)",1994,12455,40242,NA,NA
+"3875","Venezuela (Bolivarian Republic of)",1995,12321,41449,NA,NA
+"3876","Venezuela (Bolivarian Republic of)",1996,10785,36282,NA,NA
+"3877","Venezuela (Bolivarian Republic of)",1997,4196,38560,NA,NA
+"3878","Venezuela (Bolivarian Republic of)",1998,4785,41661,NA,NA
+"3879","Venezuela (Bolivarian Republic of)",1999,5611,41467,NA,3
+"3880","Venezuela (Bolivarian Republic of)",2000,6834,52294,NA,NA
+"3881","Venezuela (Bolivarian Republic of)",2001,5878,44465,NA,NA
+"3882","Venezuela (Bolivarian Republic of)",2002,6309,49895,NA,NA
+"3883","Venezuela (Bolivarian Republic of)",2003,6063,46229,NA,NA
+"3884","Venezuela (Bolivarian Republic of)",2004,6458,52428,NA,NA
+"3885","Venezuela (Bolivarian Republic of)",2005,7220,63109,NA,NA
+"3886","Venezuela (Bolivarian Republic of)",2006,7692,58663,NA,NA
+"3887","Venezuela (Bolivarian Republic of)",2007,8122,83304,NA,NA
+"3888","Venezuela (Bolivarian Republic of)",2008,6396,71771,NA,NA
+"3889","Venezuela (Bolivarian Republic of)",2009,6500,68701,NA,NA
+"3890","Venezuela (Bolivarian Republic of)",2010,8078,83618,NA,NA
+"3891","Venezuela (Bolivarian Republic of)",2011,8494,107301,NA,NA
+"3892","Venezuela (Bolivarian Republic of)",2012,9764,116964,NA,NA
+"3893","Venezuela (Bolivarian Republic of)",2013,9949,112670,NA,NA
+"3894","Venezuela (Bolivarian Republic of)",2014,10998,121576,NA,NA
+"3895","Venezuela (Bolivarian Republic of)",2015,11318,128601,NA,NA
+"3896","Venezuela (Bolivarian Republic of)",2016,11908,130635,NA,NA
+"3897","Venezuela (Bolivarian Republic of)",2017,12489,143229,NA,NA
+"3898","Venezuela (Bolivarian Republic of)",2018,11792,132082,NA,NA
+"3899","Venezuela (Bolivarian Republic of)",2019,11957,130109,NA,NA
+"3900","Venezuela (Bolivarian Republic of)",2020,11525,132448,NA,NA
+"3901","Zimbabwe",1961,NA,NA,NA,NA
+"3902","Zimbabwe",1962,NA,NA,NA,NA
+"3903","Zimbabwe",1963,NA,NA,NA,NA
+"3904","Zimbabwe",1964,NA,NA,NA,NA
+"3905","Zimbabwe",1965,NA,NA,NA,NA
+"3906","Zimbabwe",1966,NA,NA,NA,NA
+"3907","Zimbabwe",1967,NA,NA,NA,NA
+"3908","Zimbabwe",1968,NA,NA,NA,NA
+"3909","Zimbabwe",1969,NA,NA,NA,NA
+"3910","Zimbabwe",1970,NA,NA,NA,NA
+"3911","Zimbabwe",1971,NA,NA,NA,NA
+"3912","Zimbabwe",1972,NA,NA,NA,NA
+"3913","Zimbabwe",1973,NA,NA,NA,NA
+"3914","Zimbabwe",1974,NA,NA,NA,NA
+"3915","Zimbabwe",1975,NA,NA,NA,NA
+"3916","Zimbabwe",1976,NA,NA,NA,NA
+"3917","Zimbabwe",1977,NA,NA,NA,NA
+"3918","Zimbabwe",1978,NA,NA,NA,NA
+"3919","Zimbabwe",1979,NA,NA,NA,NA
+"3920","Zimbabwe",1980,NA,NA,NA,NA
+"3921","Zimbabwe",1981,NA,NA,NA,NA
+"3922","Zimbabwe",1982,NA,NA,NA,NA
+"3923","Zimbabwe",1983,NA,NA,NA,NA
+"3924","Zimbabwe",1984,NA,NA,NA,NA
+"3925","Zimbabwe",1985,NA,NA,NA,NA
+"3926","Zimbabwe",1986,NA,NA,NA,NA
+"3927","Zimbabwe",1987,NA,NA,NA,NA
+"3928","Zimbabwe",1988,NA,NA,NA,NA
+"3929","Zimbabwe",1989,NA,NA,NA,NA
+"3930","Zimbabwe",1990,110,500,NA,NA
+"3931","Zimbabwe",1991,109,511,NA,NA
+"3932","Zimbabwe",1992,113,536,NA,NA
+"3933","Zimbabwe",1993,118,561,NA,NA
+"3934","Zimbabwe",1994,122,587,NA,NA
+"3935","Zimbabwe",1995,127,614,NA,NA
+"3936","Zimbabwe",1996,131,637,NA,NA
+"3937","Zimbabwe",1997,136,667,NA,NA
+"3938","Zimbabwe",1998,142,698,NA,NA
+"3939","Zimbabwe",1999,155,700,NA,NA
+"3940","Zimbabwe",2000,154,791,NA,NA
+"3941","Zimbabwe",2001,160,850,NA,NA
+"3942","Zimbabwe",2002,170,1000,NA,NA
+"3943","Zimbabwe",2003,190,1100,NA,NA
+"3944","Zimbabwe",2004,200,1106,NA,NA
+"3945","Zimbabwe",2005,206,1144,NA,NA
+"3946","Zimbabwe",2006,212,1179,NA,NA
+"3947","Zimbabwe",2007,215,1200,NA,NA
+"3948","Zimbabwe",2008,219,1229,NA,NA
+"3949","Zimbabwe",2009,223,1255,NA,NA
+"3950","Zimbabwe",2010,227,1281,NA,NA
+"3951","Zimbabwe",2011,231,1306,NA,NA
+"3952","Zimbabwe",2012,230,1300,NA,NA
+"3953","Zimbabwe",2013,230,1300,NA,NA
+"3954","Zimbabwe",2014,245,1400,NA,NA
+"3955","Zimbabwe",2015,293,1700,NA,NA
+"3956","Zimbabwe",2016,310,1800,NA,NA
+"3957","Zimbabwe",2017,517,3000,NA,NA
+"3958","Zimbabwe",2018,906,5300,NA,NA
+"3959","Zimbabwe",2019,579,3367,NA,NA
+"3960","Zimbabwe",2020,701,4085,NA,NA
