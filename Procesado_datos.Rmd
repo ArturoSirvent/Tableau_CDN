@@ -1,0 +1,73 @@
+---
+title: "Data"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data
+
+```{r}
+library(readr)
+Produccion <- read_csv("FaostatProduccion.csv")
+```
+
+
+```{r}
+library(dplyr)
+Produccion_Area <- Produccion %>% filter(Item=='Avocados', Element=='Area harvested')  %>%
+                                  select(Area, Year, Value) %>%  
+                                  rename(ACultivo_ha=Value)
+
+
+summary(Produccion_Area)
+dim(Produccion_Area)
+```
+
+```{r}
+Produccion_Pro <- Produccion %>% filter(Item=='Avocados', Element=='Production')  %>%
+                                  select(Area, Year, Value) %>% 
+                                  rename(Produccion_Tonel=Value)
+summary(Produccion_Pro)
+dim(Produccion_Pro)
+```
+
+```{r}
+
+Import_Export <- read_csv("FaostatComercio.csv")
+View(Import_Export )
+```
+
+```{r}
+Import <- Import_Export %>% filter(Item=='Avocados', Element=='Import Quantity') %>% 
+                            select(`Partner Countries`, Year, Value) %>% 
+                            rename(Cantidad_importada=Value, Area=`Partner Countries`)
+
+summary(Import)
+```
+
+
+```{r}
+Export <- Import_Export %>% filter(Item=='Avocados', Element=='Export Quantity') %>% 
+                            select(`Partner Countries`, Year, Value) %>% 
+                            rename(Cantidad_exportada=Value,Area=`Partner Countries`)
+
+summary(Export)
+```
+
+```{r}
+data <- merge(Produccion_Area,Produccion_Pro)
+data <- merge(data, Import, all.x=TRUE)
+data <- merge(data, Export, all.x = TRUE)
+
+
+```
+
+```{r}
+write.csv(data, file('./data.csv'))
+```
+
+
+
