@@ -9,18 +9,18 @@ que se ha dado desde hace unos años. Las bases de datos usadas fueron:
 2. Datos sobre la exportación e importación de aguacates a nivel mundial (por país y fecha).  
 3. Datos sobre la exporatción e importación de mangos a nivel muncial (por país y fecha).
 
-# Dashboard1  
+# Dashboard1    
 
-En esta tabla de mandos podemos ver información sobre el consumo de aguacates en Estados Unidos.  
-A la derecha vemos un mapa con los diferentes estados y en color el precio medio. Otra idea para la representación sería la de representar el consumo medio de aguacates 
-por habitantes de cada estado. Para ello habríamos necesitado de las poblaciones en cada uno.   
+En este primer dashboard representamos el consumo de aguacates en estados unidos.  
 
-También hemos hemos representado el porcentaje de aguacates tipo orgánico que se consumen en comparación con los convencionales. En la grafica de abajo a la derecha vemos
-como si bien ha aumentado con el tiempo, estos representan una minoría con respecto a los de cultivo convencional. Y en el diagrama tarta se deja constancia de ello.  
+Podemos ver diferentes datos extraidos desde el dataset. Desde los diferentes precios medios por zona, hasta la evolución del consumo por fecha.  
 
-Por último tenemos un diagrama de barras con los consumon en las diferentes zonas de estados unidos (que no estados). Tableau permite algo muy interesante, que es
-aplicar filtros, de forma que podemos filtrar por zona y por tipo de consumo, y eso nos actualizará el resto del dashboard, asi podemos analizar cosas con mas detalle.  
+A la derecha representamos un mapa cloropleth con el precio medio del aguacate en los diferentes estados de estados unidos. Otra buena idea sería 
+representar el consumo medio de aguacates por habitante de cada estado. Con este tipo de representaciones cloropleth hay que tener cuidado porque grandes areas pueden verse sobrerepresentadas al no tener en cuenta las densidades de poblacion por ejemplo.  
 
+Abajo a la derecha vemos la evolución de consumo de los dos tipos de aguacate que distingimos, organico y convencional. Para ambos vemos un aumento en el consumo con el tiempo, pero ambos manejan escalas diferentes. De hecho, gracias a este otro gráfico en secciones, podemos confimar que el mercado se centra en aguacates de tipo convencional y no de cultivo orgánico. 
+
+Por último tenemos un diagrama de barras con los consumon en las diferentes zonas de estados unidos (que no estados). Tableau permite algo muy interesante, que es aplicar filtros, de forma que podemos filtrar por zona y por tipo de consumo, y eso nos actualizará el resto del dashboard, asi podemos analizar cosas con mas detalle.  
 
 # Dashboard2   
 
